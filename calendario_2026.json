@@ -1,0 +1,574 @@
+[
+  {
+    "COMENTARIO": "======= ENERO =======",
+    "fecha": "2026-01-03",
+    "titulo": "El Santísimo Nombre de Jesús",
+    "tiempo": "Tiempo de Navidad",
+    "color": "#FFFFFF",
+    "frase": "“Éste es el Cordero de Dios”",
+    "santo":"Santa Estefanía Quinzani",
+    "lectura": "Juan 1,29-34",
+    "imagen": "tiempo_navidad"
+  },
+  {
+    "fecha": "2026-01-04",
+    "titulo": "La Epifanía del Señor",
+    "tiempo": "Tiempo de Navidad",
+    "color": "#FFFFFF",
+    "frase": "El Verbo se hizo carne y habitó entre nosotros",
+    "santo":"San Rigoberto obispo",
+    "lectura": "Juan 1, 1-18",
+    "imagen": "tiempo_navidad"
+  },
+  {
+    "fecha": "2026-01-05",
+    "titulo": "",
+    "tiempo": "Tiempo de Navidad",
+    "color": "#FFFFFF",
+    "frase": "Tú eres el Hijo de Dios, el Rey de Israel.",
+    "santo":"San Juan Nepomuceno Neumann",
+    "lectura": "Juan 1, 43-51",
+    "imagen": "tiempo_navidad"
+  },
+  {
+    "fecha": "2026-01-06",
+    "titulo": "La Epifanía del Señor",
+    "tiempo": "Tiempo de Navidad",
+    "color": "#FFFFFF",
+    "frase": "Venimos a adorar al Rey",
+    "santo":"San Pedro Tomás",
+    "lectura": "Mateo 2, 1-12",
+    "imagen": "xxxxxxxxxxxxxxxxxxxxxx"
+  },
+  {
+    "fecha": "2026-01-07",
+    "titulo": "",
+    "tiempo": "Tiempo de Navidad",
+    "color": "#FFFFFF",
+    "frase": "Está cerca el reino de los cielos.",
+    "santo":"San Raimundo de Peñafort",
+    "lectura": "Mateo 4, 12-17. 23-25.",
+    "imagen": "tiempo_navidad"
+  },
+  {
+    "fecha": "2026-01-08",
+    "titulo": "",
+    "tiempo": "Tiempo de Navidad",
+    "color": "#FFFFFF",
+    "frase": "Al multiplicar los panes Jesús se manifiesta como profeta.",
+    "santo":"San Severino",
+    "lectura": "Marcos 6, 34-44. ",
+    "imagen": "tiempo_navidad"
+  },
+  {
+    "fecha": "2026-01-09",
+    "titulo": "",
+    "tiempo": "Tiempo de Navidad",
+    "color": "#FFFFFF",
+    "frase": "Lo vieron andar sobre el mar.",
+    "santo":"Santa Lucrecia",
+    "lectura": "Marcos 6,45-52",
+    "imagen": "tiempo_navidad"
+  },
+  {
+    "fecha": "2026-01-10",
+    "titulo": "",
+    "tiempo": "Tiempo de Navidad",
+    "color": "#FFFFFF",
+    "frase": "Hoy se ha cumplido esta Escritura.",
+    "santo":"San Guillermo de Bourges",
+    "lectura": "Lucas 4, 14-22",
+    "imagen": "tiempo_navidad"
+  },
+  {
+    "fecha": "2026-01-11",
+    "titulo": "El Bautismo del Señor",
+    "tiempo": "Tiempo de Navidad",
+    "color": "#FFFFFF",
+    "frase": "Se bautizó Jesús y vio que el Espíritu de Dios se posaba sobre él",
+    "santo":"Santo Tomás de Cori",
+    "lectura": "Mateo 3, 13-17",
+    "imagen": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  },
+  {
+    "fecha": "2026-01-12",
+    "titulo": "I Semana del Tiempo Ordinario",
+    "tiempo": "Tiempo Ordinario",
+    "color": "#2E7D32",
+    "frase": "Convertíos y creed en el Evangelio.",
+    "santo":"San Benito Biscop",
+    "lectura": "Marcos 1, 14-20.",
+    "imagen": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  },
+  {
+    "fecha": "2026-01-13",
+    "titulo": "I Semana del Tiempo Ordinario",
+    "tiempo": "Tiempo Ordinario",
+    "color": "#2E7D32",
+    "frase": "Enseñaba con autoridad.",
+    "santo":"San Hilario, obispo y doctor de la Iglesia",
+    "lectura": "Marcos 1, 21-28",
+    "imagen": "imagen del santo crear"
+  },
+  {
+    "fecha": "2026-01-14",
+    "titulo": "I Semana del Tiempo Ordinario",
+    "tiempo": "Tiempo Ordinario",
+    "color": "#2E7D32",
+    "frase": "Curó a muchos enfermos de diversos males.",
+    "santo":"San Félix de Nola",
+    "lectura": "Marcos 1, 29-39",
+    "imagen": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  },
+  {
+    "fecha": "2026-01-15",
+    "titulo": "I Semana del Tiempo Ordinario",
+    "tiempo": "Tiempo Ordinario",
+    "color": "#2E7D32",
+    "frase": "La lepra se le quitó, y quedó limpio.",
+    "santo":"San Mauro abad, Santa Raquel",
+    "lectura": "Marcos 1, 40-45.",
+    "imagen": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  },
+  {
+    "fecha": "2026-01-16",
+    "titulo": "I Semana del Tiempo Ordinario",
+    "tiempo": "Tiempo Ordinario",
+    "color": "#2E7D32",
+    "frase": "El Hijo del hombre tiene potestad en la tierra para perdonar pecados.",
+    "santo":"San Marcelo I, San Berardo",
+    "lectura": "Marcos 2, 1-12.",
+    "imagen": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  },
+  {
+    "fecha": "2026-01-17",
+    "titulo": "I Semana del Tiempo Ordinario",
+    "tiempo": "Tiempo Ordinario",
+    "color": "#2E7D32",
+    "frase": "No he venido a llamar a los justos, sino a los pecadores.",
+    "santo":"San Antonio Abad",
+    "lectura": "Marcos 2, 13-17",
+    "imagen": "imagen del santo....!!!!!!!"
+  },
+  {
+    "fecha": "2026-01-18",
+    "titulo": "II Domingo del Tiempo Ordinario",
+    "tiempo": "Tiempo Ordinario",
+    "color": "#2E7D32",
+    "frase": "Éste es el Cordero de Dios que quita el pecado del mundo.",
+    "santo":"Santa Prisca",
+    "lectura": "Juan 1, 29-34",
+    "imagen": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  },
+  {
+    "fecha": "2026-01-19",
+    "titulo": "II Semana del Tiempo Ordinario",
+    "tiempo": "Tiempo Ordinario",
+    "color": "#2E7D32",
+    "frase": "El novio está con ellos.",
+    "santo":"Beato Marcelo Spínola",
+    "lectura": "Marcos 2, 18-22.",
+    "imagen": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  },
+  {
+    "fecha": "2026-01-20",
+    "titulo": "II Semana del Tiempo Ordinario",
+    "tiempo": "Tiempo Ordinario",
+    "color": "#2E7D32",
+    "frase": "El sábado se hizo para el hombre y no el hombre para el sábado.",
+    "santo":"San Sebastián, San Fabián, papa y mártir.",
+    "lectura": "Marcos 2, 23-28.",
+    "imagen": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  },
+  {
+    "fecha": "2026-01-21",
+    "titulo": "II Semana del Tiempo Ordinario",
+    "tiempo": "Tiempo Ordinario",
+    "color": "#2E7D32",
+    "frase": "¿Está permitido en sábado salvarle la vida a un hombre o dejarlo morir?",
+    "santo":"Santa Inés",
+    "lectura": "Marcos 3, 1-6.",
+    "imagen": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  },
+  {
+    "fecha": "2026-01-22",
+    "titulo": "II Semana del Tiempo Ordinario",
+    "tiempo": "Tiempo Ordinario",
+    "color": "#2E7D32",
+    "frase": "Los espíritus inmundos gritaban: «Tú eres el Hijo de Dios», pero él les prohibía que lo diesen a conocer.",
+    "santo":"San Vicente, diácono y mártir",
+    "lectura": "Marcos 3, 7-12.",
+    "imagen": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  },
+  {
+    "fecha": "2026-01-23",
+    "titulo": "II Semana del Tiempo Ordinario",
+    "tiempo": "Tiempo Ordinario",
+    "color": "#2E7D32",
+    "frase": "Fue llamando a los que él quiso y los hizo sus compañeros.",
+    "santo":"San Ildefonso",
+    "lectura": "Marcos 3, 13-19",
+    "imagen": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  },
+  {
+    "fecha": "2026-01-24",
+    "titulo": "II Semana del Tiempo Ordinario",
+    "tiempo": "Tiempo Ordinario",
+    "color": "#2E7D32",
+    "frase": "Su familia decía que no estaba en sus cabales.",
+    "santo":"San Francisco de Sales, obispo y doctor de la Iglesia",
+    "lectura": "Marcos 3, 20-21.",
+    "imagen": "imagen de san francisco de sales"
+  },
+  {
+    "fecha": "2026-01-25",
+    "titulo": "III Domingo del Tiempo Ordinario",
+    "tiempo": "Tiempo Ordinario",
+    "color": "#2E7D32",
+    "frase": "Se estableció en Cafarnaún, para que se cumpliera lo dicho por Isaías",
+    "santo":"La Conversión de San Pablo, apóstol",
+    "lectura": "Mateo 4, 12-23.",
+    "imagen": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  },
+  {
+    "fecha": "2026-01-26",
+    "titulo": "III Semana del Tiempo Ordinario",
+    "tiempo": "Tiempo Ordinario",
+    "color": "#2E7D32",
+    "frase": "Satanás está perdido",
+    "santo":"Timoteo y Tito",
+    "lectura": "Marcos 3,22-30.",
+    "imagen": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  },
+  {
+    "fecha": "2026-01-27",
+    "titulo": "III Semana del Tiempo Ordinario",
+    "tiempo": "Tiempo Ordinario",
+    "color": "#2E7D32",
+    "frase": "El que cumple la voluntad de Dios, ése es mi hermano y mi hermana y mi madre",
+    "santo":"Santa Ángela Merici",
+    "lectura": "Marcos 3,31-35.",
+    "imagen": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  },
+  {
+    "fecha": "2026-01-28",
+    "titulo": "III Semana del Tiempo Ordinario",
+    "tiempo": "Tiempo Ordinario",
+    "color": "#2E7D32",
+    "frase": "Salió el sembrador a sembrar.",
+    "santo":"Santo Tomás de Aquino",
+    "lectura": "Marcos 4,1-20.",
+    "imagen": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  },
+  {
+    "fecha": "2026-01-29",
+    "titulo": "III Semana del Tiempo Ordinario",
+    "tiempo": "Tiempo Ordinario",
+    "color": "#2E7D32",
+    "frase": "El candil se trae para ponerlo en el candelero.",
+    "santo":"San Pedro Nolasco",
+    "lectura": "Marcos 4,21-25.",
+    "imagen": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  },
+  {
+    "fecha": "2026-01-30",
+    "titulo": "III Semana del Tiempo Ordinario",
+    "tiempo": "Tiempo Ordinario",
+    "color": "#2E7D32",
+    "frase": "Echa simiente, duerme, y la semilla va creciendo sin que él sepa cómo",
+    "santo":"Santa Martina de Roma",
+    "lectura": "Marcos 4,26-34.",
+    "imagen": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  },
+  {
+    "fecha": "2026-01-31",
+    "titulo": "III Semana del Tiempo Ordinario",
+    "tiempo": "Tiempo Ordinario",
+    "color": "#2E7D32",
+    "frase": "¿Quién es éste? ¡Hasta el viento y las aguas le obedecen?",
+    "santo":"San Juan Bosco, Santa Marcela",
+    "lectura": "Marcos 4,35-41",
+    "imagen": "imagen de don bosco............111111111111111"
+  },
+  {
+    "COMENTARIO": "======= FEBRERO =======",
+    "fecha": "2026-02-01",
+    "titulo": "",
+    "tiempo": "",
+    "color": "",
+    "frase": "",
+    "santo":"",
+    "lectura": "",
+    "imagen": ""
+  },
+  {
+    "fecha": "2026-02-02",
+    "titulo": "",
+    "tiempo": "",
+    "color": "",
+    "frase": "",
+    "santo":"",
+    "lectura": "",
+    "imagen": ""
+  },
+  {
+    "fecha": "2026-02-03",
+    "titulo": "",
+    "tiempo": "",
+    "color": "",
+    "frase": "",
+    "santo":"",
+    "lectura": "",
+    "imagen": ""
+  },
+  {
+    "fecha": "2026-02-04",
+    "titulo": "",
+    "tiempo": "",
+    "color": "",
+    "frase": "",
+    "santo":"",
+    "lectura": "",
+    "imagen": ""
+  },
+  {
+    "fecha": "2026-02-05",
+    "titulo": "",
+    "tiempo": "",
+    "color": "",
+    "frase": "",
+    "santo":"",
+    "lectura": "",
+    "imagen": ""
+  },
+  {
+    "fecha": "2026-02-06",
+    "titulo": "",
+    "tiempo": "",
+    "color": "",
+    "frase": "",
+    "santo":"",
+    "lectura": "",
+    "imagen": ""
+  },
+  {
+    "fecha": "2026-02-07",
+    "titulo": "",
+    "tiempo": "",
+    "color": "",
+    "frase": "",
+    "santo":"",
+    "lectura": "",
+    "imagen": ""
+  },
+  {
+    "fecha": "2026-02-08",
+    "titulo": "",
+    "tiempo": "",
+    "color": "",
+    "frase": "",
+    "santo":"",
+    "lectura": "",
+    "imagen": ""
+  },
+  {
+    "fecha": "2026-02-09",
+    "titulo": "",
+    "tiempo": "",
+    "color": "",
+    "frase": "",
+    "santo":"",
+    "lectura": "",
+    "imagen": ""
+  },
+  {
+    "fecha": "2026-02-10",
+    "titulo": "",
+    "tiempo": "",
+    "color": "",
+    "frase": "",
+    "santo":"",
+    "lectura": "",
+    "imagen": ""
+  },
+  {
+    "fecha": "2026-02-11",
+    "titulo": "",
+    "tiempo": "",
+    "color": "",
+    "frase": "",
+    "santo":"",
+    "lectura": "",
+    "imagen": ""
+  },
+  {
+    "fecha": "2026-02-12",
+    "titulo": "",
+    "tiempo": "",
+    "color": "",
+    "frase": "",
+    "santo":"",
+    "lectura": "",
+    "imagen": ""
+  },
+  {
+    "fecha": "2026-02-13",
+    "titulo": "",
+    "tiempo": "",
+    "color": "",
+    "frase": "",
+    "santo":"",
+    "lectura": "",
+    "imagen": ""
+  },
+  {
+    "fecha": "2026-02-14",
+    "titulo": "",
+    "tiempo": "",
+    "color": "",
+    "frase": "",
+    "santo":"",
+    "lectura": "",
+    "imagen": ""
+  },
+  {
+    "fecha": "2026-02-15",
+    "titulo": "",
+    "tiempo": "",
+    "color": "",
+    "frase": "",
+    "santo":"",
+    "lectura": "",
+    "imagen": ""
+  },
+  {
+    "fecha": "2026-02-16",
+    "titulo": "",
+    "tiempo": "",
+    "color": "",
+    "frase": "",
+    "santo":"",
+    "lectura": "",
+    "imagen": ""
+  },
+  {
+    "fecha": "2026-02-17",
+    "titulo": "",
+    "tiempo": "",
+    "color": "",
+    "frase": "",
+    "santo":"",
+    "lectura": "",
+    "imagen": ""
+  },
+  {
+    "fecha": "2026-02-18",
+    "titulo": "",
+    "tiempo": "",
+    "color": "",
+    "frase": "",
+    "santo":"",
+    "lectura": "",
+    "imagen": ""
+  },
+  {
+    "fecha": "2026-02-19",
+    "titulo": "",
+    "tiempo": "",
+    "color": "",
+    "frase": "",
+    "santo":"",
+    "lectura": "",
+    "imagen": ""
+  },
+  {
+    "fecha": "2026-02-20",
+    "titulo": "",
+    "tiempo": "",
+    "color": "",
+    "frase": "",
+    "santo":"",
+    "lectura": "",
+    "imagen": ""
+  },
+  {
+    "fecha": "2026-02-21",
+    "titulo": "",
+    "tiempo": "",
+    "color": "",
+    "frase": "",
+    "santo":"",
+    "lectura": "",
+    "imagen": ""
+  },
+  {
+    "fecha": "2026-02-22",
+    "titulo": "",
+    "tiempo": "",
+    "color": "",
+    "frase": "",
+    "santo":"",
+    "lectura": "",
+    "imagen": ""
+  },
+  {
+    "fecha": "2026-02-23",
+    "titulo": "",
+    "tiempo": "",
+    "color": "",
+    "frase": "",
+    "santo":"",
+    "lectura": "",
+    "imagen": ""
+  },
+  {
+    "fecha": "2026-02-24",
+    "titulo": "",
+    "tiempo": "",
+    "color": "",
+    "frase": "",
+    "santo":"",
+    "lectura": "",
+    "imagen": ""
+  },
+  {
+    "fecha": "2026-02-25",
+    "titulo": "",
+    "tiempo": "",
+    "color": "",
+    "frase": "",
+    "santo":"",
+    "lectura": "",
+    "imagen": ""
+  },
+  {
+    "fecha": "2026-02-26",
+    "titulo": "",
+    "tiempo": "",
+    "color": "",
+    "frase": "",
+    "santo":"",
+    "lectura": "",
+    "imagen": ""
+  },
+  {
+    "fecha": "2026-02-27",
+    "titulo": "",
+    "tiempo": "",
+    "color": "",
+    "frase": "",
+    "santo":"",
+    "lectura": "",
+    "imagen": ""
+  },
+  {
+    "fecha": "2026-02-28",
+    "titulo": "",
+    "tiempo": "",
+    "color": "",
+    "frase": "",
+    "santo":"",
+    "lectura": "",
+    "imagen": ""
+  }
+]
