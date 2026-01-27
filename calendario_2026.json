@@ -1,5 +1,5 @@
 {
-  "version": "20260127135905",
+  "version": "20260127135923",
   "calendario": [
     {
       "fecha": "2026-01-25",
@@ -26,10 +26,10 @@
       "titulo": "III Semana del Tiempo Ordinario",
       "tiempo": "Tiempo Ordinario",
       "color": "#2E7D32",
-      "frase": "\"Veamos si la prueba funciona\"",
+      "frase": "\"Juvenal Cuenca\"",
       "santo": "Santa Ángela Merici, San Enrique de Ossó y Cervelló",
       "lectura": "Marcos 3,31-35.",
-      "imagen": "sanjuanbosco"
+      "imagen": "semanatiempoordinario2"
     },
     {
       "fecha": "2026-01-28",
@@ -73,3 +73,4 @@
     }
   ]
 }
+
