@@ -1,5 +1,5 @@
 {
-  "version": "20260127110821",
+  "version": "20260127111625",
   "calendario": [
     {
       "fecha": "2026-01-25",
@@ -26,7 +26,7 @@
       "titulo": "III Semana del Tiempo Ordinario",
       "tiempo": "Tiempo Ordinario",
       "color": "#2E7D32",
-      "frase": "\"veamos si sale la prueba\"",
+      "frase": "\"Veamos si la prueba funciona\"",
       "santo": "Santa Ángela Merici, San Enrique de Ossó y Cervelló",
       "lectura": "Marcos 3,31-35.",
       "imagen": "sanjuanbosco"
@@ -73,5 +73,3 @@
     }
   ]
 }
-
-
