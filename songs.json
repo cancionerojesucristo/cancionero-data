@@ -1,5 +1,5 @@
 {
-  "version": "20260104175016",
+  "version": "20260128210637",
   "songs": [
     {
       "id": "Navidad0",
@@ -336,6 +336,16 @@
       "title": "Gloria in Excelsis Deo",
       "category": "ADVIENTO - NAVIDAD",
       "lyrics": "<b>MI             SI    MI</b>\nGloria cantan en el cielo\n<b>              SI    MI</b>\nen los campos de Belén\n<b>             SI       MI</b>\ny el eco de valle en valle\n<b>              SI   MI</b>\nrepite una y otra vez.\n\n\n<b> MI    LA   MI    SI</b> \n<b>¡GLOOOOOOOOOOOOOORIA!</b>\n<b>MI           SI</b>\n<b>IN EXCELSIS DEO</b>\n<b> MI    LA   MI    SI</b> \n<b>¡GLOOOOOOOOOOOOOORIA!</b>\n<b>MI         LA SI</b>\n<b>IN EXCELSIS DEO</b>\n\n\nHoy nosotros repetimos\ntodos juntos el cantar\nque los cielos entonaron\na la entrada del portal.\n\n\nAdoremos al Dios niño\nque nos trajo salvación:\ny pidámosle su gracia\ncantando todos a una voz.",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Navidad34",
+      "title": "Dios nació entre nosotros",
+      "category": "ADVIENTO - NAVIDAD",
+      "lyrics": "<b>rem                LA7</b>\nDios nació entre nosotros\n<b>            rem</b>\nAleluya, aleluya,\n<b>                LA7</b>\nEs pobre como nosotros\n<b>            rem</b>\nAleluya, aleluya\n\n\n<b> solm              rem</b>\n<b>/Vino a la tierra y en un pesebre</b>\n<b>LA7</b>\n<b>De la virgen nació/</b>\n\n\n<b>rem                LA7</b>\nEl es nuestro Salvador \n<b>            rem</b>\nAleluya, aleluya\n<b>                     LA7</b>\nPor Él nos viene el amor\n<b>             rem</b>\nAleluya, aleluya",
       "has_chords": true,
       "isFavorite": false,
       "customNote": "",
