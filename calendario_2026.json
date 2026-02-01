@@ -1,5 +1,5 @@
 {
-  "version": "20260127144756",
+  "version": "20260131224738",
   "calendario": [
     {
       "fecha": "2026-01-25",
@@ -70,6 +70,3346 @@
       "santo": "San Juan Bosco, Santa Marcela",
       "lectura": "Marcos 4,35-41",
       "imagen": "sanjuanbosco"
+    },
+    {
+      "fecha": "2026-02-01",
+      "titulo": "IV Domingo del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"No te inquietes por el mañana porque yo cuido de ti. (Mateo 6,34)\"",
+      "santo": "Santa Brígida",
+      "lectura": "Mateo 5,1-12a",
+      "imagen": "semanatiempoordinario4"
+    },
+    {
+      "fecha": "2026-02-02",
+      "titulo": "La Presentación del Señor",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Mis ojos han visto a tu Salvador.\"",
+      "santo": "Nuestra Señora de la Purificación",
+      "lectura": "Lucas 2,22-40",
+      "imagen": "semanatiempoordinario4"
+    },
+    {
+      "fecha": "2026-02-03",
+      "titulo": "IV Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Yo soy tu refugio y tu fuerza una ayuda siempre presente. (Salmo 46,1)\"",
+      "santo": "San Blas, San Óscar",
+      "lectura": "Marcos 5,21-43",
+      "imagen": "semanatiempoordinario4"
+    },
+    {
+      "fecha": "2026-02-04",
+      "titulo": "IV Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Si tú me buscas de todo corazón me dejaré encontrar por ti. (Jeremías 29,13)\"",
+      "santo": "Santa Juana de Valois, San Gilberto de Sempringham",
+      "lectura": "Marcos 6,1-6",
+      "imagen": "semanatiempoordinario4"
+    },
+    {
+      "fecha": "2026-02-05",
+      "titulo": "IV Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"No te he dado un espíritu de miedo sino de poder amor y dominio propio. (2 Timoteo 1,7)\"",
+      "santo": "San Felipe de Jesús, Santa Águeda",
+      "lectura": "Marcos 6,7-13",
+      "imagen": "semanatiempoordinario4"
+    },
+    {
+      "fecha": "2026-02-06",
+      "titulo": "IV Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Aunque tu padre o tu madre te abandonen yo nunca te dejaré. (Salmo 27,10)\"",
+      "santo": "San Pablo Miki y compañeros, Santa Dorotea de Capadocia",
+      "lectura": "Marcos 6,14-29",
+      "imagen": "semanatiempoordinario4"
+    },
+    {
+      "fecha": "2026-02-07",
+      "titulo": "IV Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Pídeme lo que quieras y te lo daré si confías en mi nombre. (Juan 14,14)\"",
+      "santo": "San Ricardo rey",
+      "lectura": "Marcos 6,30-34",
+      "imagen": "semanatiempoordinario4"
+    },
+    {
+      "fecha": "2026-02-08",
+      "titulo": "V Domingo del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Vosotros sois la luz del mundo.\"",
+      "santo": "San Jerónimo Emiliani",
+      "lectura": "Mateo 5,13-16",
+      "imagen": "semanatiempoordinario5"
+    },
+    {
+      "fecha": "2026-02-09",
+      "titulo": "V Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Mi paz te doy; no como el mundo la da yo te la doy a ti. (Juan 14,27)\"",
+      "santo": "Santa Apolonia de Alejandría, San Miguel Febres Cordero",
+      "lectura": "Marcos 6,53-56.",
+      "imagen": "hermanomiguel"
+    },
+    {
+      "fecha": "2026-02-10",
+      "titulo": "V Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Tus pecados te son perdonados; vete en paz. (Lucas 7,48)\"",
+      "santo": "Santa Escolástica",
+      "lectura": "Marcos 7,1-13",
+      "imagen": "semanatiempoordinario5"
+    },
+    {
+      "fecha": "2026-02-11",
+      "titulo": "V Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Yo soy el Señor tu sanador; nada es imposible para mí. (Éxodo 15,26)\"",
+      "santo": "Bienaventurada Virgen María de Lourdes, San Pedro de Jesús Maldonado",
+      "lectura": "Marcos 7,14-23.",
+      "imagen": "virgenmariadelourdes"
+    },
+    {
+      "fecha": "2026-02-12",
+      "titulo": "V Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Para mí eres de gran valor y honor porque yo te amo. (Isaías 43,4)\"",
+      "santo": "Santa Eulalia de Barcelona",
+      "lectura": "Marcos 7,24-30",
+      "imagen": "semanatiempoordinario5"
+    },
+    {
+      "fecha": "2026-02-13",
+      "titulo": "V Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Hace oír a los sordos y hablar a los mudos.\"",
+      "santo": "San Benigno de Todi",
+      "lectura": "Marcos 7,31-37",
+      "imagen": "semanatiempoordinario5"
+    },
+    {
+      "fecha": "2026-02-14",
+      "titulo": "V Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Ámense unos a otros como yo los he amado a ustedes. (Juan 15,12)\"",
+      "santo": "San Valentín, San Cirilo de Tesalónica, San Metodio de Tesalónica",
+      "lectura": "Marcos 8,1-10",
+      "imagen": "semanatiempoordinario5"
+    },
+    {
+      "fecha": "2026-02-15",
+      "titulo": "VI Domingo del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Yo soy el buen pastor y conozco tu nombre. (Juan 10,14)\"",
+      "santo": "Beato Onésimo",
+      "lectura": "Mateo 5,17-37",
+      "imagen": "semanatiempoordinario6"
+    },
+    {
+      "fecha": "2026-02-16",
+      "titulo": "VI Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "Te haré entender y te enseñaré el camino en que debes andar. (Salmo 32,8)\"",
+      "santo": "Santa Juliana de Nicodemia",
+      "lectura": "Marcos 8,11-13",
+      "imagen": "semanatiempoordinario6"
+    },
+    {
+      "fecha": "2026-02-17",
+      "titulo": "VI Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Cree en mí y verás la gloria de Dios en tu vida. (Juan 11,40)\"",
+      "santo": "San Teodoro de Bizancio, Los siete santos fundadores de la Orden de los Siervos de María",
+      "lectura": "Marcos 8,14-21",
+      "imagen": "semanatiempoordinario6"
+    },
+    {
+      "fecha": "2026-02-18",
+      "titulo": "Miércoles de Ceniza",
+      "tiempo": "Cuaresma",
+      "color": "#6A1B9A",
+      "frase": "\"Recuerda que eres polvo y al polvo volverás\"",
+      "santo": "San Eladio",
+      "lectura": "Mateo 6,1-6.16-18.",
+      "imagen": "miercolesdeceniza"
+    },
+    {
+      "fecha": "2026-02-19",
+      "titulo": "Jueves después de Ceniza",
+      "tiempo": "Cuaresma",
+      "color": "#6A1B9A",
+      "frase": "\"El que pierda su vida por mi causa la salvará\"",
+      "santo": "Beato Álvaro de Córdoba",
+      "lectura": "Lucas 9,22-25.",
+      "imagen": "juevesceniza"
+    },
+    {
+      "fecha": "2026-02-20",
+      "titulo": "Viernes después de Ceniza",
+      "tiempo": "Cuaresma",
+      "color": "#6A1B9A",
+      "frase": "\"El que quiera seguirme que cargue su cruz y me siga cada día. (Lucas 9,23)\"",
+      "santo": "Beata Jacinta Marto",
+      "lectura": "Mateo 9,14-15.",
+      "imagen": "viernesceniza"
+    },
+    {
+      "fecha": "2026-02-21",
+      "titulo": "Sábado después de Ceniza",
+      "tiempo": "Cuaresma",
+      "color": "#6A1B9A",
+      "frase": "\"No he venido a llamar a los justos sino a los pecadores a que se conviertan\"",
+      "santo": "San Pedro Damián",
+      "lectura": "Lucas 5,27-32",
+      "imagen": "sabadoceniza"
+    },
+    {
+      "fecha": "2026-02-22",
+      "titulo": "I Domingo de Cuaresma",
+      "tiempo": "Cuaresma",
+      "color": "#6A1B9A",
+      "frase": "\"No solo de pan vives sino de toda palabra que sale de mi boca. (Mateo 4,4)\"",
+      "santo": "San Maximiano de Ravena, San Pascasio",
+      "lectura": "Mateo 4,1-11.",
+      "imagen": "cuaresma1"
+    },
+    {
+      "fecha": "2026-02-23",
+      "titulo": "I Semana de Cuaresma",
+      "tiempo": "Cuaresma",
+      "color": "#6A1B9A",
+      "frase": "\"Cada vez que lo hicisteis con uno de estos mis hermanos más pequeños conmigo lo hicisteis\"",
+      "santo": "San Policarpo",
+      "lectura": "Mateo 25,31-46",
+      "imagen": "cuaresma1"
+    },
+    {
+      "fecha": "2026-02-24",
+      "titulo": "I Semana de Cuaresma",
+      "tiempo": "Cuaresma",
+      "color": "#6A1B9A",
+      "frase": "\"Cuando ores entra en tu cuarto y cierra la puerta; allí te escucharé. (Mateo 6,6)\"",
+      "santo": "San Sergio de Capadocia, San Modesto",
+      "lectura": "Mateo 6,7-15.",
+      "imagen": "cuaresma1"
+    },
+    {
+      "fecha": "2026-02-25",
+      "titulo": "I Semana de Cuaresma",
+      "tiempo": "Cuaresma",
+      "color": "#6A1B9A",
+      "frase": "\"Aquí tienes a alguien más grande que Jonás para guiarte. (Lucas 11,32)\"",
+      "santo": "San Valerio de Astorga",
+      "lectura": "Lucas 11,29-32",
+      "imagen": "cuaresma1"
+    },
+    {
+      "fecha": "2026-02-26",
+      "titulo": "I Semana de Cuaresma",
+      "tiempo": "Cuaresma",
+      "color": "#6A1B9A",
+      "frase": "\"Todo lo que quieras que los demás hagan por ti hazlo tú por ellos. (Mateo 7,12)\"",
+      "santo": "San Alejandro",
+      "lectura": "Mateo 7,7-12",
+      "imagen": "cuaresma1"
+    },
+    {
+      "fecha": "2026-02-27",
+      "titulo": "I Semana de Cuaresma",
+      "tiempo": "Cuaresma",
+      "color": "#6A1B9A",
+      "frase": "\"Vete primero a reconciliarte con tu hermano\"",
+      "santo": "San Gabriel de la Dolorosa",
+      "lectura": "Mateo 5,20-26.",
+      "imagen": "cuaresma1"
+    },
+    {
+      "fecha": "2026-02-28",
+      "titulo": "I Semana de Cuaresma",
+      "tiempo": "Cuaresma",
+      "color": "#6A1B9A",
+      "frase": "\"Sé perfecto como tu Padre celestial es perfecto; yo te ayudaré. (Mateo 5,48)\"",
+      "santo": "San Leandro de Sevilla",
+      "lectura": "Mateo 5,43-48",
+      "imagen": "cuaresma1"
+    },
+    {
+      "fecha": "2026-03-1",
+      "titulo": "II Domingo de Cuaresma",
+      "tiempo": "Cuaresma",
+      "color": "#6A1B9A",
+      "frase": "\"No tengas miedo solo ten fe y verás mi gloria. (Marcos 5,36)\"",
+      "santo": "San David de Gales",
+      "lectura": "Mateo 17,1-9",
+      "imagen": "cuaresma2"
+    },
+    {
+      "fecha": "2026-03-2",
+      "titulo": "II Semana de Cuaresma",
+      "tiempo": "Cuaresma",
+      "color": "#6A1B9A",
+      "frase": "\"Yo soy la luz del mundo; si me sigues no caminarás en tinieblas. (Juan 8,12)\"",
+      "santo": "San Simplicio",
+      "lectura": "Lucas 6,36-38",
+      "imagen": "cuaresma2"
+    },
+    {
+      "fecha": "2026-03-3",
+      "titulo": "II Semana de Cuaresma",
+      "tiempo": "Cuaresma",
+      "color": "#6A1B9A",
+      "frase": "\"Perdona y serás perdonado; la medida que uses será usada contigo. (Lucas 6,37)\"",
+      "santo": "San Emeterio de Calahorra",
+      "lectura": "Mateo 23,1-12.",
+      "imagen": "cuaresma2"
+    },
+    {
+      "fecha": "2026-03-4",
+      "titulo": "II Semana de Cuaresma",
+      "tiempo": "Cuaresma",
+      "color": "#6A1B9A",
+      "frase": "\"Tu fe te ha salvado; vete en paz y queda sano de tu aflicción. (Marcos 5,34)\"",
+      "santo": "San Casimiro",
+      "lectura": "Mateo 1,16. 18-21. 24",
+      "imagen": "cuaresma2"
+    },
+    {
+      "fecha": "2026-03-5",
+      "titulo": "II Semana de Cuaresma",
+      "tiempo": "Cuaresma",
+      "color": "#6A1B9A",
+      "frase": "\"Pide y se te dará; porque yo sé lo que necesitas antes de que lo pidas. (Mateo 7,7)\"",
+      "santo": "San Adriano",
+      "lectura": "Lucas 16,19-31",
+      "imagen": "cuaresma2"
+    },
+    {
+      "fecha": "2026-03-6",
+      "titulo": "II Semana de Cuaresma",
+      "tiempo": "Cuaresma",
+      "color": "#6A1B9A",
+      "frase": "\"Si alguien tiene sed que venga a mí y beba del agua de la vida. (Juan 7,37)\"",
+      "santo": "San Olegario, San Julián",
+      "lectura": "Mateo 21,33-43.45-46",
+      "imagen": "cuaresma2"
+    },
+    {
+      "fecha": "2026-03-7",
+      "titulo": "II Semana de Cuaresma",
+      "tiempo": "Cuaresma",
+      "color": "#6A1B9A",
+      "frase": "\"Yo no te condeno; vete y en adelante no peques más. (Juan 8,11)\"",
+      "santo": "Santas Felicidad y Perpetua",
+      "lectura": "Lucas 15,1-3.11-32",
+      "imagen": "cuaresma2"
+    },
+    {
+      "fecha": "2026-03-8",
+      "titulo": "III Domingo de Cuaresma",
+      "tiempo": "Cuaresma",
+      "color": "#6A1B9A",
+      "frase": "\"Traer un médico espiritual que os cure las almas que después para el cuerpo no faltará remedio (San Juan de Dios)\"",
+      "santo": "San Juan de Dios",
+      "lectura": "Juan 4,5-42",
+      "imagen": "sanjuandedios"
+    },
+    {
+      "fecha": "2026-03-9",
+      "titulo": "III Semana de Cuaresma",
+      "tiempo": "Cuaresma",
+      "color": "#6A1B9A",
+      "frase": "\"Sé misericordioso como tu Padre es misericordioso contigo. (Lucas 6,36)\"",
+      "santo": "Santa Catalina de Bolonia",
+      "lectura": "Lucas 4,24-30",
+      "imagen": "cuaresma3"
+    },
+    {
+      "fecha": "2026-03-10",
+      "titulo": "III Semana de Cuaresma",
+      "tiempo": "Cuaresma",
+      "color": "#6A1B9A",
+      "frase": "\"El que se humilla será enaltecido; yo reconozco tu corazón sincero. (Mateo 23,12)\"",
+      "santo": "Santa María Eugenia de Jesús Milleret de Brou",
+      "lectura": "Lucas 1,26-38.",
+      "imagen": "cuaresma3"
+    },
+    {
+      "fecha": "2026-03-11",
+      "titulo": "III Semana de Cuaresma",
+      "tiempo": "Cuaresma",
+      "color": "#6A1B9A",
+      "frase": "\"Si cada cual no perdona a su hermano tampoco el Padre os perdonará\"",
+      "santo": "Santa Áurea de San Millán",
+      "lectura": "Mateo 5,17-19.",
+      "imagen": "cuaresma3"
+    },
+    {
+      "fecha": "2026-03-12",
+      "titulo": "III Semana de Cuaresma",
+      "tiempo": "Cuaresma",
+      "color": "#6A1B9A",
+      "frase": "\"Busca primero mi Reino y su justicia y todo lo demás te lo daré. (Mateo 6,33)\"",
+      "santo": "San Maximiliano de Tebeste, San Inocencio",
+      "lectura": "Lucas 11,14-23",
+      "imagen": "cuaresma3"
+    },
+    {
+      "fecha": "2026-03-13",
+      "titulo": "III Semana de Cuaresma",
+      "tiempo": "Cuaresma",
+      "color": "#6A1B9A",
+      "frase": "\"Si te pones de acuerdo con tu adversario caminarás en libertad. (Mateo 5,25)\"",
+      "santo": "Santa Cristina",
+      "lectura": "Marcos 12,28-34",
+      "imagen": "cuaresma3"
+    },
+    {
+      "fecha": "2026-03-14",
+      "titulo": "III Semana de Cuaresma",
+      "tiempo": "Cuaresma",
+      "color": "#6A1B9A",
+      "frase": "\"Ama a tus enemigos y reza por los que te persiguen. (Mateo 5,44)\"",
+      "santo": "Santa Matilde",
+      "lectura": "Marcos 12,28-34",
+      "imagen": "cuaresma3"
+    },
+    {
+      "fecha": "2026-03-15",
+      "titulo": "IV Domingo de Cuaresma",
+      "tiempo": "Cuaresma",
+      "color": "#6A1B9A",
+      "frase": "\"Tanto te amo que he enviado a mi Hijo para que tengas vida eterna. (Juan 3,16)\"",
+      "santo": "San Raimundo de Fitero",
+      "lectura": "Juan 9,1-41",
+      "imagen": "cuaresma4"
+    },
+    {
+      "fecha": "2026-03-16",
+      "titulo": "IV Semana de Cuaresma",
+      "tiempo": "Cuaresma",
+      "color": "#6A1B9A",
+      "frase": "\"No juzgues y no serás juzgado; mira primero tu propio corazón. (Mateo 7,1)\"",
+      "santo": "Santo Patriarca Abraham",
+      "lectura": "Juan 4,43-54",
+      "imagen": "cuaresma4"
+    },
+    {
+      "fecha": "2026-03-17",
+      "titulo": "IV Semana de Cuaresma",
+      "tiempo": "Cuaresma",
+      "color": "#6A1B9A",
+      "frase": "\"No tengan miedo ni se desanimen. ¡Sean fuertes y valientes (Josué  10,25)\"",
+      "santo": "San Patricio, San José de Arimatea",
+      "lectura": "Juan 5,1-16",
+      "imagen": "cuaresma4"
+    },
+    {
+      "fecha": "2026-03-18",
+      "titulo": "IV Semana de Cuaresma",
+      "tiempo": "Cuaresma",
+      "color": "#6A1B9A",
+      "frase": "\"Si permaneces en mi palabra serás de verdad mi discípulo. (Juan 8,31)\"",
+      "santo": "San Cirilo de Jerusalén",
+      "lectura": "Juan 5,1-3.5-16",
+      "imagen": "cuaresma4"
+    },
+    {
+      "fecha": "2026-03-19",
+      "titulo": "IV Semana de Cuaresma",
+      "tiempo": "Cuaresma",
+      "color": "#6A1B9A",
+      "frase": "\"José hizo lo que le había mandado el ángel del Señor\"",
+      "santo": "San José",
+      "lectura": "Mateo 1,16.18-21.24",
+      "imagen": "sanjose"
+    },
+    {
+      "fecha": "2026-03-20",
+      "titulo": "IV Semana de Cuaresma",
+      "tiempo": "Cuaresma",
+      "color": "#6A1B9A",
+      "frase": "\"Yo soy el pan de vida; el que viene a mí nunca tendrá hambre. (Juan 6,35)\"",
+      "santo": "San Martín de Dumio",
+      "lectura": "San Juan 7,1-2. 10.25-30",
+      "imagen": "cuaresma4"
+    },
+    {
+      "fecha": "2026-03-21",
+      "titulo": "IV Semana de Cuaresma",
+      "tiempo": "Cuaresma",
+      "color": "#6A1B9A",
+      "frase": "\"Nadie te ha condenado... yo tampoco te condeno. (Juan 8,10-11)\"",
+      "santo": "San Nicolás de Flüe",
+      "lectura": "Juan 7,40-53",
+      "imagen": "cuaresma4"
+    },
+    {
+      "fecha": "2026-03-22",
+      "titulo": "V Domingo de Cuaresma",
+      "tiempo": "Cuaresma",
+      "color": "#6A1B9A",
+      "frase": "\"Yo soy la resurrección y la vida; si crees en mí vivirás para siempre. (Juan 11,25)\"",
+      "santo": "San Bienvenido Scotivoli",
+      "lectura": "Juan 11,1-45",
+      "imagen": "cuaresma5"
+    },
+    {
+      "fecha": "2026-03-23",
+      "titulo": "V Semana de Cuaresma",
+      "tiempo": "Cuaresma",
+      "color": "#6A1B9A",
+      "frase": "\"El que esté sin pecado que le tire la primera piedra\"",
+      "santo": "San José Oriol, Santo Toribio de Mogrovejo",
+      "lectura": "Juan 8,1-11",
+      "imagen": "cuaresma5"
+    },
+    {
+      "fecha": "2026-03-24",
+      "titulo": "V Semana de Cuaresma",
+      "tiempo": "Cuaresma",
+      "color": "#6A1B9A",
+      "frase": "\"Cuando sea levantado de la tierra te atraeré hacia mí con amor. (Juan 12,32)\"",
+      "santo": "Santa Catalina de Suecia",
+      "lectura": "Juan 8,21-30",
+      "imagen": "cuaresma5"
+    },
+    {
+      "fecha": "2026-03-25",
+      "titulo": "La Anunciación del Señor",
+      "tiempo": "Cuaresma",
+      "color": "#F5F5F5",
+      "frase": "\"Alégrate llena de gracia el Señor está contigo. (Lucas 1,28)\"",
+      "santo": "San Dimas el buen ladrón",
+      "lectura": "Lucas 1,26-38",
+      "imagen": "anunciaciondelsenor"
+    },
+    {
+      "fecha": "2026-03-26",
+      "titulo": "V Semana de Cuaresma",
+      "tiempo": "Cuaresma",
+      "color": "#6A1B9A",
+      "frase": "\"Si guardas mi palabra no conocerás la muerte para siempre. (Juan 8,51)\"",
+      "santo": "San Braulio de Zaragoza",
+      "lectura": "Juan 8,51-59",
+      "imagen": "cuaresma5"
+    },
+    {
+      "fecha": "2026-03-27",
+      "titulo": "V Semana de Cuaresma",
+      "tiempo": "Cuaresma",
+      "color": "#6A1B9A",
+      "frase": "\"Aunque intenten atraparte mi hora aún no ha llegado para ti; confía. (Juan 7,30)\"",
+      "santo": "San Ruperto de Worms",
+      "lectura": "Juan 10,31-42",
+      "imagen": "cuaresma5"
+    },
+    {
+      "fecha": "2026-03-28",
+      "titulo": "V Semana de Cuaresma",
+      "tiempo": "Cuaresma",
+      "color": "#6A1B9A",
+      "frase": "\"Nadie habla como yo hablo a tu corazón; escúchame hoy. (Juan 7,46)\"",
+      "santo": "San Sixto III papa",
+      "lectura": "Juan 11,45-57",
+      "imagen": "cuaresma5"
+    },
+    {
+      "fecha": "2026-03-29",
+      "titulo": "Domingo de Ramos",
+      "tiempo": "Cuaresma",
+      "color": "#6A1B9A",
+      "frase": "\"¡Bendito el que viene en mi nombre! Déjame entrar hoy en tu ciudad. (Mateo 21,9)\"",
+      "santo": "San Eustasio de Luxeüil",
+      "lectura": "San Mateo (26,14–27,66)",
+      "imagen": "domingoderamos"
+    },
+    {
+      "fecha": "2026-03-30",
+      "titulo": "Lunes Santo",
+      "tiempo": "Cuaresma",
+      "color": "#6A1B9A",
+      "frase": "\"Déjala que me unja; ella ha hecho una obra buena conmigo y contigo. (Juan 12,7)\"",
+      "santo": "San Zósimo de Siracusa",
+      "lectura": "Juan 12,1-11",
+      "imagen": "lunessanto"
+    },
+    {
+      "fecha": "2026-03-31",
+      "titulo": "Martes Santo",
+      "tiempo": "Cuaresma",
+      "color": "#6A1B9A",
+      "frase": "\"No se turbe tu corazón; uno de ustedes me entregará pero tú confía. (Juan 13,21)\"",
+      "santo": "San Amós profeta, San Renato de Mérida",
+      "lectura": "Juan 13,21-33.36-38",
+      "imagen": "martessanto"
+    },
+    {
+      "fecha": "2026-04-1",
+      "titulo": "Miércoles Santo",
+      "tiempo": "Cuaresma",
+      "color": "#6A1B9A",
+      "frase": "\"El Maestro te dice: 'Mi hora está cerca voy a celebrar la Pascua en tu casa'. (Mateo 26,18)\"",
+      "santo": "San Hugo de Grenoble",
+      "lectura": "Mateo 26,14-25",
+      "imagen": "miercolessanto"
+    },
+    {
+      "fecha": "2026-04-2",
+      "titulo": "Jueves Santo La Cena del Señor",
+      "tiempo": "Triduo Pascual",
+      "color": "#F5F5F5",
+      "frase": "\"Te he dado ejemplo para que lo que yo he hecho contigo tú también lo hagas. (Juan 13,15)\"",
+      "santo": "San Francisco de Paula",
+      "lectura": "Juan 13,1-15",
+      "imagen": "juevessanto"
+    },
+    {
+      "fecha": "2026-04-3",
+      "titulo": "Viernes Santo La Pasión del Señor",
+      "tiempo": "Triduo Pascual",
+      "color": "#C62828",
+      "frase": "\"Nadie tiene amor más grande que el que da la vida por sus amigos como yo por ti. (Juan 15,13)\"",
+      "santo": "San Ricardo de Wyche",
+      "lectura": "Juan 18,1-19,42",
+      "imagen": "viernessanto"
+    },
+    {
+      "fecha": "2026-04-4",
+      "titulo": "Sábado de Gloria",
+      "tiempo": "Triduo Pascual",
+      "color": "#F5F5F5",
+      "frase": "\"Ten paciencia y espera en silencio; lo que parece muerto pronto revivirá. (Salmo 37,7)\"",
+      "santo": "San Benito Massarari",
+      "lectura": "imagen: sabadogloria",
+      "imagen": "sabadogloria"
+    },
+    {
+      "fecha": "2026-04-5",
+      "titulo": "Domingo de Pascua la Resurrección del Señor",
+      "tiempo": "Tiempo Pascual",
+      "color": "#F5F5F5",
+      "frase": "\"¡No busques entre los muertos al que vive! Yo he resucitado por ti. (Lucas 24,5)\"",
+      "santo": "San Vicente Ferrer",
+      "lectura": "Juan 20,1-9",
+      "imagen": "domingodegloria"
+    },
+    {
+      "fecha": "2026-04-6",
+      "titulo": "Lunes de la Octava de Pascua",
+      "tiempo": "Tiempo Pascual",
+      "color": "#F5F5F5",
+      "frase": "\"Alégrate no tengas miedo; ve y diles a tus hermanos que me verán. (Mateo 28,10)\"",
+      "santo": "Santa Gala",
+      "lectura": "Mateo 28,8-15",
+      "imagen": "pascua1"
+    },
+    {
+      "fecha": "2026-04-7",
+      "titulo": "Martes de la Octava de Pascua",
+      "tiempo": "Tiempo Pascual",
+      "color": "#F5F5F5",
+      "frase": "\"Confíen en la providencia de Dios; Él nunca los abandonará en su misión educativa (San Juan bautista de la Salle)\"",
+      "santo": "San Juan Bautista de la Salle",
+      "lectura": "Juan 20,11-18",
+      "imagen": "juanbautistadelasalle"
+    },
+    {
+      "fecha": "2026-04-8",
+      "titulo": "Miércoles de la Octava de Pascua",
+      "tiempo": "Tiempo Pascual",
+      "color": "#F5F5F5",
+      "frase": "\"Lo reconocieron al partir el pan.\"",
+      "santo": "Santa Julia Billiart, San Dionisio de Corinto",
+      "lectura": "Lucas 24,13-35",
+      "imagen": "pascua1"
+    },
+    {
+      "fecha": "2026-04-9",
+      "titulo": "Jueves de la Octava de Pascua",
+      "tiempo": "Tiempo Pascual",
+      "color": "#F5F5F5",
+      "frase": "\"La paz sea contigo. Mira mis manos y mi costado; soy yo mismo. (Lucas 24,36)\"",
+      "santo": "Santa Casilda de Toledo",
+      "lectura": "Lucas 24,35-48",
+      "imagen": "pascua1"
+    },
+    {
+      "fecha": "2026-04-10",
+      "titulo": "Viernes de la Octava de Pascua",
+      "tiempo": "Tiempo Pascual",
+      "color": "#F5F5F5",
+      "frase": "\"Echa la red a la derecha y encontrarás; yo me encargo de tus necesidades. (Juan 21,6)\"",
+      "santo": "San Ezequiel",
+      "lectura": "Juan 21,1-14",
+      "imagen": "pascua1"
+    },
+    {
+      "fecha": "2026-04-11",
+      "titulo": "Sábado de la Octava de Pascua",
+      "tiempo": "Tiempo Pascual",
+      "color": "#F5F5F5",
+      "frase": "\"Vayan por todo el mundo y anuncien la buena noticia a todos. (Marcos 16,15)\"",
+      "santo": "San Estanislao, Santa Gemma Galgani, San Isaac de Spoleto",
+      "lectura": "Marcos 16,9-15",
+      "imagen": "pascua1"
+    },
+    {
+      "fecha": "2026-04-12",
+      "titulo": "II Domingo de Pascua",
+      "tiempo": "Tiempo Pascual",
+      "color": "#F5F5F5",
+      "frase": "\"Dichoso tú que aunque no me has visto has creído en mí. (Juan 20,29)\"",
+      "santo": "San Julio I papa",
+      "lectura": "Juan 20,19-31",
+      "imagen": "pascua2"
+    },
+    {
+      "fecha": "2026-04-13",
+      "titulo": "II Semana de Pascua",
+      "tiempo": "Tiempo Pascual",
+      "color": "#F5F5F5",
+      "frase": "\"Tienes que nacer de nuevo del agua y del Espíritu para ver mi Reino. (Juan 3,7)\"",
+      "santo": "San Martín I, San Hermenegildo",
+      "lectura": "Juan 3,1-8",
+      "imagen": "pascua2"
+    },
+    {
+      "fecha": "2026-04-14",
+      "titulo": "II Semana de Pascua",
+      "tiempo": "Tiempo Pascual",
+      "color": "#F5F5F5",
+      "frase": "\"No te sorprendas de mi poder; el viento sopla donde quiere y así actúo en ti. (Juan 3,8)\"",
+      "santo": "Santa Lidia de Schiedam",
+      "lectura": "Mateo 11,25-30",
+      "imagen": "pascua2"
+    },
+    {
+      "fecha": "2026-04-15",
+      "titulo": "II Semana de Pascua",
+      "tiempo": "Tiempo Pascual",
+      "color": "#F5F5F5",
+      "frase": "\"Dios envió a su Hijo para que el mundo se salve por él.\"",
+      "santo": "San Telmo Confesor",
+      "lectura": "Juan 3,16-21",
+      "imagen": "pascua2"
+    },
+    {
+      "fecha": "2026-04-16",
+      "titulo": "II Semana de Pascua",
+      "tiempo": "Tiempo Pascual",
+      "color": "#F5F5F5",
+      "frase": "\"El que cree en mí tiene vida eterna; tu futuro está seguro en mis manos. (Juan 3,36)\"",
+      "santo": "Santa Engracia",
+      "lectura": "Juan 3,31-36",
+      "imagen": "pascua2"
+    },
+    {
+      "fecha": "2026-04-17",
+      "titulo": "II Semana de Pascua",
+      "tiempo": "Tiempo Pascual",
+      "color": "#F5F5F5",
+      "frase": "\"Yo soy el pan que da la vida; el que viene a mí jamás pasará hambre. (Juan 6,35)\"",
+      "santo": "San Aniceto papa",
+      "lectura": "Juan 6,1-15",
+      "imagen": "pascua2"
+    },
+    {
+      "fecha": "2026-04-18",
+      "titulo": "II Semana de Pascua",
+      "tiempo": "Tiempo Pascual",
+      "color": "#F5F5F5",
+      "frase": "\"Hace tanto tiempo que estoy con vosotros ¿y no me conoces?\"",
+      "santo": "San Perfecto",
+      "lectura": "Juan 14,6-14",
+      "imagen": "pascua2"
+    },
+    {
+      "fecha": "2026-04-19",
+      "titulo": "III Domingo de Pascua",
+      "tiempo": "Tiempo Pascual",
+      "color": "#F5F5F5",
+      "frase": "\"Yo soy el buen pastor; doy mi vida por ti porque te conozco. (Juan 10,11)\"",
+      "santo": "San León IX papa, San Expedito",
+      "lectura": "Lucas 24,13-35",
+      "imagen": "pascua3"
+    },
+    {
+      "fecha": "2026-04-20",
+      "titulo": "III Semana de Pascua",
+      "tiempo": "Tiempo Pascual",
+      "color": "#F5F5F5",
+      "frase": "\"Mis ovejas escuchan mi voz; yo las conozco y ellas me siguen. (Juan 10,27)\"",
+      "santo": "Santa Inés de Montepulciano",
+      "lectura": "Juan 6,22-29",
+      "imagen": "pascua3"
+    },
+    {
+      "fecha": "2026-04-21",
+      "titulo": "III Semana de Pascua",
+      "tiempo": "Tiempo Pascual",
+      "color": "#F5F5F5",
+      "frase": "\"Nadie te arrebatará de mi mano porque mi Padre y yo somos uno. (Juan 10,28)\"",
+      "santo": "San Anselmo de Canterbury",
+      "lectura": "Juan 6,30-35",
+      "imagen": "pascua3"
+    },
+    {
+      "fecha": "2026-04-22",
+      "titulo": "III Semana de Pascua",
+      "tiempo": "Tiempo Pascual",
+      "color": "#F5F5F5",
+      "frase": "\"Yo he venido como luz al mundo para que tú no te quedes en tinieblas. (Juan 12,46)\"",
+      "santo": "San Sotero papa",
+      "lectura": "Juan 6,35-40",
+      "imagen": "pascua3"
+    },
+    {
+      "fecha": "2026-04-23",
+      "titulo": "III Semana de Pascua",
+      "tiempo": "Tiempo Pascual",
+      "color": "#F5F5F5",
+      "frase": "\"Yo soy el pan vivo que ha bajado del cielo.\"",
+      "santo": "San Jorge, San Adalberto",
+      "lectura": "Juan 6,44-51",
+      "imagen": "pascua3"
+    },
+    {
+      "fecha": "2026-04-24",
+      "titulo": "III Semana de Pascua",
+      "tiempo": "Tiempo Pascual",
+      "color": "#F5F5F5",
+      "frase": "\"El que te recibe a ti me recibe a mí; eres mi embajador. (Juan 13,20)\"",
+      "santo": "San Fidel de Sigmaringen",
+      "lectura": "Juan 6,52-59",
+      "imagen": "pascua3"
+    },
+    {
+      "fecha": "2026-04-25",
+      "titulo": "III Semana de Pascua",
+      "tiempo": "Tiempo Pascual",
+      "color": "#F5F5F5",
+      "frase": "\"Proclamen el Evangelio; yo estaré con ustedes confirmando su palabra. (Marcos 16,20)\"",
+      "santo": "San Marcos evangelista",
+      "lectura": "Marcos 16,15-20",
+      "imagen": "sanmarcos"
+    },
+    {
+      "fecha": "2026-04-26",
+      "titulo": "IV Domingo de Pascua",
+      "tiempo": "Tiempo Pascual",
+      "color": "#F5F5F5",
+      "frase": "\"Permanece en mí y yo permaneceré en ti; así darás mucho fruto. (Juan 15,4)\"",
+      "santo": "San Isidoro de Sevilla",
+      "lectura": "Juan 10,1-10",
+      "imagen": "pascua4"
+    },
+    {
+      "fecha": "2026-04-27",
+      "titulo": "IV Semana de Pascua",
+      "tiempo": "Tiempo Pascual",
+      "color": "#F5F5F5",
+      "frase": "\"Sin mí no puedes hacer nada pero conmigo todo lo puedes. (Juan 15,5)\"",
+      "santo": "San Pedro Armengol, Madre de Dios de Montserrat, Santa Zita",
+      "lectura": "Juan 10,11-18",
+      "imagen": "pascua4"
+    },
+    {
+      "fecha": "2026-04-28",
+      "titulo": "IV Semana de Pascua",
+      "tiempo": "Tiempo Pascual",
+      "color": "#F5F5F5",
+      "frase": "\"Si mi palabra permanece en ti pide lo que quieras y se te concederá. (Juan 15,7)\"",
+      "santo": "San Pedro Chanel, San Luis María Grignon de Montfort, San Prudencio",
+      "lectura": "Juan 10,22-30",
+      "imagen": "pascua4"
+    },
+    {
+      "fecha": "2026-04-29",
+      "titulo": "IV Semana de Pascua",
+      "tiempo": "Tiempo Pascual",
+      "color": "#F5F5F5",
+      "frase": "\"No sois vosotros los que me habéis elegido soy yo quien os he elegido.\"",
+      "santo": "Santa Catalina de Siena, San Hugo abad",
+      "lectura": "Juan 15,9-17",
+      "imagen": "santacatalinadesiena"
+    },
+    {
+      "fecha": "2026-04-30",
+      "titulo": "IV Semana de Pascua",
+      "tiempo": "Tiempo Pascual",
+      "color": "#F5F5F5",
+      "frase": "\"Ya no te llamo siervo te llamo amigo porque te he confiado todo. (Juan 15,15).\"",
+      "santo": "San Pío V papa,  San José Benito Cottolengo",
+      "lectura": "Marcos 16,15-20",
+      "imagen": "pascua4"
+    },
+    {
+      "fecha": "2026-05-1",
+      "titulo": "IV Semana de Pascua",
+      "tiempo": "Tiempo Pascual",
+      "color": "#F5F5F5",
+      "frase": "\"Vosotros sois la luz del mundo.\"",
+      "santo": "San José Obrero, San Jeremías profeta",
+      "lectura": "Mateo 5,13-16",
+      "imagen": "pascua4"
+    },
+    {
+      "fecha": "2026-05-2",
+      "titulo": "IV Semana de Pascua",
+      "tiempo": "Tiempo Pascual",
+      "color": "#F5F5F5",
+      "frase": "\"Pon tus obras en manos del Señor y tus proyectos se cumplirán. (Proverbios 16,3)\"",
+      "santo": "San Atanasio",
+      "lectura": "Juan 14,7-14",
+      "imagen": "pascua4"
+    },
+    {
+      "fecha": "2026-05-3",
+      "titulo": "V Domingo de Pascua",
+      "tiempo": "Tiempo Pascual",
+      "color": "#F5F5F5",
+      "frase": "Yo soy el camino y la verdad y la vida",
+      "santo": "\"San Felipe apóstol, Santiago el Menor apóstol, San Juvenal de Narni\"",
+      "lectura": "Juan 14,1-12",
+      "imagen": "pascua5"
+    },
+    {
+      "fecha": "2026-05-4",
+      "titulo": "V Semana de Pascua",
+      "tiempo": "Tiempo Pascual",
+      "color": "#F5F5F5",
+      "frase": "\"Te he amado con un amor eterno; por eso he prolongado mi fidelidad contigo. (Jeremías 31,3)\"",
+      "santo": "San Godofredo de Hildesheim",
+      "lectura": "Juan 14,21-26",
+      "imagen": "pascua5"
+    },
+    {
+      "fecha": "2026-05-5",
+      "titulo": "V Semana de Pascua",
+      "tiempo": "Tiempo Pascual",
+      "color": "#F5F5F5",
+      "frase": "\"El Señor es bueno; es un refugio en el día de la angustia. (Nahúm 1,7)\"",
+      "santo": "San Ángel de Sicilia, San Hilario de Arlés",
+      "lectura": "Juan 14,27-31",
+      "imagen": "pascua5"
+    },
+    {
+      "fecha": "2026-05-6",
+      "titulo": "V Semana de Pascua",
+      "tiempo": "Tiempo Pascual",
+      "color": "#F5F5F5",
+      "frase": "\"El amor a María es el camino más corto para llegar a Jesús. (Santo Domingo Savio)\"",
+      "santo": "Santo Domingo Savio",
+      "lectura": "Juan 15,1-8",
+      "imagen": "santodomingosavio"
+    },
+    {
+      "fecha": "2026-05-7",
+      "titulo": "V Semana de Pascua",
+      "tiempo": "Tiempo Pascual",
+      "color": "#F5F5F5",
+      "frase": "\"Permaneced en mi amor para que vuestra alegría llegue a plenitud.\"",
+      "santo": "San Juan de Beverley",
+      "lectura": "Juan 15,9-11",
+      "imagen": "pascua5"
+    },
+    {
+      "fecha": "2026-05-8",
+      "titulo": "V Semana de Pascua",
+      "tiempo": "Tiempo Pascual",
+      "color": "#F5F5F5",
+      "frase": "\"Yo restauraré tu salud y sanaré tus heridas dice el Señor. (Jeremías 30,17)\"",
+      "santo": "Nuestra Señora de Luján, San Pedro de Tarantasia",
+      "lectura": "Juan 15,12-17",
+      "imagen": "pascua5"
+    },
+    {
+      "fecha": "2026-05-9",
+      "titulo": "V Semana de Pascua",
+      "tiempo": "Tiempo Pascual",
+      "color": "#F5F5F5",
+      "frase": "\"En la tranquilidad y en la confianza estará tu fortaleza. (Isaías 30,15)\"",
+      "santo": "San Gregorio Ostiense, San Isaías profeta",
+      "lectura": "Juan 15,18-21",
+      "imagen": "pascua5"
+    },
+    {
+      "fecha": "2026-05-10",
+      "titulo": "VI Domingo de Pascua",
+      "tiempo": "Tiempo Pascual",
+      "color": "#F5F5F5",
+      "frase": "\"El Señor cumplirá su propósito en ti; su misericordia es para siempre. (Salmo 138,8)\"",
+      "santo": "Santo Job patriarca, San Damián de Molokai",
+      "lectura": "Juan 14,15-21",
+      "imagen": "pascua6"
+    },
+    {
+      "fecha": "2026-05-11",
+      "titulo": "VI Semana de Pascua",
+      "tiempo": "Tiempo Pascual",
+      "color": "#F5F5F5",
+      "frase": "\"Te daré un corazón nuevo y pondré un espíritu nuevo dentro de ti. (Ezequiel 36,26)\"",
+      "santo": "San Mayolo de Cluny",
+      "lectura": "Juan 15,26-16,4a",
+      "imagen": "pascua6"
+    },
+    {
+      "fecha": "2026-05-12",
+      "titulo": "VI Semana de Pascua",
+      "tiempo": "Tiempo Pascual",
+      "color": "#F5F5F5",
+      "frase": "\"Toda buena dádiva y todo don perfecto desciende de lo alto para ti. (Santiago 1,17)\"",
+      "santo": "Santo Domingo de la Calzada, San Pancracio de Roma",
+      "lectura": "Juan 16,5-11",
+      "imagen": "pascua6"
+    },
+    {
+      "fecha": "2026-05-13",
+      "titulo": "VI Semana de Pascua",
+      "tiempo": "Tiempo Pascual",
+      "color": "#F5F5F5",
+      "frase": "\"Hágase en ti según mi palabra; no temas porque has hallado gracia. (Lucas 1,30-38)\"",
+      "santo": "San Pedro de Regalado, Bienaventurada Virgen María de Fátima",
+      "lectura": "Juan 16,12-15",
+      "imagen": "virgenfatima"
+    },
+    {
+      "fecha": "2026-05-14",
+      "titulo": "VI Semana de Pascua",
+      "tiempo": "Tiempo Pascual",
+      "color": "#F5F5F5",
+      "frase": "\"No sois vosotros los que me habéis elegido soy yo quien os he elegido.\"",
+      "santo": "San Matías apóstol",
+      "lectura": "Juan 15,9-17",
+      "imagen": "pascua6"
+    },
+    {
+      "fecha": "2026-05-15",
+      "titulo": "VI Semana de Pascua",
+      "tiempo": "Tiempo Pascual",
+      "color": "#F5F5F5",
+      "frase": "\"Espera en el Señor; sé valiente y deja que tu corazón cobre ánimo. (Salmo 27,14)\"",
+      "santo": "San Isidro Labrador",
+      "lectura": "Juan 16,20-23",
+      "imagen": "pascua6"
+    },
+    {
+      "fecha": "2026-05-16",
+      "titulo": "VI Semana de Pascua",
+      "tiempo": "Tiempo Pascual",
+      "color": "#F5F5F5",
+      "frase": "\"Mi presencia irá contigo y yo te daré descanso. (Éxodo 33,14)\"",
+      "santo": "San Simón Stock",
+      "lectura": "Lucas 1,39-56",
+      "imagen": "pascua6"
+    },
+    {
+      "fecha": "2026-05-17",
+      "titulo": "La Ascensión del Señor",
+      "tiempo": "Tiempo Pascual",
+      "color": "#F5F5F5",
+      "frase": "\"Yo estaré contigo todos los días hasta el fin del mundo. (Mateo 28,20)\"",
+      "santo": "San Pascual Bailón",
+      "lectura": "Mateo 28,16-20",
+      "imagen": "ascenciondelsenor"
+    },
+    {
+      "fecha": "2026-05-18",
+      "titulo": "VII Semana de Pascua",
+      "tiempo": "Tiempo Pascual",
+      "color": "#F5F5F5",
+      "frase": "\"Pedid y se os dará para que vuestro gozo sea completo. (Juan 16,24)\"",
+      "santo": "Santa Claudia",
+      "lectura": "Juan 16,29-33",
+      "imagen": "pascua7"
+    },
+    {
+      "fecha": "2026-05-19",
+      "titulo": "VII Semana de Pascua",
+      "tiempo": "Tiempo Pascual",
+      "color": "#F5F5F5",
+      "frase": "\"Cercano está el Señor a los que lo invocan de veras. (Salmo 145,18)\"",
+      "santo": "San Pedro Celestino papa, San Ivo",
+      "lectura": "Juan 17,1-11",
+      "imagen": "pascua7"
+    },
+    {
+      "fecha": "2026-05-20",
+      "titulo": "VII Semana de Pascua",
+      "tiempo": "Tiempo Pascual",
+      "color": "#F5F5F5",
+      "frase": "\"El Dios de la esperanza te llene de todo gozo y paz en el creer. (Romanos 15,13).\"",
+      "santo": "San Bernardino de Siena",
+      "lectura": "Juan 17,11-19",
+      "imagen": "pascua7"
+    },
+    {
+      "fecha": "2026-05-21",
+      "titulo": "VII Semana de Pascua",
+      "tiempo": "Tiempo Pascual",
+      "color": "#F5F5F5",
+      "frase": "\"El fruto de mi Espíritu en ti es amor gozo y paz. (Gálatas 5,22)\"",
+      "santo": "San Cristóbal Magallanes y compañeros",
+      "lectura": "Juan 17,20-26",
+      "imagen": "pascua7"
+    },
+    {
+      "fecha": "2026-05-22",
+      "titulo": "VII Semana de Pascua",
+      "tiempo": "Tiempo Pascual",
+      "color": "#F5F5F5",
+      "frase": "\"Apacienta mis corderos apacienta mis ovejas.\"",
+      "santo": "Santa Rita de Casia, Santa Joaquina de Vedruna",
+      "lectura": "Juan 21,15-19",
+      "imagen": "pascua7"
+    },
+    {
+      "fecha": "2026-05-23",
+      "titulo": "VII Semana de Pascua",
+      "tiempo": "Tiempo Pascual",
+      "color": "#F5F5F5",
+      "frase": "\"No te dejaré huérfano; yo vendré a ti. (Juan 14,18)\"",
+      "santo": "San Desiderio de Langres",
+      "lectura": "Juan 21,20-25",
+      "imagen": "pascua7"
+    },
+    {
+      "fecha": "2026-05-24",
+      "titulo": "Domingo de Pentecostés",
+      "tiempo": "Tiempo Pascual",
+      "color": "#F5F5F5",
+      "frase": "\"Como el Padre me ha enviado así también os envío yo. Recibid el Espíritu Santo.\"",
+      "santo": "María Auxiliadora",
+      "lectura": "Juan 20,19-23",
+      "imagen": "pentecostes"
+    },
+    {
+      "fecha": "2026-05-25",
+      "titulo": "VIII Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Donde está el Espíritu del Señor allí hay libertad para ti. (2 Corintios 3,17)\"",
+      "santo": "San Beda el Venerable, Santa María Magdalena de Pazzi, San Gregorio VII papa",
+      "lectura": "Marcos 10,17-27",
+      "imagen": "tiempoordinario8"
+    },
+    {
+      "fecha": "2026-05-26",
+      "titulo": "VIII Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Encomienda al Señor tu camino confía en Él y Él actuará. (Salmo 37,5)\"",
+      "santo": "Santa Mariana de Jesús de Paredes, San Felipe Neri",
+      "lectura": "Marcos 10,28-31",
+      "imagen": "santamarianita"
+    },
+    {
+      "fecha": "2026-05-27",
+      "titulo": "VIII Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Grábame como un sello en tu corazón porque mi amor por ti es fuerte. (Cantar de los Cantares 8,6)\"",
+      "santo": "San Agustín de Cantorbery",
+      "lectura": "Marcos 10,32-45",
+      "imagen": "tiempoordinario8"
+    },
+    {
+      "fecha": "2026-05-28",
+      "titulo": "VIII Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"El Señor te guardará de todo mal; Él guardará tu alma. (Salmo 121,7)\"",
+      "santo": "San Germán de París, San Guillermo de Gelona",
+      "lectura": "Marcos 10,46-52",
+      "imagen": "tiempoordinario8"
+    },
+    {
+      "fecha": "2026-05-29",
+      "titulo": "VIII Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Mi casa se llamará casa de oración para todos los pueblos. Tened fe en Dios.\"",
+      "santo": "San Maximino de Tréveris",
+      "lectura": "Marcos 11,11-26",
+      "imagen": "tiempoordinario8"
+    },
+    {
+      "fecha": "2026-05-30",
+      "titulo": "VIII Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Te coronaré de favores y de misericordias cada mañana. (Salmo 103,4)\"",
+      "santo": "Santa Juana de Arco, San Fernando III",
+      "lectura": "Marcos 11,27-33",
+      "imagen": "tiempoordinario8"
+    },
+    {
+      "fecha": "2026-05-31",
+      "titulo": "La Santísima Trinidad",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"La gracia del Señor y el amor de Dios estén contigo siempre. (2 Corintios 13,13)\"",
+      "santo": "Santa Petronila de Roma",
+      "lectura": "Juan 16,12-15",
+      "imagen": "santisimatrinidad"
+    },
+    {
+      "fecha": "2026-06-1",
+      "titulo": "IX Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Aunque los montes se muevan mi amor por ti no cambiará. (Isaías 54,10)\"",
+      "santo": "San Justino mártir, Nuestra Señora de la Luz",
+      "lectura": "Marcos 12,1-12",
+      "imagen": "tiempoordinario9"
+    },
+    {
+      "fecha": "2026-06-2",
+      "titulo": "IX Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Lo que es del César pagádselo al César y lo que es de Dios a Dios.\"",
+      "santo": "San Marcelino y San Pedro",
+      "lectura": "Marcos 12,13-17",
+      "imagen": "tiempoordinario9"
+    },
+    {
+      "fecha": "2026-06-3",
+      "titulo": "IX Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Yo soy el pan vivo; si comes de este pan vivirás para siempre. (Juan 6,51)\"",
+      "santo": "San Carlos Lwanga y compañeros",
+      "lectura": "Marcos 12,18-27",
+      "imagen": "tiempoordinario9"
+    },
+    {
+      "fecha": "2026-06-4",
+      "titulo": "IX Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Yo soy el pan de vida; el que viene a mí nunca tendrá hambre. (Juan 6,35)\"",
+      "santo": "Santa Noemí, Santa Ruth",
+      "lectura": "Marcos 12,28-34",
+      "imagen": "corpuschristi"
+    },
+    {
+      "fecha": "2026-06-5",
+      "titulo": "IX Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"En paz me acostaré y asimismo dormiré porque solo Tú me haces vivir confiado. (Salmo 4,8)\"",
+      "santo": "Beato Fernando de Portugal",
+      "lectura": "Marcos 12,35-37",
+      "imagen": "tiempoordinario9"
+    },
+    {
+      "fecha": "2026-06-6",
+      "titulo": "IX Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Tu fe te ha hecho salvo; camina en la luz de mi presencia. (Salmo 89,15)\"",
+      "santo": "San Marcelino Champagnat",
+      "lectura": "Marcos 12,38-44",
+      "imagen": "tiempoordinario9"
+    },
+    {
+      "fecha": "2026-06-7",
+      "titulo": "El Cuerpo y la Sangre Santísimos de Cristo",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Comieron todos y se saciaron.\"",
+      "santo": "San Isaac de Córdoba",
+      "lectura": "Lucas 9,11-17",
+      "imagen": "cuerpoysangredecristo"
+    },
+    {
+      "fecha": "2026-06-8",
+      "titulo": "X Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Dichosos los pobres en el espíritu porque de ellos es el reino de los cielos\"",
+      "santo": "San Medardo",
+      "lectura": "Mateo 5,1-12",
+      "imagen": "tiempoordinario10"
+    },
+    {
+      "fecha": "2026-06-9",
+      "titulo": "X Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Tú eres mi refugio y mi escudo; en tu palabra he puesto mi esperanza. (Salmo 119,114)\"",
+      "santo": "Beata Ana María Taigi, San Efrén de Siria",
+      "lectura": "Mateo 5,13-16",
+      "imagen": "tiempoordinario10"
+    },
+    {
+      "fecha": "2026-06-10",
+      "titulo": "X Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Yo sanaré tu rebelión y te amaré de pura gracia. (Oseas 14,4)\"",
+      "santo": "San Asterio de Petra",
+      "lectura": "Mateo 5,17-19",
+      "imagen": "tiempoordinario10"
+    },
+    {
+      "fecha": "2026-06-11",
+      "titulo": "X Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"No se turbe tu corazón; cree en Dios y cree también en mí. (Juan 14,1)\"",
+      "santo": "San Bernabé apóstol",
+      "lectura": "Mateo 5,20-26",
+      "imagen": "tiempoordinario10"
+    },
+    {
+      "fecha": "2026-06-12",
+      "titulo": "X Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Aprendan de mí que soy manso y humilde de corazón y hallarán descanso. (Mateo 11,29)\"",
+      "santo": "San Onofre de Egipto",
+      "lectura": "Juan 19,31-37",
+      "imagen": "sagradocorazon"
+    },
+    {
+      "fecha": "2026-06-13",
+      "titulo": "X Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Si el Señor es tu luz y tu salvación ¿a quién podrás temer? (Salmo 27,1)\"",
+      "santo": "San Antonio de Padua, San Fandila de Córdoba",
+      "lectura": "Lucas 2,41-51",
+      "imagen": "tiempoordinario10"
+    },
+    {
+      "fecha": "2026-06-14",
+      "titulo": "XI Domingo del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Al ver Jesús a las gentes se compadecía de ellas porque estaban como ovejas sin pastor\"",
+      "santo": "San Eliseo, San Anastasio de Córdoba, San Félix de Córdoba, Santa Digna de Córdoba",
+      "lectura": "Mateo 9,36–10,8",
+      "imagen": "tiempoordinario11"
+    },
+    {
+      "fecha": "2026-06-15",
+      "titulo": "XI Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Tu bondad y tu amor me seguirán todos los días de mi vida. (Salmo 23,6)\"",
+      "santo": "Santa Benilde de Córdoba, Santa María Micaela del Santísimo Sacramento",
+      "lectura": "Mateo 5,38-42",
+      "imagen": "tiempoordinario11"
+    },
+    {
+      "fecha": "2026-06-16",
+      "titulo": "XI Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Amad a vuestros enemigos.\"",
+      "santo": "San Juan Francisco Regis",
+      "lectura": "Mateo 5,43-48",
+      "imagen": "tiempoordinario11"
+    },
+    {
+      "fecha": "2026-06-17",
+      "titulo": "XI Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Tu Padre que ve en lo escondido te recompensará.\"",
+      "santo": "Santa Teresa de Portugal",
+      "lectura": "Mateo 6,1-6. 16-18",
+      "imagen": "tiempoordinario11"
+    },
+    {
+      "fecha": "2026-06-18",
+      "titulo": "XI Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"El Señor guarda a los sencillos; yo estaba caído y Él me salvó. (Salmo 116,6)\"",
+      "santo": "San Marcos de Roma, San Marcelino de Roma",
+      "lectura": "Mateo 6,7-15.",
+      "imagen": "tiempoordinario11"
+    },
+    {
+      "fecha": "2026-06-19",
+      "titulo": "XI Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Yo te he elegido y no te he desechado; no desmayes yo te fortalezco. (Isaías 41,10)\"",
+      "santo": "San Romualdo, San Gervasio de Milán, San Protasio de Milán",
+      "lectura": "Mateo 6,19-23",
+      "imagen": "tiempoordinario11"
+    },
+    {
+      "fecha": "2026-06-20",
+      "titulo": "XI Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Tu Dios está en medio de ti; Él se gozará sobre ti con alegría. (Sofonías 3,17)\"",
+      "santo": "Beato Tomás Whitbread y compañeros",
+      "lectura": "Mateo 6,24-34",
+      "imagen": "tiempoordinario11"
+    },
+    {
+      "fecha": "2026-06-21",
+      "titulo": "XII Domingo del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Mucho mejor es ser hijo de Dios que ser dueño de todo el mundo (San Luis Gonzaga)\"",
+      "santo": "San Luis Gonzaga",
+      "lectura": "Mateo 10,26-33",
+      "imagen": "sanluisgonzaga"
+    },
+    {
+      "fecha": "2026-06-22",
+      "titulo": "XII Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Echen toda su ansiedad sobre Él porque Él tiene cuidado de ustedes. (1 Pedro 5,7)\"",
+      "santo": "Santo Tomás Moro",
+      "lectura": "Mateo 7,1-5",
+      "imagen": "tiempoordinario12"
+    },
+    {
+      "fecha": "2026-06-23",
+      "titulo": "XII Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Tratad a los demás como queréis que ellos os traten.\"",
+      "santo": "San José Cafasso",
+      "lectura": "Mateo 7,6.12-14",
+      "imagen": "tiempoordinario12"
+    },
+    {
+      "fecha": "2026-06-24",
+      "titulo": "XII Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Desde el vientre materno te llamé y puse mi nombre sobre ti. (Isaías 49,1)\"",
+      "santo": "San Juan Bautista (Natividad)",
+      "lectura": "Lucas 1,57-66.80",
+      "imagen": "tiempoordinario12"
+    },
+    {
+      "fecha": "2026-06-25",
+      "titulo": "XII Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"El que habita al amparo del Altísimo morará bajo la sombra del Omnipotente. (Salmo 91,1)\"",
+      "santo": "San Máximo de Turín",
+      "lectura": "Mateo 7,21-29",
+      "imagen": "tiempoordinario12"
+    },
+    {
+      "fecha": "2026-06-26",
+      "titulo": "XII Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"El Señor te guiará siempre y saciará tu alma en las sequías. (Isaías 58,11)\"",
+      "santo": "San Pelayo de Córdoba, San Josemaría Escrivá",
+      "lectura": "Mateo 8,1-4",
+      "imagen": "tiempoordinario12"
+    },
+    {
+      "fecha": "2026-06-27",
+      "titulo": "XII Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"No se inquieten por su vida; su Padre celestial sabe lo que necesitan. (Mateo 6,25-26)\"",
+      "santo": "San Cirilo de Alejandría",
+      "lectura": "Mateo 8,5-17",
+      "imagen": "tiempoordinario12"
+    },
+    {
+      "fecha": "2026-06-28",
+      "titulo": "XIII Domingo del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"El que pierda su vida por mí la encontrará.\"",
+      "santo": "San Ireneo de Lyon",
+      "lectura": "Mateo 10,37-42",
+      "imagen": "tiempoordinario13"
+    },
+    {
+      "fecha": "2026-06-29",
+      "titulo": "XIII Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Tú eres Pedro y te daré las llaves del Reino de los cielos\"",
+      "santo": "San Pablo apóstol, San Pedro apóstol",
+      "lectura": "Mateo 16,13-19",
+      "imagen": "sanpedro"
+    },
+    {
+      "fecha": "2026-06-30",
+      "titulo": "XIII Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"¿Por qué tienes miedo hombre de poca fe? Yo estoy aquí. (Mateo 8,26)\"",
+      "santo": "San Ladislao de Hungría",
+      "lectura": "Mateo 8,23-27",
+      "imagen": "tiempoordinario13"
+    },
+    {
+      "fecha": "2026-07-1",
+      "titulo": "XIII Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"No te canses de hacer el bien porque a su tiempo cosecharás si no desmayas. (Gálatas 6,9)\"",
+      "santo": "San Aarón, Santa Ester o Esther",
+      "lectura": "Mateo 8,28-34",
+      "imagen": "tiempoordinario13"
+    },
+    {
+      "fecha": "2026-07-2",
+      "titulo": "XIII Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"El Señor es tu pastor; aunque camines por valles oscuros nada te faltará. (Salmo 23,1-4)\"",
+      "santo": "San Otón de Bamberg",
+      "lectura": "Mateo 9,1-8",
+      "imagen": "tiempoordinario13"
+    },
+    {
+      "fecha": "2026-07-3",
+      "titulo": "XIII Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Felices los que creen sin haber visto.\"",
+      "santo": "Santo Tomás apóstol",
+      "lectura": "Juan 20,24-29",
+      "imagen": "tiempoordinario13"
+    },
+    {
+      "fecha": "2026-07-4",
+      "titulo": "XIII Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Yo soy el Señor que te enseña lo que te conviene y te guía por donde debes andar. (Isaías 48,17)\"",
+      "santo": "Santa Isabel de Portugal",
+      "lectura": "Mateo 9,14-17",
+      "imagen": "tiempoordinario13"
+    },
+    {
+      "fecha": "2026-07-5",
+      "titulo": "XIV Domingo del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Mi gracia te basta; mi poder se manifiesta mejor cuando eres débil. (2 Corintios 12,9)\"",
+      "santo": "San Antonio María Zaccaría",
+      "lectura": "Mateo 11,25-30",
+      "imagen": "tiempoordinario14"
+    },
+    {
+      "fecha": "2026-07-6",
+      "titulo": "XIV Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Ánimo hija; tu fe te ha salvado. Vete en paz. (Mateo 9,22)\"",
+      "santo": "Santa María Goretti",
+      "lectura": "Mateo 9,18-26",
+      "imagen": "tiempoordinario14"
+    },
+    {
+      "fecha": "2026-07-7",
+      "titulo": "XIV Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Pon tu confianza en el Señor y Él enderezará todos tus caminos. (Proverbios 3,6)\"",
+      "santo": "San Fermín",
+      "lectura": "Mateo 9,32-38.",
+      "imagen": "tiempoordinario14"
+    },
+    {
+      "fecha": "2026-07-8",
+      "titulo": "XIV Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Vayan y anuncien que el Reino de los Cielos está cerca de ustedes. (Mateo 10,7)\"",
+      "santo": "San Procopio",
+      "lectura": "Mateo 10,1-7",
+      "imagen": "tiempoordinario14"
+    },
+    {
+      "fecha": "2026-07-9",
+      "titulo": "XIV Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Lo que recibiste gratis dalo también gratis; hay más alegría en dar. (Mateo 10,8)\"",
+      "santo": "San Nicolás Pieck y compañeros, Santa Verónica Giuliani",
+      "lectura": "Mateo 10,7-15",
+      "imagen": "tiempoordinario14"
+    },
+    {
+      "fecha": "2026-07-10",
+      "titulo": "XIV Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"No seréis vosotros los que habléis sino el Espíritu de vuestro Padre.\"",
+      "santo": "San Cristóbal de Licia",
+      "lectura": "Mateo 10,16-23",
+      "imagen": "tiempoordinario14"
+    },
+    {
+      "fecha": "2026-07-11",
+      "titulo": "XIV Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"No tengas miedo a los que solo pueden tocar el cuerpo; tu alma me pertenece. (Mateo 10,28)\"",
+      "santo": "San Benito de Nursia",
+      "lectura": "Mateo 10,24-33",
+      "imagen": "tiempoordinario14"
+    },
+    {
+      "fecha": "2026-07-12",
+      "titulo": "XV Domingo del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Dichosos tus ojos porque ven y tus oídos porque oyen mi palabra. (Mateo 13,16)\"",
+      "santo": "San Juan Gualberto",
+      "lectura": "Mateo 13,1-23",
+      "imagen": "tiempoordinario15"
+    },
+    {
+      "fecha": "2026-07-13",
+      "titulo": "XV Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"El que no toma su cruz y me sigue no es digno de mí; ¡atrévete a seguirme! (Mateo 10,38)\"",
+      "santo": "San Enrique emperador, Santa Teresa de los Andes",
+      "lectura": "Mateo 10,34-11,1",
+      "imagen": "tiempoordinario15"
+    },
+    {
+      "fecha": "2026-07-14",
+      "titulo": "XV Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Te alabo Padre porque has revelado estas cosas a los sencillos de corazón. (Mateo 11,25)\"",
+      "santo": "San Camilo de Lelis",
+      "lectura": "Mateo 11,20-24",
+      "imagen": "tiempoordinario15"
+    },
+    {
+      "fecha": "2026-07-15",
+      "titulo": "XV Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Vengan a mí los que están agobiados que yo los aliviaré. (Mateo 11,28)\"",
+      "santo": "San Buenaventura",
+      "lectura": "Mateo 11,25-27",
+      "imagen": "tiempoordinario15"
+    },
+    {
+      "fecha": "2026-07-16",
+      "titulo": "XV Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Dichosos los que escuchan la palabra de Dios y la cumplen. (Lucas 11,28)\"",
+      "santo": "Nuestra Señora del Carmen",
+      "lectura": "Mateo 11,28-30",
+      "imagen": "nuestrasenoradelcarmen"
+    },
+    {
+      "fecha": "2026-07-17",
+      "titulo": "XV Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Misericordia quiero y no sacrificios; yo no juzgo como juzgan los hombres. (Mateo 12,7)\"",
+      "santo": "San Alejo mendigo",
+      "lectura": "Mateo 12,1-8",
+      "imagen": "tiempoordinario15"
+    },
+    {
+      "fecha": "2026-07-18",
+      "titulo": "XV Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"En mi nombre pondrán las naciones su esperanza y tú también. (Mateo 12,21)\"",
+      "santo": "San Federico de Utrecht, Santa Sinforosa e hijos",
+      "lectura": "Mateo 12,14-21",
+      "imagen": "tiempoordinario15"
+    },
+    {
+      "fecha": "2026-07-19",
+      "titulo": "XVI Domingo del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Deja que el trigo y la cizaña crezcan juntos; yo cuidaré de tu fruto. (Mateo 13,30)\"",
+      "santo": "Santa Áurea de Córdoba",
+      "lectura": "Mateo 13,24-43",
+      "imagen": "tiempoordinario16"
+    },
+    {
+      "fecha": "2026-07-20",
+      "titulo": "XVI Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Si tienes fe como un granito de mostaza nada te será imposible. (Mateo 17,20)\"",
+      "santo": "San Elías profeta",
+      "lectura": "Mateo 12,38-42",
+      "imagen": "tiempoordinario16"
+    },
+    {
+      "fecha": "2026-07-21",
+      "titulo": "XVI Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"El que hace la voluntad de mi Padre ese es mi hermano y mi madre. (Mateo 12,50)\"",
+      "santo": "San Daniel profeta, San Lorenzo de Brindisi",
+      "lectura": "Mateo 12,46-50",
+      "imagen": "tiempoordinario16"
+    },
+    {
+      "fecha": "2026-07-22",
+      "titulo": "XVI Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"He visto al Señor; Él me ha llamado por mi nombre y me ha enviado. (Juan 20,18)\"",
+      "santo": "Santa María Magdalena",
+      "lectura": "Juan 20,1.11-18",
+      "imagen": "mariamagdalena"
+    },
+    {
+      "fecha": "2026-07-23",
+      "titulo": "XVI Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Muchos desearon ver lo que tú ves y oír lo que tú oyes hoy. (Mateo 13,17)\"",
+      "santo": "Santa Brígida de Suecia",
+      "lectura": "Mateo 13,10-17",
+      "imagen": "tiempoordinario16"
+    },
+    {
+      "fecha": "2026-07-24",
+      "titulo": "XVI Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"El que escucha la Palabra y la entiende ése dará fruto.\"",
+      "santo": "Santa Cristina de Bolsena",
+      "lectura": "Mateo 13,18-23",
+      "imagen": "tiempoordinario16"
+    },
+    {
+      "fecha": "2026-07-25",
+      "titulo": "XVI Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"El que quiera ser grande entre ustedes que sea el servidor de todos. (Mateo 20,26)\"",
+      "santo": "Santiago el Mayor apóstol",
+      "lectura": "Mateo 20,20-28",
+      "imagen": "tiempoordinario16"
+    },
+    {
+      "fecha": "2026-07-26",
+      "titulo": "XVII Domingo del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"El Reino de los Cielos es como un tesoro escondido; ¡vale la pena todo por él! (Mateo 13,44)\"",
+      "santo": "San Joaquín padre de María, Santa Ana madre de María",
+      "lectura": "Mateo 13,44-52",
+      "imagen": "sanjoaquinsantaana"
+    },
+    {
+      "fecha": "2026-07-27",
+      "titulo": "XVII Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"El Reino de Dios es como una red que recoge toda clase de peces; tú eres valioso. (Mateo 13,47)\"",
+      "santo": "Santa Natalia de Córdoba, San Simeón Estilita, San Cucufate",
+      "lectura": "Mateo 13,31-35",
+      "imagen": "tiempoordinario17"
+    },
+    {
+      "fecha": "2026-07-28",
+      "titulo": "XVII Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Entonces los justos brillarán como el sol en el Reino de su Padre. (Mateo 13,43)\"",
+      "santo": "San Víctor I papa",
+      "lectura": "Mateo 13,36-43",
+      "imagen": "tiempoordinario17"
+    },
+    {
+      "fecha": "2026-07-29",
+      "titulo": "XVII Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Yo soy la resurrección y la vida; el que cree en mí vivirá. (Juan 11,25)\"",
+      "santo": "Santa Marta de Betania",
+      "lectura": "Mateo 13,44-46",
+      "imagen": "tiempoordinario17"
+    },
+    {
+      "fecha": "2026-07-30",
+      "titulo": "XVII Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"¿De qué le sirve al hombre ganar el mundo si pierde su alma? (Mateo 16,26)\"",
+      "santo": "San Pedro Crisólogo",
+      "lectura": "Mateo 13,47-53",
+      "imagen": "tiempoordinario17"
+    },
+    {
+      "fecha": "2026-07-31",
+      "titulo": "XVII Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Actúa como si todo dependiera de ti confía como si todo dependiera de Dios. (San Ignacio de Loyola)\"",
+      "santo": "San Ignacio de Loyola",
+      "lectura": "Mateo 13,54-58",
+      "imagen": "sanignaciodeloyola"
+    },
+    {
+      "fecha": "2026-08-1",
+      "titulo": "XVII Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Nuestra única meta debe ser el cumplimiento de la voluntad de Dios. (San Alfonso)\"",
+      "santo": "San Alfonso María de Ligorio, San Pedro Fabro",
+      "lectura": "Mateo 14,1-12",
+      "imagen": "sanalfonso"
+    },
+    {
+      "fecha": "2026-08-2",
+      "titulo": "XVIII Domingo del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"El Señor es bueno con todos; su ternura alcanza a todas sus criaturas. (Salmo 145,9)\"",
+      "santo": "Nuestra Señora de los Ángeles",
+      "lectura": "Mateo 14,13-21",
+      "imagen": "tiempoordinario18"
+    },
+    {
+      "fecha": "2026-08-3",
+      "titulo": "XVIII Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Cuando cruces por las aguas yo estaré contigo; las llamas no te quemarán. (Isaías 43,2)\"",
+      "santo": "San Asprenato de Nápoles",
+      "lectura": "Mateo 14,13-21",
+      "imagen": "tiempoordinario18"
+    },
+    {
+      "fecha": "2026-08-4",
+      "titulo": "XVIII Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"El Señor es mi luz y mi salvación ¿a quién voy a temer? (Salmo 27,1)\"",
+      "santo": "San Juan María Vianney, San Rubén",
+      "lectura": "Mateo 14,22-36",
+      "imagen": "tiempoordinario18"
+    },
+    {
+      "fecha": "2026-08-5",
+      "titulo": "XVIII Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Mujer qué grande es tu fe\"",
+      "santo": "Nuestra Señora de las Nieves",
+      "lectura": "Mateo 15,21-28",
+      "imagen": "nuestrasenoradelasnieves"
+    },
+    {
+      "fecha": "2026-08-6",
+      "titulo": "La Transfiguración del Señor",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Confía tus preocupaciones al Señor y Él te mantendrá firme. (Salmo 55,22)\"",
+      "santo": "San Hormisda papa",
+      "lectura": "Mateo 25,1-13",
+      "imagen": "transfiguraciondelsenor"
+    },
+    {
+      "fecha": "2026-08-7",
+      "titulo": "XVIII Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"En la tranquilidad y en la confianza estará tu fuerza. (Isaías 30,15)\"",
+      "santo": "San Cayetano de Thiene, San Sixto II papa",
+      "lectura": "Mateo 16,24-28",
+      "imagen": "tiempoordinario18"
+    },
+    {
+      "fecha": "2026-08-8",
+      "titulo": "XVIII Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"El Santo Rosario es la mejor artillería contra los demonios y sus seguidores. (Santo Domingo de Guzman)\"",
+      "santo": "Santo Domingo de Guzmán",
+      "lectura": "Mateo 17,14-20",
+      "imagen": "santodomingodeguzman"
+    },
+    {
+      "fecha": "2026-08-9",
+      "titulo": "XIX Domingo del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Ánimo soy yo no tengas miedo. Camina sobre el agua conmigo. (Mateo 14,27)\"",
+      "santo": "Santa Edith Stein (Sor Teresa Benedicta de la Cruz), San Osvaldo de Maserfield",
+      "lectura": "Mateo 14,22-33",
+      "imagen": "tiempoordinario19"
+    },
+    {
+      "fecha": "2026-08-10",
+      "titulo": "XIX Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"El que se ama a sí mismo se pierde\"",
+      "santo": "San Lorenzo",
+      "lectura": "Juan 12,24-26",
+      "imagen": "tiempoordinario19"
+    },
+    {
+      "fecha": "2026-08-11",
+      "titulo": "XIX Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Donde dos o tres se reúnen en mi nombre allí estoy yo en medio de ellos. (Mateo 18,20)\"",
+      "santo": "Santa Clara de Asís",
+      "lectura": "Mateo 18,1-5.10.12-14",
+      "imagen": "tiempoordinario19"
+    },
+    {
+      "fecha": "2026-08-12",
+      "titulo": "XIX Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"El Señor es tu guardián Él está a tu lado como sombra protectora. (Salmo 121,5)\"",
+      "santo": "Santa Hilaria de Augsburgo",
+      "lectura": "Mateo 18,15-20",
+      "imagen": "tiempoordinario19"
+    },
+    {
+      "fecha": "2026-08-13",
+      "titulo": "XIX Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"No te digo que perdones hasta siete veces sino hasta setenta veces siete\"",
+      "santo": "San Hipólito mártir",
+      "lectura": "Mateo 18,21-29",
+      "imagen": "tiempoordinario19"
+    },
+    {
+      "fecha": "2026-08-14",
+      "titulo": "XIX Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Lo que Dios ha unido que no lo separe el hombre; cuida tu amor. (Mateo 19,6)\"",
+      "santo": "San Maximiliano María Kolbe, San Alfredo de Hildeseheim",
+      "lectura": "Mateo 19,3-12",
+      "imagen": "tiempoordinario19"
+    },
+    {
+      "fecha": "2026-08-15",
+      "titulo": "La Asunción de la Santísima Virgen María",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"El Poderoso ha hecho obras grandes por mí enaltece a los humildes\"",
+      "santo": "Santa María del Alba",
+      "lectura": "Lucas 13,9-56",
+      "imagen": "asuncionvirgensantisima"
+    },
+    {
+      "fecha": "2026-08-16",
+      "titulo": "XX Domingo del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Jesús le respondió: «Mujer qué grande es tu fe: que se cumpla lo que deseas.»\"",
+      "santo": "San Roque",
+      "lectura": "Mateo 15,21-28",
+      "imagen": "tiempoordinario20"
+    },
+    {
+      "fecha": "2026-08-17",
+      "titulo": "XX Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Busca la paz y corre tras ella; el Señor escucha tu clamor. (Salmo 34,14-15)\"",
+      "santo": "San Eusebio papa",
+      "lectura": "Mateo 19,16-22",
+      "imagen": "tiempoordinario20"
+    },
+    {
+      "fecha": "2026-08-18",
+      "titulo": "XX Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Más fácil le es a un camello pasar por el ojo de una aguja que a un rico entrar en el reino de Dios.\"",
+      "santo": "Santa Elena de Constantinopla",
+      "lectura": "Mateo 19,23-30",
+      "imagen": "tiempoordinario20"
+    },
+    {
+      "fecha": "2026-08-19",
+      "titulo": "XX Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"El Señor es mi pastor nada me falta; en verdes praderas me hace recostar. (Salmo 23,1-2)\"",
+      "santo": "San Juan Eudes",
+      "lectura": "Mateo 20,1-16",
+      "imagen": "tiempoordinario20"
+    },
+    {
+      "fecha": "2026-08-20",
+      "titulo": "XX Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Muchos son los llamados pero pocos los que se atreven a elegirme. (Mateo 22,14)\"",
+      "santo": "San Bernardo de Claraval, San Samuel profeta",
+      "lectura": "Mateo 22,1-14",
+      "imagen": "tiempoordinario20"
+    },
+    {
+      "fecha": "2026-08-21",
+      "titulo": "XX Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Amarás al señor tu Dios y a tu prójimo como a ti mismo.\"",
+      "santo": "San Pío X papa",
+      "lectura": "Mateo 22,34-40",
+      "imagen": "tiempoordinario20"
+    },
+    {
+      "fecha": "2026-08-22",
+      "titulo": "XX Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"El que se humilla será enaltecido; tu sencillez es tu mayor grandeza. (Mateo 23,12)\"",
+      "santo": "Santa María Reina",
+      "lectura": "Mateo 23,1-12",
+      "imagen": "tiempoordinario20"
+    },
+    {
+      "fecha": "2026-08-23",
+      "titulo": "XXI Domingo del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Simón Pedro tomó la palabra y dijo: «Tú eres el Mesías el Hijo de Dios vivo.»\"",
+      "santo": "Santa Rosa de Lima",
+      "lectura": "Mateo 16,13-20",
+      "imagen": "santarosadelima"
+    },
+    {
+      "fecha": "2026-08-24",
+      "titulo": "XXI Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Aquí tienes a una persona en la que no hay doblez; sé transparente. (Juan 1,47)\"",
+      "santo": "San Bartolomé apóstol",
+      "lectura": "Juan 1,45-51",
+      "imagen": "tiempoordinario21"
+    },
+    {
+      "fecha": "2026-08-25",
+      "titulo": "XXI Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Limpia primero el interior para que lo exterior también sea puro. (Mateo 23,26)\"",
+      "santo": "San José de Calasanz, Santa Patricia de Nápoles, San Ginés de Arlés",
+      "lectura": "Mateo 23,23-26",
+      "imagen": "tiempoordinario21"
+    },
+    {
+      "fecha": "2026-08-26",
+      "titulo": "XXI Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Tu palabra es una lámpara para mis pasos y una luz en mi camino. (Salmo 119,105)\"",
+      "santo": "Santa Teresa de Jesús Jornet Ibars",
+      "lectura": "Mateo 23,27-32",
+      "imagen": "tiempoordinario21"
+    },
+    {
+      "fecha": "2026-08-27",
+      "titulo": "XXI Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Estén despiertos porque no saben a qué hora llegará su Señor. (Mateo 24,42)\"",
+      "santo": "Santa Mónica",
+      "lectura": "Mateo 24,42-51",
+      "imagen": "tiempoordinario21"
+    },
+    {
+      "fecha": "2026-08-28",
+      "titulo": "XXI Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"No temas porque yo te he rescatado; te he llamado por tu nombre y eres mío. (Isaías 43,1)\"",
+      "santo": "San Agustín de Hipona",
+      "lectura": "Mateo 25,1-13",
+      "imagen": "tiempoordinario21"
+    },
+    {
+      "fecha": "2026-08-29",
+      "titulo": "XXI Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Como eres fiel en lo poco te daré la responsabilidad de mucho. (Mateo 25,21)\"",
+      "santo": "San Juan Bautista (Martirio)",
+      "lectura": "Mateo 25,14-30",
+      "imagen": "tiempoordinario21"
+    },
+    {
+      "fecha": "2026-08-30",
+      "titulo": "XXII Domingo del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"El que quiera venirse conmigo que se niegue a sí mismo que cargue con su cruz y me siga\"",
+      "santo": "San Pamaquio de Roma",
+      "lectura": "Mateo 16,21-27",
+      "imagen": "tiempoordinario22"
+    },
+    {
+      "fecha": "2026-08-31",
+      "titulo": "XXII Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Me ha enviado para anunciar el Evangelio a los pobres... Ningún profeta es bien mirado en su tierra.\"",
+      "santo": "San Ramón Nonato",
+      "lectura": "Lucas 4,16-30",
+      "imagen": "tiempoordinario22"
+    },
+    {
+      "fecha": "2026-09-1",
+      "titulo": "XXII Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"¡Levántate amada mía y ven! El invierno ha pasado y las flores aparecen. (Cantar de los Cantares 2,10-11)\"",
+      "santo": "San Josué",
+      "lectura": "Lucas 4,31-37",
+      "imagen": "tiempoordinario22"
+    },
+    {
+      "fecha": "2026-09-2",
+      "titulo": "XXII Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"El Señor es tu pastor nada te falta; Él repara tus fuerzas. (Salmo 23,1-3)\"",
+      "santo": "Beato Bartolomé Gutiérrez",
+      "lectura": "Lucas 4,38-44",
+      "imagen": "tiempoordinario22"
+    },
+    {
+      "fecha": "2026-09-3",
+      "titulo": "XXII Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Dejándolo todo lo siguieron.\"",
+      "santo": "San Gregorio I Magno papa",
+      "lectura": "Lucas 5,1-11",
+      "imagen": "tiempoordinario22"
+    },
+    {
+      "fecha": "2026-09-4",
+      "titulo": "XXII Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Yo sé los planes que tengo para ti: planes de paz y no de desgracia. (Jeremías 29,11)\"",
+      "santo": "San Moisés profeta",
+      "lectura": "Lucas 5,33-39",
+      "imagen": "tiempoordinario22"
+    },
+    {
+      "fecha": "2026-09-5",
+      "titulo": "XXII Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Que nadie venga a Ti sin irse mejor y más feliz. (Beata Madre Teresa de Calcuta)\"",
+      "santo": "Beata Madre Teresa de Calcuta",
+      "lectura": "Lucas 6,1-5",
+      "imagen": "madreteresadecalculta"
+    },
+    {
+      "fecha": "2026-09-6",
+      "titulo": "XXIII Domingo del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"No se inquieten por nada; que la paz de Dios custodie sus corazones. (Filipenses 4,6-7)\"",
+      "santo": "Beato Pascual Torres Lloret",
+      "lectura": "Mateo 18,15-20",
+      "imagen": "tiempoordinario23"
+    },
+    {
+      "fecha": "2026-09-7",
+      "titulo": "XXIII Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Tu amor vale más que la vida; por eso mis labios te alabarán. (Salmo 63,4)\"",
+      "santo": "Santa Regina de Autun",
+      "lectura": "Lucas 6,6-11",
+      "imagen": "tiempoordinario23"
+    },
+    {
+      "fecha": "2026-09-8",
+      "titulo": "XXIII Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"La criatura que hay en ella viene del Espíritu Santo.\"",
+      "santo": "Nuestra Señora de Nuria, Natividad de Nuestra Señora",
+      "lectura": "Mateo 1,1-16.18-23",
+      "imagen": "tiempoordinario23"
+    },
+    {
+      "fecha": "2026-09-9",
+      "titulo": "XXIII Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Dichosos los pobres porque vuestro es el reino de Dios.\"",
+      "santo": "San Pedro Claver",
+      "lectura": "Lucas 6,20-26",
+      "imagen": "tiempoordinario23"
+    },
+    {
+      "fecha": "2026-09-10",
+      "titulo": "XXIII Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Sed compasivos como vuestro Padre es compasivo.\"",
+      "santo": "San Nicolás de Tolentino",
+      "lectura": "Lucas 6,27-38",
+      "imagen": "tiempoordinario23"
+    },
+    {
+      "fecha": "2026-09-11",
+      "titulo": "XXIII Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Aunque un ejército acampe contra ti tu corazón no debe temer. (Salmo 27,3)\"",
+      "santo": "San Pafnucio de Egipto",
+      "lectura": "Lucas 6,39-42",
+      "imagen": "tiempoordinario23"
+    },
+    {
+      "fecha": "2026-09-12",
+      "titulo": "XXIII Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Tu nombre es como un perfume derramado; por eso todos te aman. (Cantar de los Cantares 1,3)\"",
+      "santo": "Dulce Nombre de María",
+      "lectura": "Lucas 6,43-49",
+      "imagen": "tiempoordinario23"
+    },
+    {
+      "fecha": "2026-09-13",
+      "titulo": "XXIV Domingo del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Si vivimos para el Señor vivimos; tu vida tiene un propósito eterno. (Romanos 14,8)\"",
+      "santo": "San Juan Crisóstomo",
+      "lectura": "Mateo 18,21-35",
+      "imagen": "tiempoordinario24"
+    },
+    {
+      "fecha": "2026-09-14",
+      "titulo": "XXIV Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Cuando sea levantado atraeré a todos hacia mí con la fuerza de mi amor. (Juan 12,32)\"",
+      "santo": "Exaltación de la Santa Cruz",
+      "lectura": "Juan 3,13-17",
+      "imagen": "exaltaciondelacruz"
+    },
+    {
+      "fecha": "2026-09-15",
+      "titulo": "XXIV Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Tu dolor se convertirá en alegría y nadie te podrá quitar ese gozo. (Juan 16,22)\"",
+      "santo": "Nuestra Señora de los Dolores",
+      "lectura": "Lucas 7,11-17",
+      "imagen": "virgendelosdolores"
+    },
+    {
+      "fecha": "2026-09-16",
+      "titulo": "XXIV Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Sé valiente y que tu corazón se fortalezca; espera siempre en el Señor. (Salmo 27,14)\"",
+      "santo": "San Cornelio papa, San Cipriano obispo, San Juan Macías",
+      "lectura": "Lucas 7,31-35",
+      "imagen": "tiempoordinario24"
+    },
+    {
+      "fecha": "2026-09-17",
+      "titulo": "XXIV Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Te he tejido en el vientre de tu madre; eres una obra maravillosa. (Salmo 139,13-14)\"",
+      "santo": "Santa Adriana de Frisia, San Roberto Belarmino, Santa Hildegarda de Bingen",
+      "lectura": "Lucas 7,36-50",
+      "imagen": "tiempoordinario24"
+    },
+    {
+      "fecha": "2026-09-18",
+      "titulo": "XXIV Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Busca al Señor mientras se deja encontrar; Él es rico en perdón contigo. (Isaías 55,6-7)\"",
+      "santo": "San José de Cupertino",
+      "lectura": "Lucas 8,1-3",
+      "imagen": "tiempoordinario24"
+    },
+    {
+      "fecha": "2026-09-19",
+      "titulo": "XXIV Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"El amor es paciente es servicial; el amor no pasa jamás. (1 Corintios 13,4-8)\"",
+      "santo": "San Jenaro de Nápoles",
+      "lectura": "Lucas 8,4-15",
+      "imagen": "tiempoordinario24"
+    },
+    {
+      "fecha": "2026-09-20",
+      "titulo": "XXV Domingo del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"El que quiera ser el primero que sea el servidor de todos. (Marcos 9,35)\"",
+      "santo": "San Andrés Kim Taegön y compañeros",
+      "lectura": "Mateo 20,1-16",
+      "imagen": "tiempoordinario25"
+    },
+    {
+      "fecha": "2026-09-21",
+      "titulo": "XXV Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Sígueme; no he venido a llamar a los perfectos sino a ti. (Mateo 9,9-13)\"",
+      "santo": "San Mateo evangelista y apóstol",
+      "lectura": "Mateo 9,9-13",
+      "imagen": "tiempoordinario25"
+    },
+    {
+      "fecha": "2026-09-22",
+      "titulo": "XXV Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Las muchas aguas no podrán apagar el amor ni los ríos lo ahogarán. (Cantar de los Cantares 8,7)\"",
+      "santo": "San Mauricio de Agauno y compañeros",
+      "lectura": "Lucas 8,19-21",
+      "imagen": "tiempoordinario25"
+    },
+    {
+      "fecha": "2026-09-23",
+      "titulo": "XXV Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"La oración es la mejor arma que tenemos; es una llave que abre el corazón de Dios. (Padre Pío)\"",
+      "santo": "San Pío de Pietrelcina - el Padre Pío, Santa Tecla de Seleucia",
+      "lectura": "Lucas 9,1-6",
+      "imagen": "sanpadrepio"
+    },
+    {
+      "fecha": "2026-09-24",
+      "titulo": "XXV Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"El Señor rompe tus cadenas y te devuelve la libertad. (Salmo 116,16)\"",
+      "santo": "Nuestra Señora de la Merced",
+      "lectura": "Lucas 9,7-9",
+      "imagen": "virgendelamerced"
+    },
+    {
+      "fecha": "2026-09-25",
+      "titulo": "XXV Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Todo tiene su tiempo bajo el sol; hoy es tu tiempo de confiar. (Eclesiastés 3,1)\"",
+      "santo": "San Cleofás discípulo",
+      "lectura": "Lucas 9,18-22",
+      "imagen": "tiempoordinario25"
+    },
+    {
+      "fecha": "2026-09-26",
+      "titulo": "XXV Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Tú eres mi refugio; me rodeas con cantos de liberación. (Salmo 32,7)\"",
+      "santo": "San Damián, San Cosme",
+      "lectura": "Lucas 9,43-45",
+      "imagen": "tiempoordinario25"
+    },
+    {
+      "fecha": "2026-09-27",
+      "titulo": "XXVI Domingo del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Si por necesidad tienes que dejar la oración para servir a un pobre hazlo con tranquilidad; dejarás a Dios por Dios. (San Vicente de Paúl)\"",
+      "santo": "San Vicente Paúl",
+      "lectura": "Mateo 21,28-32",
+      "imagen": "sanvicentedepaul"
+    },
+    {
+      "fecha": "2026-09-28",
+      "titulo": "XXVI Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"El más pequeño de vosotros es el más importante.\"",
+      "santo": "San Lorenzo Ruiz y compañeros, San Wenceslao de Bohemia",
+      "lectura": "Lucas 9,46-50",
+      "imagen": "tiempoordinario26"
+    },
+    {
+      "fecha": "2026-09-29",
+      "titulo": "XXVI Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"He enviado a mis ángeles para que te cuiden en todos tus caminos. (Salmo 91,11)\"",
+      "santo": "San Miguel Arcángel, San Rafael Arcángel, San Gabriel Arcángel.",
+      "lectura": "Juan 1,47-51",
+      "imagen": "arcangeles"
+    },
+    {
+      "fecha": "2026-09-30",
+      "titulo": "XXVI Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Te haré descansar en praderas de hierba fresca y te guiaré hacia fuentes tranquilas. (Salmo 23,2)\"",
+      "santo": "San Jerónimo",
+      "lectura": "Lucas 9,57-62",
+      "imagen": "tiempoordinario26"
+    },
+    {
+      "fecha": "2026-10-1",
+      "titulo": "XXVI Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"La confianza y nada más que la confianza puede conducirnos al Amor. (Santa Teresita del Niño Jesús)\"",
+      "santo": "Santa Teresita del Niño Jesús",
+      "lectura": "Lucas 10,1-12",
+      "imagen": "santateresita"
+    },
+    {
+      "fecha": "2026-10-2",
+      "titulo": "XXVI Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Yo envío a mi ángel delante de ti para que te cuide en el camino. (Éxodo 23,20)\"",
+      "santo": "Santos Ángeles Custodios",
+      "lectura": "Lucas 10,13-16",
+      "imagen": "angelescustodios"
+    },
+    {
+      "fecha": "2026-10-3",
+      "titulo": "XXVI Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Alégrate porque tu nombre está escrito en el cielo; eres importante para mí. (Lucas 10,20)\"",
+      "santo": "San Francisco de Borja",
+      "lectura": "Lucas 10,17-24",
+      "imagen": "tiempoordinario26"
+    },
+    {
+      "fecha": "2026-10-4",
+      "titulo": "XXVII Domingo del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Señor haz de mí un instrumento de tu paz. Donde haya odio ponga yo amor; donde haya ofensa perdón. (San Francisco de Asís)\"",
+      "santo": "San Francisco de Asís",
+      "lectura": "Mateo 21,33-43",
+      "imagen": "sanfrancisco"
+    },
+    {
+      "fecha": "2026-10-5",
+      "titulo": "XXVII Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Amarás al Señor tu Dios con toda tu alma y con todas tus fuerzas. (Lucas 10,27)\"",
+      "santo": "San Froilán de León, Santa María Faustina Kowalska",
+      "lectura": "Lucas 10,25-37",
+      "imagen": "tiempoordinario27"
+    },
+    {
+      "fecha": "2026-10-6",
+      "titulo": "XXVII Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Lo que Dios ha unido con amor que nada ni nadie lo separe. (Marcos 10,9)\"",
+      "santo": "San Bruno de Colonia",
+      "lectura": "Lucas 10,38-42",
+      "imagen": "tiempoordinario27"
+    },
+    {
+      "fecha": "2026-10-7",
+      "titulo": "XXVII Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Señor enséñanos a orar.\"",
+      "santo": "Nuestra Señora del Rosario",
+      "lectura": "Lucas 11,1-4",
+      "imagen": "virgendelrosario"
+    },
+    {
+      "fecha": "2026-10-8",
+      "titulo": "XXVII Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Pide y se te dará busca y encontrarás llama y se te abrirá. (Lucas 11,9)\"",
+      "santo": "Santa Pelagia de Antioquía",
+      "lectura": "Lucas 11,5-13",
+      "imagen": "tiempoordinario27"
+    },
+    {
+      "fecha": "2026-10-9",
+      "titulo": "XXVII Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"El Señor es fiel; Él te fortalecerá y te protegerá del mal. (2 Tesalonicenses 3,3)\"",
+      "santo": "San Abrahán patriarca, San Dionisio de París y compañeros, San Juan Leonardi",
+      "lectura": "Lucas 11,15-26",
+      "imagen": "tiempoordinario27"
+    },
+    {
+      "fecha": "2026-10-10",
+      "titulo": "XXVII Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Dichosos los que escuchan mi palabra y la ponen en práctica. (Lucas 11,28)\"",
+      "santo": "Santo Tomás de Villanueva",
+      "lectura": "Lucas 11,27-28",
+      "imagen": "tiempoordinario27"
+    },
+    {
+      "fecha": "2026-10-11",
+      "titulo": "XXVIII Domingo del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Busquemos lo que nos une y no lo que nos divide. (San Juan XXIII)\"",
+      "santo": "San Juan XXIII papa",
+      "lectura": "Lucas 11,27-28",
+      "imagen": "juan23"
+    },
+    {
+      "fecha": "2026-10-12",
+      "titulo": "XXVIII Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"El Señor manifiesta su victoria y revela su justicia ante las naciones. (Salmo 98,2)\"",
+      "santo": "Nuestra Señora del Pilar",
+      "lectura": "Mateo 22,1-14",
+      "imagen": "tiempoordinario28"
+    },
+    {
+      "fecha": "2026-10-13",
+      "titulo": "XXVIII Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"La sabiduría es un árbol de vida para los que la alcanzan; ¡sujétate a ella! (Proverbios 3,18)\"",
+      "santo": "San Eduardo III el confesor",
+      "lectura": "Lucas 11,29-32",
+      "imagen": "tiempoordinario28"
+    },
+    {
+      "fecha": "2026-10-14",
+      "titulo": "XXVIII Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Dad limosna y lo tendréis limpio todo\"",
+      "santo": "San Calixto I papa",
+      "lectura": "Lucas 11,37-41",
+      "imagen": "tiempoordinario28"
+    },
+    {
+      "fecha": "2026-10-15",
+      "titulo": "XXVIII Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Nada te turbe nada te espante; quien a Dios tiene nada le falta. (Salmo 62,2)\"",
+      "santo": "Santa Teresa de Ávila",
+      "lectura": "Lucas 11,42-46",
+      "imagen": "tiempoordinario28"
+    },
+    {
+      "fecha": "2026-10-16",
+      "titulo": "XXVIII Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Hasta los cabellos de tu cabeza están contados; no tengas miedo vales mucho. (Lucas 12,7)\"",
+      "santo": "Santa Margarita María de Alacoque, Santa Eduvigis, San Gerardo Mayela",
+      "lectura": "Lucas 11,47-54",
+      "imagen": "tiempoordinario28"
+    },
+    {
+      "fecha": "2026-10-17",
+      "titulo": "XXVIII Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"No se preocupen por cómo defenderse; el Espíritu Santo les enseñará qué decir. (Lucas 12,11-12)\"",
+      "santo": "San Ignacio de Antioquía",
+      "lectura": "Lucas 12,1-7",
+      "imagen": "tiempoordinario28"
+    },
+    {
+      "fecha": "2026-10-18",
+      "titulo": "XXIX Domingo del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Vayan por todo el mundo y anuncien la Buena Noticia a toda la creación. (Marcos 16,15)\"",
+      "santo": "San Lucas Evangelista",
+      "lectura": "Lucas 12,8-12",
+      "imagen": "tiempoordinario29"
+    },
+    {
+      "fecha": "2026-10-19",
+      "titulo": "XXIX Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"La vida de una persona no depende de la abundancia de sus riquezas. (Lucas 12,15)\"",
+      "santo": "San Pedro de Alcántara, San Pablo de la Cruz",
+      "lectura": "Mateo 22,15-21",
+      "imagen": "tiempoordinario29"
+    },
+    {
+      "fecha": "2026-10-20",
+      "titulo": "XXIX Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Estén listos con la túnica puesta y las lámparas encendidas. (Lucas 12,35)\"",
+      "santo": "San Honorio Abad, Santa Irene de Tancor",
+      "lectura": "Lucas 12,13-21",
+      "imagen": "tiempoordinario29"
+    },
+    {
+      "fecha": "2026-10-21",
+      "titulo": "XXIX Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Al que mucho se le dio mucho se le exigirá; confío en tus talentos. (Lucas 12,48)\"",
+      "santo": "Santa Úrsula y compañeras mártires, Madre Laura de Santa Catalina de Siena",
+      "lectura": "Lucas 12,35-38",
+      "imagen": "tiempoordinario29"
+    },
+    {
+      "fecha": "2026-10-22",
+      "titulo": "XXIX Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"La peor prisión es un corazón cerrado. (San Juan Pablo II)\"",
+      "santo": "San Juan Pablo II papa, San Abercio de Hierápolis",
+      "lectura": "Lucas 12,39-48",
+      "imagen": "juanpablo2"
+    },
+    {
+      "fecha": "2026-10-23",
+      "titulo": "XXIX Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"¿Por qué no saben juzgar por ustedes mismos lo que es justo? (Lucas 12,57)\"",
+      "santo": "San Juan de Capistrano",
+      "lectura": "Lucas 12,49-53",
+      "imagen": "tiempoordinario29"
+    },
+    {
+      "fecha": "2026-10-24",
+      "titulo": "XXIX Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Si no cambias de vida perecerás; hoy es un buen día para comenzar de nuevo. (Lucas 13,3)\"",
+      "santo": "San Antonio María Claret",
+      "lectura": "Lucas 12,54-59",
+      "imagen": "tiempoordinario29"
+    },
+    {
+      "fecha": "2026-10-25",
+      "titulo": "XXX Domingo del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"¡Ánimo levántate que te llama! ¿Qué quieres que haga por ti? (Marcos 10,49-51)\"",
+      "santo": "San Frutos de Segovia",
+      "lectura": "Lucas 13,1-9",
+      "imagen": "tiempoordinario30"
+    },
+    {
+      "fecha": "2026-10-26",
+      "titulo": "XXX Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Amarás al Señor tu Dios y a tu prójimo como a ti mismo.\"",
+      "santo": "San Evaristo papa",
+      "lectura": "Mateo 22,34-40",
+      "imagen": "tiempoordinario30"
+    },
+    {
+      "fecha": "2026-10-27",
+      "titulo": "XXX Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"El Reino de Dios es como una semilla que crece hasta hacerse un gran árbol. (Lucas 13,19)\"",
+      "santo": "San Bartolomé de Bregantia",
+      "lectura": "Lucas 13,10-17",
+      "imagen": "tiempoordinario30"
+    },
+    {
+      "fecha": "2026-10-28",
+      "titulo": "XXX Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Escogió a doce de ellos y los nombró apóstoles.\"",
+      "santo": "San Judas Tadeo apóstol, San Simón apóstol",
+      "lectura": "Lucas 6,12-19",
+      "imagen": "sanjudastadeo"
+    },
+    {
+      "fecha": "2026-10-29",
+      "titulo": "XXX Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Ustedes son ciudadanos del cielo y miembros de la familia de Dios. (Efesios 2,19)\"",
+      "santo": "San Narciso de Jerusalén",
+      "lectura": "Lucas 13,22-30",
+      "imagen": "tiempoordinario30"
+    },
+    {
+      "fecha": "2026-10-30",
+      "titulo": "XXX Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"El que se humilla será enaltecido; busca siempre el último lugar. (Lucas 14,11)\"",
+      "santo": "San Marcelo de León",
+      "lectura": "Lucas 13,31-35",
+      "imagen": "tiempoordinario30"
+    },
+    {
+      "fecha": "2026-10-31",
+      "titulo": "XXX Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Cuando des un banquete invita a los pobres; tu recompensa será grande en el cielo. (Lucas 14,13-14)\"",
+      "santo": "San Alonso Rodríguez",
+      "lectura": "Lucas 14,1-6",
+      "imagen": "tiempoordinario30"
+    },
+    {
+      "fecha": "2026-11-1",
+      "titulo": "Todos los Santos",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#F5F5F5",
+      "frase": "\"Alégrense y regocíjense porque su recompensa será grande en el cielo. (Mateo 5,12)\"",
+      "santo": "Todos los Santos",
+      "lectura": "Mateo 5,1-12",
+      "imagen": "todoslossantos"
+    },
+    {
+      "fecha": "2026-11-2",
+      "titulo": "Conmemoración de todos los Fieles Difuntos",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#6A1B9A",
+      "frase": "\"Yo soy la resurrección y la vida; el que cree en mí aunque muera vivirá. (Juan 11,25)\"",
+      "santo": "Todos los fieles difuntos",
+      "lectura": "Mateo 23,1-12",
+      "imagen": "losfielesdifuntos"
+    },
+    {
+      "fecha": "2026-11-3",
+      "titulo": "XXXI Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Todo hasta el comer y el dormir debe hacerse por amor de Dios. (San Martín de Porres)\"",
+      "santo": "San Martín de Porres",
+      "lectura": "Lucas 14,12-14",
+      "imagen": "sanmartindeporres"
+    },
+    {
+      "fecha": "2026-11-4",
+      "titulo": "XXXI Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"El que no renuncia a todo lo que tiene no puede ser mi discípulo; confía en mi provisión. (Lucas 14,33)\"",
+      "santo": "San Carlos Borromeo",
+      "lectura": "Lucas 14,15-24",
+      "imagen": "tiempoordinario31"
+    },
+    {
+      "fecha": "2026-11-5",
+      "titulo": "XXXI Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Habrá más alegría en el cielo por un solo pecador que se arrepienta que por noventa y nueve justos. (Lucas 15,7)\"",
+      "santo": "San Zacarías, San Zacarías, Santa Isabel",
+      "lectura": "Lucas 14,25-33",
+      "imagen": "tiempoordinario31"
+    },
+    {
+      "fecha": "2026-11-6",
+      "titulo": "XXXI Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"El que es fiel en lo poco también es fiel en lo mucho; hoy confío en ti. (Lucas 16,10)\"",
+      "santo": "San Severo de Barcelona",
+      "lectura": "Lucas 15,1-10",
+      "imagen": "tiempoordinario31"
+    },
+    {
+      "fecha": "2026-11-7",
+      "titulo": "XXXI Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Ningún servidor puede servir a dos señores; elige hoy el camino del amor. (Lucas 16,13)\"",
+      "santo": "San Ernesto",
+      "lectura": "Lucas 16,1-8",
+      "imagen": "tiempoordinario31"
+    },
+    {
+      "fecha": "2026-11-8",
+      "titulo": "XXXII Domingo del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"El Señor guarda a los que son fieles y protege el camino de sus amigos. (Proverbios 2,8)\"",
+      "santo": "Beato Juan Duns Escoto",
+      "lectura": "Lucas 16,9-15",
+      "imagen": "tiempoordinario32"
+    },
+    {
+      "fecha": "2026-11-9",
+      "titulo": "XXXII Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Si tu hermano te ofende siete veces al día y siete veces te pide perdón perdónalo. (Lucas 17,4)\"",
+      "santo": "Nuestra Señora de la Almudena",
+      "lectura": "Juan 2,13-22",
+      "imagen": "tiempoordinario32"
+    },
+    {
+      "fecha": "2026-11-10",
+      "titulo": "XXXII Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Si tuvieras fe como un granito de mostaza le dirías a ese árbol: 'Arráncate' y te obedecería. (Lucas 17,6)\"",
+      "santo": "San Andrés Avelino, San León Magno papa",
+      "lectura": "Lucas 17,1-6",
+      "imagen": "tiempoordinario32"
+    },
+    {
+      "fecha": "2026-11-11",
+      "titulo": "XXXII Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Tu fe te ha salvado; levántate y vete en paz. (Lucas 17,19)\"",
+      "santo": "San Martín de Tours",
+      "lectura": "Lucas 17,7-10",
+      "imagen": "tiempoordinario32"
+    },
+    {
+      "fecha": "2026-11-12",
+      "titulo": "XXXII Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"El Reino de Dios ya está en medio de ustedes; ábrele tu corazón hoy. (Lucas 17,21)\"",
+      "santo": "Santa Agustina Pietrantoni",
+      "lectura": "Lucas 17,11-19",
+      "imagen": "tiempoordinario32"
+    },
+    {
+      "fecha": "2026-11-13",
+      "titulo": "XXXII Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"El que intente conservar su vida la perderá; pero el que la pierda por mí la encontrará. (Lucas 17,33)\"",
+      "santo": "San Diego de Alcalá",
+      "lectura": "Lucas 19,41-44",
+      "imagen": "tiempoordinario32"
+    },
+    {
+      "fecha": "2026-11-14",
+      "titulo": "XXXII Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Es necesario orar siempre sin desanimarse nunca; yo te escucho. (Lucas 18,1)\"",
+      "santo": "San José Pignatelli",
+      "lectura": "Lucas 17,26-37",
+      "imagen": "tiempoordinario32"
+    },
+    {
+      "fecha": "2026-11-15",
+      "titulo": "XXXIII Domingo del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Tus palabras Señor son espíritu y vida; ellas sostienen mi alma. (Juan 6,63)\"",
+      "santo": "San Alberto Magno, San Eugenio de Toledo",
+      "lectura": "Lucas 18,1-8",
+      "imagen": "tiempoordinario33"
+    },
+    {
+      "fecha": "2026-11-16",
+      "titulo": "XXXIII Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Vengan a mí todos los que están cansados y agobiados y yo les daré descanso (Mateo 11,28)\"",
+      "santo": "Santa Margarita de Escocia",
+      "lectura": "Mateo 25,14-30",
+      "imagen": "tiempoordinario33"
+    },
+    {
+      "fecha": "2026-11-17",
+      "titulo": "XXXIII Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Hoy ha llegado la salvación a tu casa; yo he venido a buscar lo que estaba perdido. (Lucas 19,9-10)\"",
+      "santo": "Santa Isabel de Hungría, San Gregorio Taumaturgo, Santa Victoria de Córdoba",
+      "lectura": "Lucas 18,35-43",
+      "imagen": "tiempoordinario33"
+    },
+    {
+      "fecha": "2026-11-18",
+      "titulo": "XXXIII Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"El Hijo del Hombre ha venido a buscar y a salvar lo que estaba perdido.\"",
+      "santo": "San Odón de Cluny",
+      "lectura": "Lucas 19,1-10",
+      "imagen": "tiempoordinario33"
+    },
+    {
+      "fecha": "2026-11-19",
+      "titulo": "XXXIII Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"¡Si comprendieras hoy lo que conduce a la paz! Déjame habitar en ti. (Lucas 19,42)\"",
+      "santo": "Santo Profeta Abdías",
+      "lectura": "Lucas 19,11-28",
+      "imagen": "tiempoordinario33"
+    },
+    {
+      "fecha": "2026-11-20",
+      "titulo": "XXXIII Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Mi casa será casa de oración; haz de tu corazón un refugio para mí. (Lucas 19,46)\"",
+      "santo": "San Edmundo rey",
+      "lectura": "Lucas 19,41-44",
+      "imagen": "tiempoordinario33"
+    },
+    {
+      "fecha": "2026-11-21",
+      "titulo": "XXXIII Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Dios no es un Dios de muertos sino de vivos; para Él todos viven. (Lucas 20,38)\"",
+      "santo": "Presentación de santa María Virgen",
+      "lectura": "Lucas 19,45-48",
+      "imagen": "tiempoordinario33"
+    },
+    {
+      "fecha": "2026-11-22",
+      "titulo": "Nuestro Señor Jesucristo Rey del Universo",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Mi Reino no es de este mundo; mi Reino es el amor que vive en ti. (Juan 18,36)\"",
+      "santo": "Santa Cecilia de Roma",
+      "lectura": "Mateo 25,31-46",
+      "imagen": "jesusreydeluniverso"
+    },
+    {
+      "fecha": "2026-11-23",
+      "titulo": "XXXIV Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Esta viuda pobre ha echado más que todos; yo valoro tu entrega humilde. (Lucas 21,3)\"",
+      "santo": "Beato Miguel Agustín Pro",
+      "lectura": "Lucas 21,1-4",
+      "imagen": "tiempoordinario34"
+    },
+    {
+      "fecha": "2026-11-24",
+      "titulo": "XXXIV Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"No se dejen engañar; mantengan la calma y confíen en mi victoria. (Lucas 21,8-9)\"",
+      "santo": "Santa María de Córdoba, Santa Flora de Córdoba",
+      "lectura": "Lucas 21,5-11",
+      "imagen": "tiempoordinario34"
+    },
+    {
+      "fecha": "2026-11-25",
+      "titulo": "XXXIV Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Ni un cabello de su cabeza perecerá; con su perseverancia salvarán sus almas. (Lucas 21,18-19)\"",
+      "santo": "Santa Catalina de Alejandría",
+      "lectura": "Lucas 21,12-19",
+      "imagen": "tiempoordinario34"
+    },
+    {
+      "fecha": "2026-11-26",
+      "titulo": "XXXIV Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Levanten la cabeza porque se acerca su liberación. (Lucas 21,28)\"",
+      "santo": "San Silvestre Gozzolini",
+      "lectura": "Lucas 21,20-28",
+      "imagen": "tiempoordinario34"
+    },
+    {
+      "fecha": "2026-11-27",
+      "titulo": "XXXIV Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Cielo y tierra pasarán pero mis palabras no pasarán jamás. (Lucas 21,33)\"",
+      "santo": "Beato Bronislao Kostowski",
+      "lectura": "Lucas 21,29-33",
+      "imagen": "tiempoordinario34"
+    },
+    {
+      "fecha": "2026-11-28",
+      "titulo": "XXXIV Semana del Tiempo Ordinario",
+      "tiempo": "Tiempo Ordinario",
+      "color": "#2E7D32",
+      "frase": "\"Estén despiertos y oren en todo momento para mantenerse firmes. (Lucas 21,36)\"",
+      "santo": "Santa Catalina Labouré",
+      "lectura": "Lucas 21,34-36",
+      "imagen": "tiempoordinario34"
+    },
+    {
+      "fecha": "2026-11-29",
+      "titulo": "I Domingo de Adviento",
+      "tiempo": "Adviento",
+      "color": "#6A1B9A",
+      "frase": "\"A ti Señor levanto mi alma; muéstrame tus caminos y guíame. (Salmo 25,1-4)\"",
+      "santo": "San Saturnino de Tolosa",
+      "lectura": "Marcos 13,33-37",
+      "imagen": "adviento1"
+    },
+    {
+      "fecha": "2026-11-30",
+      "titulo": "I Semana de Adviento",
+      "tiempo": "Adviento",
+      "color": "#6A1B9A",
+      "frase": "\"Inmediatamente dejaron las redes y lo siguieron\"",
+      "santo": "San Andrés apóstol",
+      "lectura": "Mateo 4,18-22",
+      "imagen": "adviento1"
+    },
+    {
+      "fecha": "2026-12-1",
+      "titulo": "I Semana de Adviento",
+      "tiempo": "Adviento",
+      "color": "#6A1B9A",
+      "frase": "\"Mira yo envío a mi mensajero delante de ti para que te prepare el camino; no caminas solo. (Marcos 1,2)\"",
+      "santo": "San Eloy",
+      "lectura": "Lucas 10,21-24",
+      "imagen": "adviento1"
+    },
+    {
+      "fecha": "2026-12-2",
+      "titulo": "I Semana de Adviento",
+      "tiempo": "Adviento",
+      "color": "#6A1B9A",
+      "frase": "\"Fortalece tu corazón y cobra ánimo porque yo soy tu Dios y te sostendré con mi mano victoriosa. (Isaías 41,10)\"",
+      "santo": "Santa Bibiana",
+      "lectura": "Mateo 15,29-37",
+      "imagen": "adviento1"
+    },
+    {
+      "fecha": "2026-12-3",
+      "titulo": "I Semana de Adviento",
+      "tiempo": "Adviento",
+      "color": "#6A1B9A",
+      "frase": "\"Confíen en el Señor para siempre porque Él es la Roca eterna que te sostiene. (Isaías 26,4)\"",
+      "santo": "San Francisco Javier",
+      "lectura": "Mateo 7,21,24-27",
+      "imagen": "adviento1"
+    },
+    {
+      "fecha": "2026-12-4",
+      "titulo": "I Semana de Adviento",
+      "tiempo": "Adviento",
+      "color": "#6A1B9A",
+      "frase": "\"Tus ojos verán a tu Guía y tus oídos oirán una voz detrás de ti: 'Este es el camino'. (Isaías 30,21)\"",
+      "santo": "San Juan Damasceno, Santa Bárbara de Nicomedia",
+      "lectura": "Mateo 9,27-31",
+      "imagen": "adviento1"
+    },
+    {
+      "fecha": "2026-12-5",
+      "titulo": "I Semana de Adviento",
+      "tiempo": "Adviento",
+      "color": "#6A1B9A",
+      "frase": "\"Al ver a la muchedumbre sentí compasión de ellos; yo cuidaré de todas tus necesidades. (Mateo 9,36)\"",
+      "santo": "San Sabas",
+      "lectura": "Mateo 9,35-10,1.6-8",
+      "imagen": "adviento1"
+    },
+    {
+      "fecha": "2026-12-6",
+      "titulo": "II Domingo de Adviento",
+      "tiempo": "Adviento",
+      "color": "#6A1B9A",
+      "frase": "\"Prepara el camino del Señor en tu vida; endereza lo que está torcido en tu corazón. (Lucas 3,4)\"",
+      "santo": "San Nicolás de Bari",
+      "lectura": "Marcos 1,1-8",
+      "imagen": "adviento2"
+    },
+    {
+      "fecha": "2026-12-7",
+      "titulo": "II Semana de Adviento",
+      "tiempo": "Adviento",
+      "color": "#6A1B9A",
+      "frase": "\"Fortalezcan las manos cansadas; digan a los cobardes de corazón: '¡Ánimo no teman!'. (Isaías 35,3-4)\"",
+      "santo": "San Ambrosio de Milán",
+      "lectura": "Lucas 5,17-26",
+      "imagen": "adviento2"
+    },
+    {
+      "fecha": "2026-12-8",
+      "titulo": "La Inmaculada Concepción de la Bienaventurada Virgen María",
+      "tiempo": "Adviento",
+      "color": "#6A1B9A",
+      "frase": "\"Alégrate llena de gracia el Señor está contigo; no temas María. (Lucas 1,28-30)\"",
+      "santo": "Inmaculada Concepción de María",
+      "lectura": "Lucas 1,26-38",
+      "imagen": "inmaculadaconcepcion"
+    },
+    {
+      "fecha": "2026-12-9",
+      "titulo": "II Semana de Adviento",
+      "tiempo": "Adviento",
+      "color": "#6A1B9A",
+      "frase": "\"Él da fuerzas al cansado y multiplica el vigor del que no tiene fuerzas. (Isaías 40,29)\"",
+      "santo": "San Juan Diego",
+      "lectura": "Mateo 11,28-30",
+      "imagen": "sanjuandiego"
+    },
+    {
+      "fecha": "2026-12-10",
+      "titulo": "II Semana de Adviento",
+      "tiempo": "Adviento",
+      "color": "#6A1B9A",
+      "frase": "\"No temas porque yo te he rescatado; te he llamado por tu nombre ¡tú eres mío y yo cuido de ti! (Isaías 43,1)\"",
+      "santo": "Nuestra Señora de Loreto",
+      "lectura": "Mateo 11,11-15",
+      "imagen": "adviento2"
+    },
+    {
+      "fecha": "2026-12-11",
+      "titulo": "II Semana de Adviento",
+      "tiempo": "Adviento",
+      "color": "#6A1B9A",
+      "frase": "\"Si hubieras atendido a mis mandatos tu paz sería como un río de bendiciones. (Isaías 48,18)\"",
+      "santo": "San Dámaso I papa",
+      "lectura": "Mateo 11,16-19",
+      "imagen": "adviento2"
+    },
+    {
+      "fecha": "2026-12-12",
+      "titulo": "II Semana de Adviento",
+      "tiempo": "Adviento",
+      "color": "#6A1B9A",
+      "frase": "\"¿No estoy yo aquí que soy tu madre? ¿No estás bajo mi sombra y resguardo? ¡Que nada te asuste! (Lucas 1,48)\"",
+      "santo": "Nuestra Señora de Guadalupe",
+      "lectura": "Mateo 17,10-13",
+      "imagen": "virgendeguadalupe"
+    },
+    {
+      "fecha": "2026-12-13",
+      "titulo": "III Domingo de Adviento",
+      "tiempo": "Adviento",
+      "color": "#6A1B9A",
+      "frase": "\"Estén siempre alegres en el Señor! Se lo repito: ¡Estén alegres! (Filipenses 4,4)\"",
+      "santo": "Santa Lucía de Siracusa",
+      "lectura": "Juan 1,6-8.19-28",
+      "imagen": "adviento3"
+    },
+    {
+      "fecha": "2026-12-14",
+      "titulo": "III Semana de Adviento",
+      "tiempo": "Adviento",
+      "color": "#6A1B9A",
+      "frase": "\"Muéstrame Señor tus caminos y enséñame a caminar en tu verdad. (Salmo 25,4)\"",
+      "santo": "San Juan de la Cruz",
+      "lectura": "Mateo 21,23-27",
+      "imagen": "adviento3"
+    },
+    {
+      "fecha": "2026-12-15",
+      "titulo": "III Semana de Adviento",
+      "tiempo": "Adviento",
+      "color": "#6A1B9A",
+      "frase": "\"El Señor está cerca de los que tienen el corazón roto; Él escucha tu clamor. (Salmo 34,18)\"",
+      "santo": "San Urbicio",
+      "lectura": "Mateo 21,28-32",
+      "imagen": "adviento3"
+    },
+    {
+      "fecha": "2026-12-16",
+      "titulo": "III Semana de Adviento",
+      "tiempo": "Adviento",
+      "color": "#6A1B9A",
+      "frase": "\"Yo soy el Señor y no hay otro; yo formo la luz y creo la paz para ti. (Isaías 45,6-7)\"",
+      "santo": "Santa Adela",
+      "lectura": "Lucas 7,19-23",
+      "imagen": "adviento3"
+    },
+    {
+      "fecha": "2026-12-17",
+      "titulo": "Feria de Adviento",
+      "tiempo": "Adviento",
+      "color": "#6A1B9A",
+      "frase": "\"¡Oh Sabiduría! Ven a enseñarnos el camino de la verdadera prudencia. (Sabiduría 7,26)\"",
+      "santo": "San Lázaro de Betania",
+      "lectura": "Mateo 1,1-17",
+      "imagen": "adviento3"
+    },
+    {
+      "fecha": "2026-12-18",
+      "titulo": "Feria de Adviento",
+      "tiempo": "Adviento",
+      "color": "#6A1B9A",
+      "frase": "\"Su nombre será 'Emmanuel' que significa: Dios-con-nosotros. (Mateo 1,23)\"",
+      "santo": "Nuestra Señora de la Esperanza",
+      "lectura": "Mateo 1,18-24",
+      "imagen": "adviento3"
+    },
+    {
+      "fecha": "2026-12-19",
+      "titulo": "Feria de Adviento",
+      "tiempo": "Adviento",
+      "color": "#6A1B9A",
+      "frase": "\"No temas porque tu oración ha sido escuchada; te daré una gran alegría. (Lucas 1,13)\"",
+      "santo": "Santa Eva",
+      "lectura": "Lucas 1,5-25",
+      "imagen": "adviento3"
+    },
+    {
+      "fecha": "2026-12-20",
+      "titulo": "IV Domingo de Adviento",
+      "tiempo": "Adviento",
+      "color": "#6A1B9A",
+      "frase": "\"Hágase en mí según tu palabra; que se cumplan tus sueños en mi vida. (Lucas 1,38)\"",
+      "santo": "Santo Domingo de Silos",
+      "lectura": "Lucas 1,26-38",
+      "imagen": "adviento4"
+    },
+    {
+      "fecha": "2026-12-21",
+      "titulo": "Feria de Adviento",
+      "tiempo": "Adviento",
+      "color": "#6A1B9A",
+      "frase": "\"¡Dichosa tú que has creído! Lo que el Señor te prometió se cumplirá. (Lucas 1,45)\"",
+      "santo": "San Pedro Canisio",
+      "lectura": "Lucas 1,39-45",
+      "imagen": "adviento4"
+    },
+    {
+      "fecha": "2026-12-22",
+      "titulo": "Feria de Adviento",
+      "tiempo": "Adviento",
+      "color": "#6A1B9A",
+      "frase": "\"El Poderoso ha hecho obras grandes en mí\"",
+      "santo": "Santa Francisca Javiera Cabrini",
+      "lectura": "Lucas 1,46-56",
+      "imagen": "adviento4"
+    },
+    {
+      "fecha": "2026-12-23",
+      "titulo": "Feria de Adviento",
+      "tiempo": "Adviento",
+      "color": "#6A1B9A",
+      "frase": "\"Levanten la cabeza y miren: su liberación está muy cerca. (Lucas 21,28)\"",
+      "santo": "San Antonio de Santa Ana Galvao, San Juan de Kety",
+      "lectura": "Lucas 1,57-66",
+      "imagen": "adviento4"
+    },
+    {
+      "fecha": "2026-12-24",
+      "titulo": "Víspera de Navidad",
+      "tiempo": "Adviento",
+      "color": "#6A1B9A",
+      "frase": "\"Por la entrañable misericordia de nuestro Dios nos visitará el Sol que nace de lo alto. (Lucas 1,78)\"",
+      "santo": "San Gregorio de Spoleto",
+      "lectura": "Lucas 1,67-79",
+      "imagen": "nochebuena"
+    },
+    {
+      "fecha": "2026-12-25",
+      "titulo": "La Natividad del Señor",
+      "tiempo": "Tiempo de Navidad",
+      "color": "#F5F5F5",
+      "frase": "\"¡Hoy nos ha nacido un Salvador! No tengan miedo es una noticia de gran gozo. (Lucas 2,10-11)\"",
+      "santo": "Nuestra Señora del Belén",
+      "lectura": "Juan 1,1-18",
+      "imagen": "feliznavidad"
+    },
+    {
+      "fecha": "2026-12-26",
+      "titulo": "II día de la Octava de Navidad",
+      "tiempo": "Tiempo de Navidad",
+      "color": "#F5F5F5",
+      "frase": "\"No te preocupes por lo que has de decir; mi Espíritu hablará por ti. (Mateo 10,20)\"",
+      "santo": "San Esteban",
+      "lectura": "Mateo 10,17-22",
+      "imagen": "diciembre26"
+    },
+    {
+      "fecha": "2026-12-27",
+      "titulo": "La Sagrada Familia de Jesús María y José",
+      "tiempo": "Tiempo de Navidad",
+      "color": "#F5F5F5",
+      "frase": "\"Que la paz de Cristo reine en sus corazones y la gratitud habite en ustedes. (Colosenses 3,15)\"",
+      "santo": "San Juan evangelista y apóstol",
+      "lectura": "Lucas 2,22-40",
+      "imagen": "sagradafamilia"
+    },
+    {
+      "fecha": "2026-12-28",
+      "titulo": "IV día de la Octava de Navidad",
+      "tiempo": "Tiempo de Navidad",
+      "color": "#F5F5F5",
+      "frase": "\"Tus lágrimas no son en vano; hay esperanza para tu porvenir dice el Señor. (Jeremías 31,16-17)\"",
+      "santo": "Santos Inocentes",
+      "lectura": "Mateo 2,13-18",
+      "imagen": "santosinocentes"
+    },
+    {
+      "fecha": "2026-12-29",
+      "titulo": "V día de la Octava de Navidad",
+      "tiempo": "Tiempo de Navidad",
+      "color": "#F5F5F5",
+      "frase": "\"Mis ojos han visto a tu Salvador luz para alumbrar a todas las naciones. (Lucas 2,30-32)\"",
+      "santo": "Santo Tomas Becket",
+      "lectura": "Lucas 2,22-35",
+      "imagen": "sagradafamilia"
+    },
+    {
+      "fecha": "2026-12-30",
+      "titulo": "VI día de la Octava de Navidad",
+      "tiempo": "Tiempo de Navidad",
+      "color": "#F5F5F5",
+      "frase": "\"La Palabra era la luz verdadera que ilumina a todo hombre que viene al mundo. (Juan 1,9)\"",
+      "santo": "Santa Judit, Traslación de Santiago Apóstol",
+      "lectura": "Lucas 2,36-40",
+      "imagen": "sagradafamilia"
+    },
+    {
+      "fecha": "2026-12-31",
+      "titulo": "VII día de la Octava de Navidad",
+      "tiempo": "Tiempo de Navidad",
+      "color": "#F5F5F5",
+      "frase": "\"¡Mira! Yo hago nuevas todas las cosas. Gracias por este año; confía en el que viene. (Apocalipsis 21,5)\"",
+      "santo": "San Silvestre I papa, Santa Melania la joven",
+      "lectura": "Juan 1,1-18",
+      "imagen": "findeano"
     }
   ]
 }
