@@ -1,5 +1,5 @@
 {
-  "version": "20260128211215",
+  "version": "20260221180750",
   "songs": [
     {
       "id": "Navidad0",
@@ -586,6 +586,16 @@
       "title": "Te doy mi vida Señor",
       "category": "APERTURA",
       "lyrics": "<b>RE                  LA7</b> \nSé que tu voz hará nacer\n<b>       sim          fa#m</b>\ncada mañana el nuevo sol;\n<b>            SOL         RE</b>\nsé que el milagro del amor\n<b>mim       LA7</b>\nnunca acabará.\n\n\n<b>RE                      LA7</b>\nSé que me quieres ver crecer,\n<b>         sim        fa#m</b>\nvienes conmigo adonde voy,\n<b>          SOL        RE</b>\nnunca me pides nada más\n<b>   mim                LA7</b>\nde lo que yo te puedo dar.\n\n\n<b>        RE              fa#m</b>\n<b>Yo te ofrezco todo lo que soy</b>\n<b>           SOL</b>\n<b>si eres mi amigo,</b>\n<b>                RE</b>\n<b>si eres, Tú, mi Dios;</b>\n<b>     mim                  SOL</b>\n<b>si me diste, Tú, la vida, hoy,</b>\n<b>   mim              LA</b>\n<b>mi vida yo te voy a dar.</b>\n<b>           RE              fa#m</b>\n<b>Te doy mis manos para dar la paz</b>\n<b>       SOL                 RE</b>\n<b>y para caminar te doy mis pies,</b>\n<b>        mim              SOL</b>\n<b>mi boca tus palabras hablará,</b>\n<b>       LA7            RE</b>\n<b>yo te doy mi vida, Señor.</b>\n\n\nSé que mañana al despertar\nel mundo ya no será igual\nporque tu amor lo cambiará\ny un cielo nuevo brillará.\n\n\nSé que me das tu libertad\npara cantar, para soñar\ny para construir la paz\ntu fuerza me acompañará.",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Apertura24",
+      "title": "Amar es vida",
+      "category": "APERTURA",
+      "lyrics": "<b>mim                       SI7</b>\n/Amar es vida, vida es alegría;\n<b>                      mim    SI7</b> \nquien nunca amó vivió sin ilusión/\n<b>      lam            mim</b>\n/Alegres cantan sus melodías\n<b>       SI7          mim   MI7</b>\nlas ansiedades del corazón. /\n\n\n<b>        lam           mim</b>\n<b>/Alegre estoy, cantando voy</b>\n<b>         SI7               mim   MI7</b>\n<b>este es el día que hizo el Señor/</b>\n\n\n\nPor los caminos áridos del mundo\nbusco la huella de un amor feliz.\nSoy peregrino soy vagabundo\nun cielo eterno brilla hoy en mí.",
       "has_chords": true,
       "isFavorite": false,
       "customNote": "",
