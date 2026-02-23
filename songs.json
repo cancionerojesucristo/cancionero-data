@@ -1,5 +1,5 @@
 {
-  "version": "20260221180750",
+  "version": "20260223123415",
   "songs": [
     {
       "id": "Navidad0",
@@ -602,6 +602,16 @@
       "videoUrl": ""
     },
     {
+      "id": "Apertura25",
+      "title": "Venimos hoy a tu altar",
+      "category": "APERTURA",
+      "lyrics": "<b>SOL                sim      DO     RE7</b>\n<b>Venimos hoy a tu altar a cantarte Señor</b>\n<b>      DO           SOL   RE7           SOL</b>\n<b>/pues tú eres la alegría de nuestro corazón/</b>\n\n\n<b>SOL            mim                     DO  lam</b>\nTú hiciste los cielos los llenas de estrellas\n<b>           RE7</b>\nde luz y color.\n<b>SOL             mim               DO lam</b>\nTú pintaste la aurora, hiciste las nubes\n<b>                RE7</b>\nlas puestas del sol.\n\n\nTú creaste la risa la paz y la dicha\nla felicidad.\n\n\nTú al darnos la vida nos das las riquezas\ntu eterna amistad.\n\n\nTú nos diste a tu Madre nos diste tu Cuerpo\ntu sangre en manjar.\n\n\nTú nos diste esperanza la fe y nos hiciste\nCapaces de amar.",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
       "id": "Comunion0",
       "title": "Alma de Cristo",
       "category": "COMUNIÓN",
@@ -942,6 +952,26 @@
       "videoUrl": "https://vm.tiktok.com/ZMA69qD7u/"
     },
     {
+      "id": "Comunion34",
+      "title": "Oración por la Familia",
+      "category": "COMUNIÓN",
+      "lyrics": "<b>MI                                              SI7</b>\nQue ninguna familia comience en cualquier de repente,\n<b>       fa#m             SI7                MI</b>\nque ninguna familia se acabe por falta de amor.\n<b>    MI                                        SI7</b>\nLa pareja sea el uno del otro de cuerpo y de mente\n<b>     fa#m               SI7                MI</b>\ny que nada en el mundo separe un hogar soñador.\n\nQue ninguna familia se albergue debajo de un puente\ny que nadie interfiera en la vida, en la paz de los dos.\nY que nadie los haga vivir sin ningún horizonte\ny que puedan vivir sin temer lo que venga después.\n\n<b>     MI                                     fa#m</b>\nLa familia comience sabiendo por qué y donde va\n<b>          SI7                                 MI</b>\ny que el hombre retrate la gracia de ser un papá.\n<b>    MI                                    fa#m</b>\nLa mujer sea cielo y ternura y afecto y calor\n<b>      SI7                                     MI</b>\ny los hijos conozcan la fuerza que tiene el amor.\n\n\n<b>       MI                          SI7</b>\n<b>/Bendecid oh Señor las familias, Amén.</b>\n<b>              LA      SI7    MI</b>\n<b>Bendecid oh Señor la mía también./</b>\n\n\nQue marido y mujer tengan fuerza de amar sin medida\ny que nadie se vaya a dormir sin buscar el perdón.\nQue en la cuna los niños aprendan el don de la vida,\nla familia celebre el milagro del beso y el pan.\n\nQue marido y mujer de rodillas contemplen sus hijos,\nque por ellos encuentren la fuerza para continuar.\nY que en su firmamento la estrella que tenga más brillo\npueda ser la esperanza de paz y certeza de amar.",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Comunion35",
+      "title": "No podemos caminar",
+      "category": "COMUNIÓN",
+      "lyrics": "<b>MI         LA   MI          FA#7     SI7</b>\n<b>No podemos caminar con hambre bajo el sol,</b>\n<b>MI               LA    MI</b>\n<b>danos siempre el mismo Pan:</b>\n<b>   do#m    SI7        MI</b>\n<b>tu Cuerpo y Sangre, Señor.</b>\n\n\n<b>  MI  sol#m   LA      MI           FA#7    SI7</b>\nComamos todos de este Pan, el Pan de la unidad.\n<b>   MI       MI7   LA       lam    fa#m   SI7   MI</b>\nEn un cuerpo nos unió el Señor, por medio del amor.\n\n\n<b>  MI      sol#m LA     MI            FA#    SI7</b>\nSeñor, yo tengo sed de TI, sediento estoy de Dios;\n<b>     MI    MI7    LA   lam   fa#m    SI7   MI</b>\npero pronto llegaré a ver el rostro del Señor.\n\n\n<b>    MI    sol#m     LA    MI           FA#   SI7</b>\nPor el desierto el pueblo va cantando su dolor;\n<b>       MI   MI7   LA    lam       fa#m  SI7    MI</b>\nen la noche brillará tu luz, nos guía   la verdad.",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
       "id": "Paz0",
       "title": "Cordero de Dios (1)",
       "category": "CORDERO DE DIOS Y PAZ",
@@ -1106,6 +1136,16 @@
       "title": "Cordero de Dios (Cristobal Fones)",
       "category": "CORDERO DE DIOS Y PAZ",
       "lyrics": "<b>DO         mim        FA</b>\nCordero de Dios   que quitas\n<b>    SOL        DO   DO7</b>\nel pecado del mundo\n<b>FA      SOL      DO</b>\n  Ten piedad de nosotros\n\n\n<b>DO         mim        FA</b>\nCordero de Dios   que quitas\n<b>    SOL        DO   DO7</b>\nel pecado del mundo\n<b>FA      SOL      DO</b>\n  Ten piedad de nosotros\n\n\n<b>DO         mim      FA</b>\nCordero de Dios que quitas\n<b>    SOL        DO   DO7</b>\nel pecado del mundo\n<b>FA SOL     DO   DO7</b>\n  Danos la paz\n<b>FA SOL     DO</b>\n  Danos la paz",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Paz17",
+      "title": "Cordero de Dios que quitas",
+      "category": "CORDERO DE DIOS Y PAZ",
+      "lyrics": "<b> mim</b>\n/Cordero de Dios que quitas\n<b>    SI7          mim </b>\nel pecado de los hombres/\n<b>         RE     DO      SI7</b>\n/Ten piedad de nuestras almas\n<b>                  mim</b>\ny alegra los corazones/\n\n\n<b>   mim</b>\n/Cordero de Dios que quitas\n<b>   SI7            mim</b>\nel pecado de los hombres/\n<b>        RE     DO      SI7</b>\n/Ten piedad de nuestras almas\n<b>                mim</b>\ny concédenos la paz/",
       "has_chords": true,
       "isFavorite": false,
       "customNote": "",
@@ -1992,6 +2032,16 @@
       "videoUrl": ""
     },
     {
+      "id": "Maria30",
+      "title": "María Tú, Intercesora",
+      "category": "MARÍA",
+      "lyrics": "<b>lam     SOL   DO  MI</b>\n<b>/Marí -  a    tú</b>\n<b>       lam</b>\n<b>intercesora,</b>\n<b> lam    SOL   DO  MI</b>\n<b>Marí -   a    tú</b>\n<b>          lam</b>\n<b>nuestra Señora./</b>\n\n\n<b>lam            SOL</b>\nEres la gracia viva,\n<b>        FA</b>\nDios contigo,\n<b>               MI</b>\ntú eres la elegida;\n<b>    lam       SOL</b>\ny tu Hijo Jesucristo\n<b>         FA               MI</b>\ndesde tu vientre te consagró\n<b>           lam</b>\nMadre Universal\n\n\nSanta, santa María,\nMadre de Dios, Madre del hombre;\nenvía tu fortaleza,\nejemplo vivo,\nperseverancia en Jesús.",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
       "id": "Ofertorio0",
       "title": "Al altar del Señor",
       "category": "OFERTORIO",
@@ -2302,6 +2352,16 @@
       "videoUrl": ""
     },
     {
+      "id": "Penitencial13",
+      "title": "Señor ten piedad (1)",
+      "category": "PENITENCIAL",
+      "lyrics": "<b>RE     LA      RE</b>\n<b>/Señor ten piedad/</b>\n\n<b> LA             RE</b>\n<b>/Cristo ten piedad/</b>\n\n<b> RE    LA     RE</b>\n<b>/Señor ten piedad/</b>",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
       "id": "Pentecostes0",
       "title": "Dios está aquí que hermoso es",
       "category": "PENTECOSTÉS - ESPÍRITU SANTO",
@@ -2506,6 +2566,16 @@
       "title": "Santo, santo, santo mi corazón te adora",
       "category": "SANTOS",
       "lyrics": "<b>SOL    RE      mim     DO   RE7    SOL SOL7</b>\nSanto, santo, santo mi corazón te adora\n<b>DO      RE     sim     mim</b> \nMi corazón te quiere decir\n<b>DO      RE7    SOL</b>\nSanto, santo, santo.\n\n\nLos cielos y la tierra se llenan de tu gloria\nBendito el que viene en nombre del señor\nHosanna en las alturas\nPorque Santo eres Tú.",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Santos9",
+      "title": "Santo - Alfonso Luna",
+      "category": "SANTOS",
+      "lyrics": "<b>FA#7  sim MI LA  RE            sim         DO#7 fa#m</b>\nSantooo,  Santo, Santo es el Señor Dios del uuu niverso\n<b>FA#7    sim        MI         LA    RE    sim     DO#7 fa#m</b>\nllenos están los cielos y la tierra de su Gloria ¡Hosanna!\n\n\n<b>FA#7 sim  MI  LA  RE  sim  DO#7  fa#m</b>\n<b>/Hosanna  Hosanna Hosanna  en el cielo/</b>\n\n\n<b>FA#7          sim       MI           LA </b> \nBendito el que viene en Nombre del Señor,\n<b>   RE        sim      DO#7 fa#m</b>\nHosanna en el cielo, Hosaaaana",
       "has_chords": true,
       "isFavorite": false,
       "customNote": "",
