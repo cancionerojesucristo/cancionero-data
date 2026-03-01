@@ -1,5 +1,5 @@
 {
-  "version": "20260212124139",
+  "version": "20260301081404",
   "calendario": [
     {
       "fecha": "2026-01-25",
@@ -352,7 +352,7 @@
       "imagen": "cuaresma1"
     },
     {
-      "fecha": "2026-03-1",
+      "fecha": "2026-03-01",
       "titulo": "II Domingo de Cuaresma",
       "tiempo": "Cuaresma",
       "color": "#6A1B9A",
@@ -362,7 +362,7 @@
       "imagen": "cuaresma2"
     },
     {
-      "fecha": "2026-03-2",
+      "fecha": "2026-03-02",
       "titulo": "II Semana de Cuaresma",
       "tiempo": "Cuaresma",
       "color": "#6A1B9A",
@@ -372,7 +372,7 @@
       "imagen": "cuaresma2"
     },
     {
-      "fecha": "2026-03-3",
+      "fecha": "2026-03-03",
       "titulo": "II Semana de Cuaresma",
       "tiempo": "Cuaresma",
       "color": "#6A1B9A",
@@ -382,7 +382,7 @@
       "imagen": "cuaresma2"
     },
     {
-      "fecha": "2026-03-4",
+      "fecha": "2026-03-04",
       "titulo": "II Semana de Cuaresma",
       "tiempo": "Cuaresma",
       "color": "#6A1B9A",
@@ -392,7 +392,7 @@
       "imagen": "cuaresma2"
     },
     {
-      "fecha": "2026-03-5",
+      "fecha": "2026-03-05",
       "titulo": "II Semana de Cuaresma",
       "tiempo": "Cuaresma",
       "color": "#6A1B9A",
@@ -402,7 +402,7 @@
       "imagen": "cuaresma2"
     },
     {
-      "fecha": "2026-03-6",
+      "fecha": "2026-03-06",
       "titulo": "II Semana de Cuaresma",
       "tiempo": "Cuaresma",
       "color": "#6A1B9A",
@@ -412,7 +412,7 @@
       "imagen": "cuaresma2"
     },
     {
-      "fecha": "2026-03-7",
+      "fecha": "2026-03-07",
       "titulo": "II Semana de Cuaresma",
       "tiempo": "Cuaresma",
       "color": "#6A1B9A",
@@ -422,7 +422,7 @@
       "imagen": "cuaresma2"
     },
     {
-      "fecha": "2026-03-8",
+      "fecha": "2026-03-08",
       "titulo": "III Domingo de Cuaresma",
       "tiempo": "Cuaresma",
       "color": "#6A1B9A",
@@ -432,7 +432,7 @@
       "imagen": "sanjuandedios"
     },
     {
-      "fecha": "2026-03-9",
+      "fecha": "2026-03-09",
       "titulo": "III Semana de Cuaresma",
       "tiempo": "Cuaresma",
       "color": "#6A1B9A",
@@ -662,7 +662,7 @@
       "imagen": "martessanto"
     },
     {
-      "fecha": "2026-04-1",
+      "fecha": "2026-04-01",
       "titulo": "Miércoles Santo",
       "tiempo": "Cuaresma",
       "color": "#6A1B9A",
@@ -672,7 +672,7 @@
       "imagen": "miercolessanto"
     },
     {
-      "fecha": "2026-04-2",
+      "fecha": "2026-04-02",
       "titulo": "Jueves Santo La Cena del Señor",
       "tiempo": "Triduo Pascual",
       "color": "#F5F5F5",
@@ -682,7 +682,7 @@
       "imagen": "juevessanto"
     },
     {
-      "fecha": "2026-04-3",
+      "fecha": "2026-04-03",
       "titulo": "Viernes Santo La Pasión del Señor",
       "tiempo": "Triduo Pascual",
       "color": "#C62828",
@@ -692,7 +692,7 @@
       "imagen": "viernessanto"
     },
     {
-      "fecha": "2026-04-4",
+      "fecha": "2026-04-04",
       "titulo": "Sábado de Gloria",
       "tiempo": "Triduo Pascual",
       "color": "#F5F5F5",
@@ -702,7 +702,7 @@
       "imagen": "sabadogloria"
     },
     {
-      "fecha": "2026-04-5",
+      "fecha": "2026-04-05",
       "titulo": "Domingo de Pascua la Resurrección del Señor",
       "tiempo": "Tiempo Pascual",
       "color": "#F5F5F5",
@@ -712,7 +712,7 @@
       "imagen": "domingodegloria"
     },
     {
-      "fecha": "2026-04-6",
+      "fecha": "2026-04-06",
       "titulo": "Lunes de la Octava de Pascua",
       "tiempo": "Tiempo Pascual",
       "color": "#F5F5F5",
@@ -722,7 +722,7 @@
       "imagen": "pascua1"
     },
     {
-      "fecha": "2026-04-7",
+      "fecha": "2026-04-07",
       "titulo": "Martes de la Octava de Pascua",
       "tiempo": "Tiempo Pascual",
       "color": "#F5F5F5",
@@ -732,7 +732,7 @@
       "imagen": "juanbautistadelasalle"
     },
     {
-      "fecha": "2026-04-8",
+      "fecha": "2026-04-08",
       "titulo": "Miércoles de la Octava de Pascua",
       "tiempo": "Tiempo Pascual",
       "color": "#F5F5F5",
@@ -742,7 +742,7 @@
       "imagen": "pascua1"
     },
     {
-      "fecha": "2026-04-9",
+      "fecha": "2026-04-09",
       "titulo": "Jueves de la Octava de Pascua",
       "tiempo": "Tiempo Pascual",
       "color": "#F5F5F5",
@@ -962,7 +962,7 @@
       "imagen": "pascua4"
     },
     {
-      "fecha": "2026-05-1",
+      "fecha": "2026-05-01",
       "titulo": "IV Semana de Pascua",
       "tiempo": "Tiempo Pascual",
       "color": "#F5F5F5",
@@ -972,7 +972,7 @@
       "imagen": "pascua4"
     },
     {
-      "fecha": "2026-05-2",
+      "fecha": "2026-05-02",
       "titulo": "IV Semana de Pascua",
       "tiempo": "Tiempo Pascual",
       "color": "#F5F5F5",
@@ -982,7 +982,7 @@
       "imagen": "pascua4"
     },
     {
-      "fecha": "2026-05-3",
+      "fecha": "2026-05-03",
       "titulo": "V Domingo de Pascua",
       "tiempo": "Tiempo Pascual",
       "color": "#F5F5F5",
@@ -992,7 +992,7 @@
       "imagen": "pascua5"
     },
     {
-      "fecha": "2026-05-4",
+      "fecha": "2026-05-04",
       "titulo": "V Semana de Pascua",
       "tiempo": "Tiempo Pascual",
       "color": "#F5F5F5",
@@ -1002,7 +1002,7 @@
       "imagen": "pascua5"
     },
     {
-      "fecha": "2026-05-5",
+      "fecha": "2026-05-05",
       "titulo": "V Semana de Pascua",
       "tiempo": "Tiempo Pascual",
       "color": "#F5F5F5",
@@ -1012,7 +1012,7 @@
       "imagen": "pascua5"
     },
     {
-      "fecha": "2026-05-6",
+      "fecha": "2026-05-06",
       "titulo": "V Semana de Pascua",
       "tiempo": "Tiempo Pascual",
       "color": "#F5F5F5",
@@ -1022,7 +1022,7 @@
       "imagen": "santodomingosavio"
     },
     {
-      "fecha": "2026-05-7",
+      "fecha": "2026-05-07",
       "titulo": "V Semana de Pascua",
       "tiempo": "Tiempo Pascual",
       "color": "#F5F5F5",
@@ -1032,7 +1032,7 @@
       "imagen": "pascua5"
     },
     {
-      "fecha": "2026-05-8",
+      "fecha": "2026-05-08",
       "titulo": "V Semana de Pascua",
       "tiempo": "Tiempo Pascual",
       "color": "#F5F5F5",
@@ -1042,7 +1042,7 @@
       "imagen": "pascua5"
     },
     {
-      "fecha": "2026-05-9",
+      "fecha": "2026-05-09",
       "titulo": "V Semana de Pascua",
       "tiempo": "Tiempo Pascual",
       "color": "#F5F5F5",
@@ -1272,7 +1272,7 @@
       "imagen": "santisimatrinidad"
     },
     {
-      "fecha": "2026-06-1",
+      "fecha": "2026-06-01",
       "titulo": "IX Semana del Tiempo Ordinario",
       "tiempo": "Tiempo Ordinario",
       "color": "#2E7D32",
@@ -1282,7 +1282,7 @@
       "imagen": "tiempoordinario9"
     },
     {
-      "fecha": "2026-06-2",
+      "fecha": "2026-06-02",
       "titulo": "IX Semana del Tiempo Ordinario",
       "tiempo": "Tiempo Ordinario",
       "color": "#2E7D32",
@@ -1292,7 +1292,7 @@
       "imagen": "tiempoordinario9"
     },
     {
-      "fecha": "2026-06-3",
+      "fecha": "2026-06-03",
       "titulo": "IX Semana del Tiempo Ordinario",
       "tiempo": "Tiempo Ordinario",
       "color": "#2E7D32",
@@ -1302,7 +1302,7 @@
       "imagen": "tiempoordinario9"
     },
     {
-      "fecha": "2026-06-4",
+      "fecha": "2026-06-04",
       "titulo": "IX Semana del Tiempo Ordinario",
       "tiempo": "Tiempo Ordinario",
       "color": "#2E7D32",
@@ -1312,7 +1312,7 @@
       "imagen": "corpuschristi"
     },
     {
-      "fecha": "2026-06-5",
+      "fecha": "2026-06-05",
       "titulo": "IX Semana del Tiempo Ordinario",
       "tiempo": "Tiempo Ordinario",
       "color": "#2E7D32",
@@ -1322,7 +1322,7 @@
       "imagen": "tiempoordinario9"
     },
     {
-      "fecha": "2026-06-6",
+      "fecha": "2026-06-06",
       "titulo": "IX Semana del Tiempo Ordinario",
       "tiempo": "Tiempo Ordinario",
       "color": "#2E7D32",
@@ -1332,7 +1332,7 @@
       "imagen": "tiempoordinario9"
     },
     {
-      "fecha": "2026-06-7",
+      "fecha": "2026-06-07",
       "titulo": "El Cuerpo y la Sangre Santísimos de Cristo",
       "tiempo": "Tiempo Ordinario",
       "color": "#2E7D32",
@@ -1342,7 +1342,7 @@
       "imagen": "cuerpoysangredecristo"
     },
     {
-      "fecha": "2026-06-8",
+      "fecha": "2026-06-08",
       "titulo": "X Semana del Tiempo Ordinario",
       "tiempo": "Tiempo Ordinario",
       "color": "#2E7D32",
@@ -1352,7 +1352,7 @@
       "imagen": "tiempoordinario10"
     },
     {
-      "fecha": "2026-06-9",
+      "fecha": "2026-06-09",
       "titulo": "X Semana del Tiempo Ordinario",
       "tiempo": "Tiempo Ordinario",
       "color": "#2E7D32",
@@ -1572,7 +1572,7 @@
       "imagen": "tiempoordinario13"
     },
     {
-      "fecha": "2026-07-1",
+      "fecha": "2026-07-01",
       "titulo": "XIII Semana del Tiempo Ordinario",
       "tiempo": "Tiempo Ordinario",
       "color": "#2E7D32",
@@ -1582,7 +1582,7 @@
       "imagen": "tiempoordinario13"
     },
     {
-      "fecha": "2026-07-2",
+      "fecha": "2026-07-02",
       "titulo": "XIII Semana del Tiempo Ordinario",
       "tiempo": "Tiempo Ordinario",
       "color": "#2E7D32",
@@ -1592,7 +1592,7 @@
       "imagen": "tiempoordinario13"
     },
     {
-      "fecha": "2026-07-3",
+      "fecha": "2026-07-03",
       "titulo": "XIII Semana del Tiempo Ordinario",
       "tiempo": "Tiempo Ordinario",
       "color": "#2E7D32",
@@ -1602,7 +1602,7 @@
       "imagen": "tiempoordinario13"
     },
     {
-      "fecha": "2026-07-4",
+      "fecha": "2026-07-04",
       "titulo": "XIII Semana del Tiempo Ordinario",
       "tiempo": "Tiempo Ordinario",
       "color": "#2E7D32",
@@ -1612,7 +1612,7 @@
       "imagen": "tiempoordinario13"
     },
     {
-      "fecha": "2026-07-5",
+      "fecha": "2026-07-05",
       "titulo": "XIV Domingo del Tiempo Ordinario",
       "tiempo": "Tiempo Ordinario",
       "color": "#2E7D32",
@@ -1622,7 +1622,7 @@
       "imagen": "tiempoordinario14"
     },
     {
-      "fecha": "2026-07-6",
+      "fecha": "2026-07-06",
       "titulo": "XIV Semana del Tiempo Ordinario",
       "tiempo": "Tiempo Ordinario",
       "color": "#2E7D32",
@@ -1632,7 +1632,7 @@
       "imagen": "tiempoordinario14"
     },
     {
-      "fecha": "2026-07-7",
+      "fecha": "2026-07-07",
       "titulo": "XIV Semana del Tiempo Ordinario",
       "tiempo": "Tiempo Ordinario",
       "color": "#2E7D32",
@@ -1642,7 +1642,7 @@
       "imagen": "tiempoordinario14"
     },
     {
-      "fecha": "2026-07-8",
+      "fecha": "2026-07-08",
       "titulo": "XIV Semana del Tiempo Ordinario",
       "tiempo": "Tiempo Ordinario",
       "color": "#2E7D32",
@@ -1652,7 +1652,7 @@
       "imagen": "tiempoordinario14"
     },
     {
-      "fecha": "2026-07-9",
+      "fecha": "2026-07-09",
       "titulo": "XIV Semana del Tiempo Ordinario",
       "tiempo": "Tiempo Ordinario",
       "color": "#2E7D32",
@@ -1882,7 +1882,7 @@
       "imagen": "sanignaciodeloyola"
     },
     {
-      "fecha": "2026-08-1",
+      "fecha": "2026-08-01",
       "titulo": "XVII Semana del Tiempo Ordinario",
       "tiempo": "Tiempo Ordinario",
       "color": "#2E7D32",
@@ -1892,7 +1892,7 @@
       "imagen": "sanalfonso"
     },
     {
-      "fecha": "2026-08-2",
+      "fecha": "2026-08-02",
       "titulo": "XVIII Domingo del Tiempo Ordinario",
       "tiempo": "Tiempo Ordinario",
       "color": "#2E7D32",
@@ -1902,7 +1902,7 @@
       "imagen": "tiempoordinario18"
     },
     {
-      "fecha": "2026-08-3",
+      "fecha": "2026-08-03",
       "titulo": "XVIII Semana del Tiempo Ordinario",
       "tiempo": "Tiempo Ordinario",
       "color": "#2E7D32",
@@ -1912,7 +1912,7 @@
       "imagen": "tiempoordinario18"
     },
     {
-      "fecha": "2026-08-4",
+      "fecha": "2026-08-04",
       "titulo": "XVIII Semana del Tiempo Ordinario",
       "tiempo": "Tiempo Ordinario",
       "color": "#2E7D32",
@@ -1922,7 +1922,7 @@
       "imagen": "tiempoordinario18"
     },
     {
-      "fecha": "2026-08-5",
+      "fecha": "2026-08-05",
       "titulo": "XVIII Semana del Tiempo Ordinario",
       "tiempo": "Tiempo Ordinario",
       "color": "#2E7D32",
@@ -1932,7 +1932,7 @@
       "imagen": "nuestrasenoradelasnieves"
     },
     {
-      "fecha": "2026-08-6",
+      "fecha": "2026-08-06",
       "titulo": "La Transfiguración del Señor",
       "tiempo": "Tiempo Ordinario",
       "color": "#2E7D32",
@@ -1942,7 +1942,7 @@
       "imagen": "transfiguraciondelsenor"
     },
     {
-      "fecha": "2026-08-7",
+      "fecha": "2026-08-07",
       "titulo": "XVIII Semana del Tiempo Ordinario",
       "tiempo": "Tiempo Ordinario",
       "color": "#2E7D32",
@@ -1952,7 +1952,7 @@
       "imagen": "tiempoordinario18"
     },
     {
-      "fecha": "2026-08-8",
+      "fecha": "2026-08-08",
       "titulo": "XVIII Semana del Tiempo Ordinario",
       "tiempo": "Tiempo Ordinario",
       "color": "#2E7D32",
@@ -1962,7 +1962,7 @@
       "imagen": "santodomingodeguzman"
     },
     {
-      "fecha": "2026-08-9",
+      "fecha": "2026-08-09",
       "titulo": "XIX Domingo del Tiempo Ordinario",
       "tiempo": "Tiempo Ordinario",
       "color": "#2E7D32",
@@ -2192,7 +2192,7 @@
       "imagen": "tiempoordinario22"
     },
     {
-      "fecha": "2026-09-1",
+      "fecha": "2026-09-01",
       "titulo": "XXII Semana del Tiempo Ordinario",
       "tiempo": "Tiempo Ordinario",
       "color": "#2E7D32",
@@ -2202,7 +2202,7 @@
       "imagen": "tiempoordinario22"
     },
     {
-      "fecha": "2026-09-2",
+      "fecha": "2026-09-02",
       "titulo": "XXII Semana del Tiempo Ordinario",
       "tiempo": "Tiempo Ordinario",
       "color": "#2E7D32",
@@ -2212,7 +2212,7 @@
       "imagen": "tiempoordinario22"
     },
     {
-      "fecha": "2026-09-3",
+      "fecha": "2026-09-03",
       "titulo": "XXII Semana del Tiempo Ordinario",
       "tiempo": "Tiempo Ordinario",
       "color": "#2E7D32",
@@ -2222,7 +2222,7 @@
       "imagen": "tiempoordinario22"
     },
     {
-      "fecha": "2026-09-4",
+      "fecha": "2026-09-04",
       "titulo": "XXII Semana del Tiempo Ordinario",
       "tiempo": "Tiempo Ordinario",
       "color": "#2E7D32",
@@ -2232,7 +2232,7 @@
       "imagen": "tiempoordinario22"
     },
     {
-      "fecha": "2026-09-5",
+      "fecha": "2026-09-05",
       "titulo": "XXII Semana del Tiempo Ordinario",
       "tiempo": "Tiempo Ordinario",
       "color": "#2E7D32",
@@ -2242,7 +2242,7 @@
       "imagen": "madreteresadecalculta"
     },
     {
-      "fecha": "2026-09-6",
+      "fecha": "2026-09-06",
       "titulo": "XXIII Domingo del Tiempo Ordinario",
       "tiempo": "Tiempo Ordinario",
       "color": "#2E7D32",
@@ -2252,7 +2252,7 @@
       "imagen": "tiempoordinario23"
     },
     {
-      "fecha": "2026-09-7",
+      "fecha": "2026-09-07",
       "titulo": "XXIII Semana del Tiempo Ordinario",
       "tiempo": "Tiempo Ordinario",
       "color": "#2E7D32",
@@ -2262,7 +2262,7 @@
       "imagen": "tiempoordinario23"
     },
     {
-      "fecha": "2026-09-8",
+      "fecha": "2026-09-08",
       "titulo": "XXIII Semana del Tiempo Ordinario",
       "tiempo": "Tiempo Ordinario",
       "color": "#2E7D32",
@@ -2272,7 +2272,7 @@
       "imagen": "tiempoordinario23"
     },
     {
-      "fecha": "2026-09-9",
+      "fecha": "2026-09-09",
       "titulo": "XXIII Semana del Tiempo Ordinario",
       "tiempo": "Tiempo Ordinario",
       "color": "#2E7D32",
@@ -2492,7 +2492,7 @@
       "imagen": "tiempoordinario26"
     },
     {
-      "fecha": "2026-10-1",
+      "fecha": "2026-10-01",
       "titulo": "XXVI Semana del Tiempo Ordinario",
       "tiempo": "Tiempo Ordinario",
       "color": "#2E7D32",
@@ -2502,7 +2502,7 @@
       "imagen": "santateresita"
     },
     {
-      "fecha": "2026-10-2",
+      "fecha": "2026-10-02",
       "titulo": "XXVI Semana del Tiempo Ordinario",
       "tiempo": "Tiempo Ordinario",
       "color": "#2E7D32",
@@ -2512,7 +2512,7 @@
       "imagen": "angelescustodios"
     },
     {
-      "fecha": "2026-10-3",
+      "fecha": "2026-10-03",
       "titulo": "XXVI Semana del Tiempo Ordinario",
       "tiempo": "Tiempo Ordinario",
       "color": "#2E7D32",
@@ -2522,7 +2522,7 @@
       "imagen": "tiempoordinario26"
     },
     {
-      "fecha": "2026-10-4",
+      "fecha": "2026-10-04",
       "titulo": "XXVII Domingo del Tiempo Ordinario",
       "tiempo": "Tiempo Ordinario",
       "color": "#2E7D32",
@@ -2532,7 +2532,7 @@
       "imagen": "sanfrancisco"
     },
     {
-      "fecha": "2026-10-5",
+      "fecha": "2026-10-05",
       "titulo": "XXVII Semana del Tiempo Ordinario",
       "tiempo": "Tiempo Ordinario",
       "color": "#2E7D32",
@@ -2542,7 +2542,7 @@
       "imagen": "tiempoordinario27"
     },
     {
-      "fecha": "2026-10-6",
+      "fecha": "2026-10-06",
       "titulo": "XXVII Semana del Tiempo Ordinario",
       "tiempo": "Tiempo Ordinario",
       "color": "#2E7D32",
@@ -2552,7 +2552,7 @@
       "imagen": "tiempoordinario27"
     },
     {
-      "fecha": "2026-10-7",
+      "fecha": "2026-10-07",
       "titulo": "XXVII Semana del Tiempo Ordinario",
       "tiempo": "Tiempo Ordinario",
       "color": "#2E7D32",
@@ -2562,7 +2562,7 @@
       "imagen": "virgendelrosario"
     },
     {
-      "fecha": "2026-10-8",
+      "fecha": "2026-10-08",
       "titulo": "XXVII Semana del Tiempo Ordinario",
       "tiempo": "Tiempo Ordinario",
       "color": "#2E7D32",
@@ -2572,7 +2572,7 @@
       "imagen": "tiempoordinario27"
     },
     {
-      "fecha": "2026-10-9",
+      "fecha": "2026-10-09",
       "titulo": "XXVII Semana del Tiempo Ordinario",
       "tiempo": "Tiempo Ordinario",
       "color": "#2E7D32",
@@ -2802,7 +2802,7 @@
       "imagen": "tiempoordinario30"
     },
     {
-      "fecha": "2026-11-1",
+      "fecha": "2026-11-01",
       "titulo": "Todos los Santos",
       "tiempo": "Tiempo Ordinario",
       "color": "#F5F5F5",
@@ -2812,7 +2812,7 @@
       "imagen": "todoslossantos"
     },
     {
-      "fecha": "2026-11-2",
+      "fecha": "2026-11-02",
       "titulo": "Conmemoración de todos los Fieles Difuntos",
       "tiempo": "Tiempo Ordinario",
       "color": "#6A1B9A",
@@ -2822,7 +2822,7 @@
       "imagen": "losfielesdifuntos"
     },
     {
-      "fecha": "2026-11-3",
+      "fecha": "2026-11-03",
       "titulo": "XXXI Semana del Tiempo Ordinario",
       "tiempo": "Tiempo Ordinario",
       "color": "#2E7D32",
@@ -2832,7 +2832,7 @@
       "imagen": "sanmartindeporres"
     },
     {
-      "fecha": "2026-11-4",
+      "fecha": "2026-11-04",
       "titulo": "XXXI Semana del Tiempo Ordinario",
       "tiempo": "Tiempo Ordinario",
       "color": "#2E7D32",
@@ -2842,7 +2842,7 @@
       "imagen": "tiempoordinario31"
     },
     {
-      "fecha": "2026-11-5",
+      "fecha": "2026-11-05",
       "titulo": "XXXI Semana del Tiempo Ordinario",
       "tiempo": "Tiempo Ordinario",
       "color": "#2E7D32",
@@ -2852,7 +2852,7 @@
       "imagen": "tiempoordinario31"
     },
     {
-      "fecha": "2026-11-6",
+      "fecha": "2026-11-06",
       "titulo": "XXXI Semana del Tiempo Ordinario",
       "tiempo": "Tiempo Ordinario",
       "color": "#2E7D32",
@@ -2862,7 +2862,7 @@
       "imagen": "tiempoordinario31"
     },
     {
-      "fecha": "2026-11-7",
+      "fecha": "2026-11-07",
       "titulo": "XXXI Semana del Tiempo Ordinario",
       "tiempo": "Tiempo Ordinario",
       "color": "#2E7D32",
@@ -2872,7 +2872,7 @@
       "imagen": "tiempoordinario31"
     },
     {
-      "fecha": "2026-11-8",
+      "fecha": "2026-11-08",
       "titulo": "XXXII Domingo del Tiempo Ordinario",
       "tiempo": "Tiempo Ordinario",
       "color": "#2E7D32",
@@ -2882,7 +2882,7 @@
       "imagen": "tiempoordinario32"
     },
     {
-      "fecha": "2026-11-9",
+      "fecha": "2026-11-09",
       "titulo": "XXXII Semana del Tiempo Ordinario",
       "tiempo": "Tiempo Ordinario",
       "color": "#2E7D32",
@@ -3102,7 +3102,7 @@
       "imagen": "adviento1"
     },
     {
-      "fecha": "2026-12-1",
+      "fecha": "2026-12-01",
       "titulo": "I Semana de Adviento",
       "tiempo": "Adviento",
       "color": "#6A1B9A",
@@ -3112,7 +3112,7 @@
       "imagen": "adviento1"
     },
     {
-      "fecha": "2026-12-2",
+      "fecha": "2026-12-02",
       "titulo": "I Semana de Adviento",
       "tiempo": "Adviento",
       "color": "#6A1B9A",
@@ -3122,7 +3122,7 @@
       "imagen": "adviento1"
     },
     {
-      "fecha": "2026-12-3",
+      "fecha": "2026-12-03",
       "titulo": "I Semana de Adviento",
       "tiempo": "Adviento",
       "color": "#6A1B9A",
@@ -3132,7 +3132,7 @@
       "imagen": "adviento1"
     },
     {
-      "fecha": "2026-12-4",
+      "fecha": "2026-12-04",
       "titulo": "I Semana de Adviento",
       "tiempo": "Adviento",
       "color": "#6A1B9A",
@@ -3142,7 +3142,7 @@
       "imagen": "adviento1"
     },
     {
-      "fecha": "2026-12-5",
+      "fecha": "2026-12-05",
       "titulo": "I Semana de Adviento",
       "tiempo": "Adviento",
       "color": "#6A1B9A",
@@ -3152,7 +3152,7 @@
       "imagen": "adviento1"
     },
     {
-      "fecha": "2026-12-6",
+      "fecha": "2026-12-06",
       "titulo": "II Domingo de Adviento",
       "tiempo": "Adviento",
       "color": "#6A1B9A",
@@ -3162,7 +3162,7 @@
       "imagen": "adviento2"
     },
     {
-      "fecha": "2026-12-7",
+      "fecha": "2026-12-07",
       "titulo": "II Semana de Adviento",
       "tiempo": "Adviento",
       "color": "#6A1B9A",
@@ -3172,7 +3172,7 @@
       "imagen": "adviento2"
     },
     {
-      "fecha": "2026-12-8",
+      "fecha": "2026-12-08",
       "titulo": "La Inmaculada Concepción de la Bienaventurada Virgen María",
       "tiempo": "Adviento",
       "color": "#6A1B9A",
@@ -3182,7 +3182,7 @@
       "imagen": "inmaculadaconcepcion"
     },
     {
-      "fecha": "2026-12-9",
+      "fecha": "2026-12-09",
       "titulo": "II Semana de Adviento",
       "tiempo": "Adviento",
       "color": "#6A1B9A",
