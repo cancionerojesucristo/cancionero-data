@@ -1,5 +1,5 @@
 {
-  "version": "20260223123415",
+  "version": "20260306165048",
   "songs": [
     {
       "id": "Navidad0",
@@ -612,6 +612,126 @@
       "videoUrl": ""
     },
     {
+      "id": "Apertura26",
+      "title": "Alabado seas mi Señor",
+      "category": "APERTURA",
+      "lyrics": "<b>RE      LA7       RE         LA7        RE RE7</b>\nAlabado seas, mi Señor, alabado seas, mi Señor:\n<b>   SOL                  LA7        RE</b>\nel sol y las estrellas proclaman tu grandeza,\n<b>   SI7        mim      LA7        RE</b>\nlas flores y la luna nos cantan tu poder,\n<b>               mim    LA7        RE</b>\nlas flores y la luna nos cantan tu poder.\n\n\n<b>RE      LA7       RE         LA7        RE RE7</b>\n<b>Alabado seas, mi Señor, alabado seas, mi Señor:</b>\n<b> SOL                LA7          RE</b>\n<b>cantando, el universo te ofrece su hermosura,</b>\n<b>  SI7      mim      LA7        RE</b>\n<b>pues toda creatura es cántico de amor,</b>\n<b>            mim    LA7         RE</b>\n<b>pues toda creatura es cántico de amor.</b>\n\n\nAlabado seas, mi Señor, alabado seas, mi Señor:\nlos pájaros y el bosque, los árboles y el viento\n/los ríos y los mares nos cantan tu poder/\n\n\nAlabado seas, mi Señor, alabado seas, mi Señor:\npor todos los hermanos que acogen y perdonan,\n/por todos los que rezan en su tribulación/",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Apertura27",
+      "title": "Alrededor de tu mesa (F. Palazón)",
+      "category": "APERTURA",
+      "lyrics": "<b>SOL                    mim    RE     SOL</b>\n<b>Alrededor de tu mesa, venimos a recordar,</b>\n<b>SOL                    mim    RE     SOL</b>\n<b>alrededor de tu mesa, venimos a recordar,</b>\n<b>lam        RE    SOL  mim     lam       LA   RE7</b>\n<b>que tu Palabra es camino, tu Cuerpo, fraternidad,</b>\n<b>lam        RE    SOL  mim     lam       RE7   SOL</b>\n<b>que tu Palabra es camino, tu Cuerpo, fraternidad.</b>\n \n\n<b>SOL</b>\nHemos venido a tu mesa\n<b>mim    LA     SOL   </b>\na renovar el misterio de tu amor,\n<b>mim          RE     SOL</b>\ncon nuestras manos manchadas,\n<b>     LA      LA7       RE  RE7</b>\narrepentidos buscamos tu perdón.\n\n\nJuntos y a veces sin vernos,\ncelebramos tu presencia, sin sentir,\nque se interrumpe el camino,\nsi no vamos como hermanos hacia Ti.",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Apertura28",
+      "title": "Cantando la alegría de vivir",
+      "category": "APERTURA",
+      "lyrics": "<b>MI            LA        MI</b>\n<b>Cantando la alegría de vivir</b>\n<b>             do#m        SI7</b>\n<b>lleguemos a la Casa del Señor;</b>\n<b>fa#m              LA          MI</b>\n<b>/marchando todos juntos como hermanos,</b>\n<b>fa#m          SI7        MI</b>\n<b>andemos los caminos hacia Dios/</b>\n\n\n<b>MI             SI7         MI</b>\nVenid, entremos todos dando gracias.\n<b> do#m       SI7</b>\nVenid, cantemos todos al Señor.\n<b>    LA      fa#m         MI7</b>\nGritemos a la roca que nos salva.\n<b>    LA         SI7             MI</b>\nCantemos la alabanza a nuestro Dios.\n\n\nLa paz del Señor sea con nosotros,\nla paz que llena todo el corazón;\nla paz de estar unidos como hermanos,\nla paz que nos promete nuestro Dios.\n\n\nEntremos por las puestas dando gracias,\npidamos al Señor también perdón;\nperdón por nuestra falta a los hermanos,\nperdón por nuestro pobre corazón.",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Apertura29",
+      "title": "Dios Trino",
+      "category": "APERTURA",
+      "lyrics": "<b>RE                             SOL</b>\n<b>/En nombre del Padre, en nombre del Hijo,</b>\n<b>            RE         LA7       RE   RE7</b>\n<b>en nombre del Santo Espíritu, estamos aquí/</b>\n\n\n<b>        SOL        LA7       RE      SI7</b>\nPara alabar y agradecer, bendecir y adorar,\n<b>      mim   LA7          RE  RE7</b>\nestamos aquí, a tu disposición.\n<b>         SOL       LA7      RE       SI7</b>\nPara alabar y agradecer, bendecir y adorar,\n<b>        mim     LA7              RE</b>\nestamos aquí Señor, Dios trino de amor.\n\n\nPara escuchar y acoger, tu palabra seguir,\nestamos aquí, a tu disposición.\nPara comer y compartir, degustar tu alimento,\nestamos aquí Señor, Dios trino de amor.",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Apertura30",
+      "title": "El Señor nos llama y nos reúne (Alberto Taulé)",
+      "category": "APERTURA",
+      "lyrics": "<b>       MI       SI7        MI</b>\n<b>/El Señor nos llama y nos reúne</b>\n<b>          sol#m  LA         SI7</b>\n<b>somos su pueblo signo de unidad</b>\n<b>    LA     SI7      sol#m</b>\n<b>Él esta en medio de nosotros</b>\n<b>LA           MI    SI7          MI</b>\n<b>sirve a la mesa, nos reparte el pan/</b>\n\n\n<b>    LA        fa#m      SI7         sol#m</b>\nPor todos los caminos nos sales al encuentro,\n<b>    fa#m      SI7      MI         MI7</b>\npor todos hemos visto señales de tu amor;\n<b>    lam       RE7   SOL       mim</b>\ntu pueblo se reúne Señor a bendecirte\n<b>   DO7       lam       SI      SI7</b>\na celebrar con gozo tu paso salvador\n\n\nConvocas a tus fieles, nacidos de las aguas,\na festejar unidos la nueva creación.\nLa sala del banquete se llena de invitados;\nestamos reunidos y en medio está el Señor.\n\n\nRevélanos al Padre, oh Cristo, nuestra fiesta,\naumenta la esperanza de nuestro caminar.\nTu Espíritu divino nos dé la fortaleza,\nlos bienes que esperamos nos haga pregustar",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Apertura31",
+      "title": "Himno a la Santísima Trinidad",
+      "category": "APERTURA",
+      "lyrics": "<b>LA        RE       LA</b>\n<b>/Canta y alaba al Señor</b>\n<b> MI       do#m   MI   RE</b>\n<b>Él nos ha dicho su nombre</b>\n<b>sim      fa#m        RE  MI</b>\n<b>Padre y Señor para el hombre</b>\n<b>RE      MI       LA</b>\n<b>Vida esperanza y amor/</b>\n\n\n/Canta y alaba al Señor\nHijo del Padre hecho hombre\nCristo Señor es su nombre\nVida esperanza y amor/\n\n\n/Canta y alaba al Señor\nDivino Don para el hombre\nSanto Espíritu es su nombre\nVida esperanza y amor/\n\n\n/Canta y alaba al Señor\nÉl es fiel y nos llama\nÉl nos espera y nos ama.\nVida esperanza y amor/",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Apertura32",
+      "title": "Invoco al Dios altísimo (Luis Elizalde)",
+      "category": "APERTURA",
+      "lyrics": "<b>mim         sim    mim</b>\n<b>/Invoco al Dios altísimo,</b>\n<b>                         lam</b>\n<b>al Dios que hace tanto por mí,</b>\n<b>   mim           sim      mim</b>\n<b>al Dios que hace tanto por mi/</b>\n\n\n<b>    mim</b>\nSu brazo poderoso\n<b>   SOL     DO   SOL</b>\nme salva en el peligro;\n<b>    lam  RE  SOL</b>\nsu mano me acaricia,\n<b>    lam          SI7</b>\nme invita a descansar.\n\n\nSus pies marcan la senda\npor donde yo camino;\nsu báculo sostiene\nmis pasos al andar.\n\n\nSus ojos iluminan\nde noche en el abismo;\nsu voz alienta siempre\ncuando la luz se va.\n\n\nSu reino es paz y gozo,\nen él somos racimo,\nIglesia peregrina\ny honesta libertad.",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Apertura33",
+      "title": "Peregrinos de la paz",
+      "category": "APERTURA",
+      "lyrics": "<b>   MI                     SI</b>\n<b>Peregrinos de la paz y la alegría,</b>\n<b>   MI                 SI7</b>\n<b>convocados en el nombre del Señor,</b>\n<b>   MI         LA        MI</b>\n<b>celebramos la sagrada Eucaristía,</b>\n<b>  do#m         fa#m          SI</b>\n<b>sacrificio y banquete de su amor.</b>\n<b>  MI           SI7        MI</b>\n<b>sacrificio y banquete de su amor.</b>\n\n\n<b>   MI   LA     MI</b>\nReunidos en tu casa,\n<b> LA           SI</b>\nalrededor del altar,\n<b>       MI        sol#m  do#m</b>\nnos convidas a la   mesa\n<b> fa#m   MI          SI</b>\nde tu palabra y tu pan,\n<b> fa#m    SI       MI</b>\nde tu palabra y tu pan.\n\n\nEstás siempre con nosotros\ny vienes a renovar\ncon tu Cuerpo y con tu Sangre\na nuestra comunidad.\n\n\nPara hacer un mundo nuevo,\nmás justo y más fraternal,\naquí te reconocemos\ncuando partimos el Pan.",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Apertura34",
+      "title": "Pueblo de Reyes",
+      "category": "APERTURA",
+      "lyrics": "<b> LA                       RE</b>\n<b>Pueblo de reyes, asamblea santa,</b>\n<b> MI7        fa#m   LA        sim</b>\n<b>pueblo sacerdotal, pueblo de Dios</b>\n<b> MI7           LA</b>\n<b>bendice a tu Señor.</b>\n\n\n<b>LA                  RE</b>\nTe cantamos, oh Hijo amado del padre,\n<b>       MI7  RE     fa#m    MI7    fa#m</b>\nte alabamos, eterna palabra salida de Dios\n\n\nTe cantamos, oh hijo de la Virgen María,\nte alabamos, oh Cristo nuestro hermano, nuestro salvador.\n\n\nTe cantamos a Ti, esplendor de la gloria,\nte alabamos, estrella radiante que anuncias el día.\n\n\nTe cantamos, oh luz que ilumina nuestras sombras;\nte alabamos antorcha de la nueva Jerusalén.",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Apertura35",
+      "title": "Somos el pueblo",
+      "category": "APERTURA",
+      "lyrics": "<b>MI       SI              MI</b>\n<b>/Somos el pueblo que a ti llega</b>\n<b>   LA                MI</b>\n<b>Y juntos venimos a cantar</b>\n<b>    LA       SI           MI</b>\n<b>queremos encontrar en Tu palabra</b>\n<b> fa#m       LA           MI</b>\n<b>caminos de amor y de amistad/</b>\n\n\n<b>mim      SI7             mim</b>          \nLimpia, Señor, nuestra consciencia\n<b>lam               mim</b>\ndanos la paz del corazón\n<b>SI7               mim</b>\npara poder hablar contigo\n<b>SI7                    mim</b>\ncomo Abraham hablaba con su Dios.   \n\n\nHemos dejado nuestras cosas\npara poder oír Tu voz\nsomos hermanos y venimos\na compartir la fe en el Señor.",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Apertura36",
+      "title": "Vamos caminando",
+      "category": "APERTURA",
+      "lyrics": "<b>RE      fa#m        SOL      LA</b>\n<b>Vamos caminando a la casa del Señor</b>\n<b>RE           fa#m        SOL          LA</b>\n<b>juntos como hermanos en un gran lazo de amor.</b>\n\n\n<b>        SOL         LA</b>\nPorque Cristo ha demostrado\n<b>       RE        sim</b>\ncon sus obras la verdad\n<b>       SOL       LA          RE      RE7</b>\nporque solo un buen apóstol sentirá felicidad.\n\n\n<b>           SOL    LA</b>\nPorque el mundo necesita\n<b>     RE       sim</b>\nmás amor y libertad\n<b>       SOL       LA</b>\nes por eso que venimos\n<b>    SOL LA  RE</b>\na cantar a Dios.",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Apertura37",
+      "title": "Vamos Cantad",
+      "category": "APERTURA",
+      "lyrics": "<b>SOL     mim</b>\n<b>Vamos Cantad</b>\n<b>                DO            RE7</b>\n<b>cantemos en la paz de mi Señor Jesús</b>\n<b>SOL       mim</b>\n<b>y que el amor</b>\n<b>                 DO             RE7</b>\n<b>de Dios se torne en nuestras vidas luz.</b>\n\n\n<b>RE7          sim    mim</b>\nEs tan bueno estar aquí\n<b>lam               RE7</b>\njuntos cantando al Señor\n<b>              sim      mim</b>\nsoltando nuestra voz y así\n<b>lam                 RE7</b>\nexaltar un Dios de amor.\n\n\nGozad... \n\nAlabad... \n\nAdorad...",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
       "id": "Comunion0",
       "title": "Alma de Cristo",
       "category": "COMUNIÓN",
@@ -972,6 +1092,246 @@
       "videoUrl": ""
     },
     {
+      "id": "Comunion36",
+      "title": "Fiesta del banquete",
+      "category": "COMUNIÓN",
+      "lyrics": "<b>rem                   FA         rem</b>\n<b>/Fiesta del banquete, mesa del Señor</b>\n<b>FA            rem   LA7             rem</b>\n<b>pan de Eucaristía, sangre de Redención/.</b>\n\n\n<b>         FA          DO     FA</b>\nEste pan que nos das por manjar,\n<b>rem      FA          LA7         rem</b>\nes el Pan de Unidad y de fraternidad.\n\n\nHacia Ti, vamos hoy a tu altar,\nTú nos das el valor en nuestro caminar.\n\n\nEscuché hoy la voz de mi Dios,\nconocí al Señor en la fracción del Pan.",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Comunion37",
+      "title": "Amar es entregarse",
+      "category": "COMUNIÓN",
+      "lyrics": "<b>SOL RE7      SOL    RE7        SOL SOL7</b>\nAmar es entregarse olvidándose de sí,\n<b>  DO             SOL  RE7        SOL SOL7</b>\n/buscando lo que al otro pueda hacer feliz/\n\n\n<b>SOL           RE7         SOL</b>\n<b>¡Que lindo es vivir para amar!,</b>\n<b>              RE7         SOL</b>\n<b>¡Qué grande es tener para dar!</b>\n<b>SOL7     DO          SOL</b>\n<b>/dar alegría y felicidad,</b>\n<b>         RE7           SOL</b>\n<b>darse uno mismo eso es amar/</b>\n\n\n<b>SOL     RE7        SOL       RE7            SOL SOL7</b>\nSi amas como a ti mismo Y te entregas a los demás,\n<b>   DO             SOL  RE7          SOL  SOL7</b>\nveras que no hay egoísmo que no puedas superar.",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Comunion38",
+      "title": "Bienaventurados",
+      "category": "COMUNIÓN",
+      "lyrics": "<b>mim      lam    RE          SOL</b>\nBienaventurados, pobres de la tierra,\n<b>MI7      lam         SI7</b>\nporque de ustedes es el reino de Dios.\n<b>mim      lam   RE          SOL</b>\nBienaventurados los que pasan hambre, \n<b>MI7         lam         SI7  mim  MI7</b>\nlos que lloran sangre por amor a Dios.\n\n\n<b>  lam   RE    SOL        mim</b>\n<b>Alégrense y llénense de gozo,</b>\n<b> lam         RE         SOL       MI7</b>\n<b>porque les esperan maravillas en el cielo.</b> \n<b>  lam   RE    SOL        mim</b>\n<b>Alégrense y llénense de gozo,</b>\n<b>lam       SI7     mim</b>\n<b>bienaventurados serán.</b>\n\n\nBienaventurados los desesperados, \nserán consolados por Jesús, el Rey. \nSi eres buen amigo, si eres buen vecino, \nestará contigo nuestro hermano Jesús.\n\n\nBienaventurados los sacrificados; \nlos desamparados serán grandes ante Dios. \nTiende más tu mano, haz a todos hermanos \ncon tu cristianismo y amor a Dios.",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Comunion39",
+      "title": "Cristo es la salud",
+      "category": "COMUNIÓN",
+      "lyrics": "<b>SOL       FA  DO  RE   sim  mim</b>\n<b>Cristo es la salud, Cristo sana,</b>\n<b>lam       RE    SOL mim lam       RE  SOL</b>\n<b>/Cristo es la medicina que cura y salva/</b>\n\n\n<b>     SOL  lam      SOL</b>\nCon solo tocar su manto\n<b>    mim  lam     RE</b>\nse curó aquella mujer;\n<b>  SOL       lam      SOL</b>\nSeñor, yo invoco tu nombre,\n<b>      mim  lam   RE SOL</b>\npero aumenta tu mi fe,\n<b>       sim7 lam  RE</b>\npero aumenta tu mi fe,\n<b>       SOL</b>\nmi poca fe.\n\n\nSeñor tú eres compasivo,\nTú conoces nuestro dolor.\nEn Ti, Señor, esperamos.\nTú eres nuestro Pastor,\nTú eres nuestro Pastor,\nmi buen Pastor.\n\n\nVenid todos los sedientos\na la fuente de agua pura,\nque Dios da a sus creaturas,\nsu cariño y comprensión,\nsu cariño y comprensión,\nDios es amor.\n\nSeñor, yo no soy digno,\nde que entres en mi hogar,\nmás di una sola palabra\ny mi hijo sanará,\ny mi hijo sanará,\nDios es amor.",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Comunion40",
+      "title": "Danos hoy nuestro pan",
+      "category": "COMUNIÓN",
+      "lyrics": "<b>RE               LA         RE</b>\n<b>Danos hoy nuestro pan de cada día</b>\n<b>SOL   RE  fa#m     sim</b>\n<b>Padre nuestro del cielo</b>\n<b>SOL   RE         LA  RE</b>\n<b>Padre nuestro del cielo.</b>\n\n\n<b>RE     SOL     RE</b>\nRecibido de tu mano\n<b>            SOL   LA</b>\nlo reparten manos unidas\n<b>      RE    SOL        RE</b>\nya no más hambre en el mundo\n<b>       sim    LA</b>\nuna mesa compartida\n\n\nAlimentas a tus hijos\ncon el pan de cada día\nnos sentamos a tu mesa\nreunidos en familia.\n\n\nPan de amor y de dulzura\nde esperanza renacida\nPan y vino de la fiesta.\nde amistad y de alegría.",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Comunion41",
+      "title": "De dos en dos los envió",
+      "category": "COMUNIÓN",
+      "lyrics": "<b>lam                             rem</b>\nLlamo Jesús a los doce y los envió\n<b>                  lam</b>\na predicar a los pueblos\n<b>    MI              lam</b>   \nde dos en dos los mando\n<b>                                      rem</b>\nLes dio autoridad y la orden de nada llevar\n<b>                       lam</b>\nmás que un bastón y sandalias\n<b>   MI               lam</b>\nen su misión de anunciar\n\n\n<b>          rem       SOL          DO</b>    \n<b>De dos en dos los envió, a predicar</b>\n<b>         FA                  rem</b>\n<b>la buena nueva por todos los pueblos</b>\n<b>         FA                  MI</b>\n<b>y ser testigos del reino de Dios,</b>\n<b>          rem       SOL        DO</b>\n<b>de dos en dos los envió, a predicar</b>\n<b>         FA                  rem</b>\n<b>la buena nueva por todos los pueblos</b>\n<b>         FA        SOL      lam</b>\n<b>y ser testigos del reino de Dios</b>\n\n\nDesead la paz les dijo en cada lugar\nsí allí hay gente de paz  \nvuestra paz descansara en ellos\n\nLes dijo que se quedaran en donde los reciban\ny en donde no los reciban \nsalir sacudiendo los pies",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Comunion42",
+      "title": "El ángel vino de los cielos",
+      "category": "COMUNIÓN",
+      "lyrics": "<b>RE                 LA</b>\nÉl ángel vino de los cielos\n<b>  LA7            RE</b>\ny a María le anunció\n<b>                        LA</b>\nel gran misterio de Dios hombre\n<b>  mim      LA7      RE</b>\nque a los cielos admiró.\n\n\n<b>RE7     SOL    LA7    RE</b>\n<b>Virgen Madre, Señora nuestra,</b>\n<b>RE7   mim      LA   RE</b>\n<b>recordando la encarnación</b>\n<b>RE7     SOL  LA7     RE</b>\n<b>te cantamos tus hijos todos</b>\n<b>RE7    mim       LA7   RE</b>\n<b>como estrella de salvación.</b>\n\n\nYo soy la esclava del Señor, mi Dios,\nla Virgen dijo al contestar,\nque se haga en mí según has dicho,\nse cumpla en mí tu voluntad.\n\n\nY el Verbo para redimirnos\ntomó su carne virginal,\nvivió hecho hombre entre nosotros\nlibrándonos de eterno mal.",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Comunion43",
+      "title": "El Dios uno y trino",
+      "category": "COMUNIÓN",
+      "lyrics": "<b>lam           rem       SOL7      DO</b>\n<b>El Dios uno y trino, misterio de amor,</b>\n<b>  FA            rem      SOL7    DO</b>\n<b>habita en los cielos y en mi corazón.</b>\n<b>   lam        rem       SOL7      DO</b>\n<b>El Dios uno y trino, misterio de amor,</b>\n<b>  FA           rem        MI7    lam</b>\n<b>habita en los cielos y en mi corazón.</b>\n\n\n<b>DO        FA      rem   SOL7</b>\nDios escondido en el misterio,\n<b>lam     rem       SOL   DO</b>\ncomo la luz que apaga estrellas;\n<b>             FA           DO</b>\nDios que te ocultas a los sabios\n<b>          FA     SI7  MI7</b>\ny a los pequeños te revelas\n\n\nNo es soledad, es compañía,\nes un hogar tu vida eterna,\nes el amor que se desborda\nde un mar inmenso sin riberas.\n\n\nPadre de todos, siempre joven,\nal Hijo amado eterno engendras,\ny el Santo Espíritu procede\ncomo el Amor que a los dos sella.\n\n\nPadre, en tu gracia y tu ternura,\nla paz, el gozo y la belleza,\ndanos ser hijos en el Hijo\ny hermanos todos en tu Iglesia.\n\n\nAl Padre, al Hijo y al Espíritu,\nacorde melodía eterna,\nhonor y gloria por los siglos.\ncanten los cielos y la tierra.",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Comunion44",
+      "title": "Gloria a la Santísima Trinidad",
+      "category": "COMUNIÓN",
+      "lyrics": "<b>LA         fa#m    LA      fa#m</b>\n<b>Gloria al Padre, Gloria al hijo</b>\n<b>RE                  sim</b>\n<b>Gloria al Espíritu Santo</b>\n<b>LA                   MI</b>\n<b>Dios uno y trino de amor.</b>\n\n\n<b>MI                     do#m</b>\nPadre y Señor de la historia\n<b> RE                LA</b>\na ti nuestra adoración\n<b>MI                 fa#m</b>\ntodo salió de tus manos\n<b>RE              MI</b>\neres el Dios creador.\n\n\nA ti Dios Verbo encarnado\nHijo eterno de Dios\npor amor nos has salvado\neres nuestro redentor.\n\n\nA ti Espíritu Santo\nsea la Gloria y Honor\neres, de Dios enviado\nnuestro santificador.",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Comunion45",
+      "title": "Jesucristo danos de este Pan",
+      "category": "COMUNIÓN",
+      "lyrics": "<b>DO FA SOL7 DO  FA   SOL7     DO</b>\n<b>  Jesucristo danos de este Pan</b>\n<b>   FA SOL7 DO     FA     SOL7    DO</b>\n<b>  Que tu Pueblo crezca en la unidad</b>\n\n\n<b>       DO             mim        FA  SOL7    DO</b>\nSiendo Dios, hombre te hiciste, para poderte entregar\n<b>                     mim          FA           SOL</b>\nen la cruz, sangriento altar, donde a los hombres te diste\n<b>    lam          mim      FA  SOL7      DO</b>\nal morir te diste todo, ofreciéndote en la cruz\n<b>          RE7                    SOL7</b>       \ny era el cielo, buen Jesús, que nos dabas de ese modo.\n\n\nCuando eres celebrado en cada misa te das\npero ya no mueres más, porque estás resucitado\nuna vez todo te diste, y es cada misa esa vez\nhasta que vuelvas después, como Tú lo prometiste.\n\n\nTú Señor has visto el hambre, que tenemos de hermandad\ny nos brindas la unidad, con tu Cuerpo y con tu Sangre\ny tu Cuerpo nos congrega, en eterna comunión\ny la Sangre del perdón, hasta el corazón nos llega.\n\n\nQue podamos con María, en tu Espíritu, Jesús\nser los hijos de la luz, más hermanos cada día\ny estrechando nuestras manos, obedientes a tu voz\nser así Pueblo de Dios, servidor de los hermanos.",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Comunion46",
+      "title": "Lávame con tu sangre",
+      "category": "COMUNIÓN",
+      "lyrics": "<b>SOL        RE      mim             sim</b>\nLávame con tu sangre sana mis heridas vuelve\n<b> DO      lam        RE</b>\nescucha mi voz y háblame.\n<b>SOL                RE   mim             sim</b>\nRenovar quiero mi entrega sentir ese amor primero\n<b> DO            lam          RE         SOL</b>\ny decirte que te quiero, conversar, escúchame.\n\n\n<b>lam         RE              SOL</b>\n<b>/Sentir de nuevo un viento cálido,</b>\n<b>lam          RE        SOL</b>\n<b>verme en tus brazos sonreír</b>\n<b>lam         RE          SOL</b>\n<b>entregarte todos mis problemas,</b>\n<b>   DO   lam     RE         SOL</b>\n<b>volver a ser feliz. (Escúchame)/</b>\n\n\nDame tu pan y tu vino, alimenta mi alma enferma,\nque vive en anhelos de verdad.\nDame a beber de esa agua, que me da la vida eterna\ny dime que siempre me amaras, escúchame.\n\n\nMuéstrame tu palabra que me da la vida eterna\ny dime que siempre me amaras.\nLíbrame de peligro, siembra en mi semilla nueva\nque quiero ser fruto de tu amor, escúchame.",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Comunion47",
+      "title": "No queden tristes",
+      "category": "COMUNIÓN",
+      "lyrics": "La Ascensión del Señor\n\n\n<b>SOL                            DO</b>\n<b>/No queden tristes, aunque me voy,</b>\n<b>          RE7         SOL</b>\n<b>aunque me voy yo volveré/</b>\n\n\n<b>         SOL7        DO</b>\nVoy a la casa de mi Padre\n<b>      RE7          SOL</b>\na prepararles un lugar.\n<b>         SOL7          DO</b>\nVendrá mi Espíritu a ustedes\n<b>         RE7              SOL</b>\npara enseñarles la verdad.\n\n\nSerán testigos de mi amor\npor los confines de la tierra.\nAnunciarán la buena nueva\na cada pueblo de la tierra.\n\n\nCuando los hombres los persigan\nno tengan miedo, confíen.\nYo estaré siempre con ustedes\nacompañando hasta el final.",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Comunion48",
+      "title": "Nos convidas Señor a tu mesa",
+      "category": "COMUNIÓN",
+      "lyrics": "<b>SOL           RE         mim</b>\n<b>Nos convidas Señor a tu mesa</b>\n<b> SOL     LA7     RE</b>\n<b>y eres nuestro manjar</b>\n<b>       SOL         RE      mim</b>\n<b>bajo el signo del pan y del vino</b>\n<b>        DO        RE7          SOL</b> \n<b>hoy tu cuerpo y tu sangre nos das.</b>\n\n\n<b>      SOL                       RE</b>\nQué alegría hospedarse en nuestra tienda\n<b>   DO         LA7        RE</b>\nrecibirte en abrazo y comunión\n<b>    SOL       mim          RE</b>\ny dejar que tu fuego nos encienda\n<b>     DO       LA7        RE</b>\nen hoguera de amor el corazón.\n\n\nComulgar es amar a los hermanos,\ncompartir entre todos nuestro pan\ncomulgar es vivir el Evangelio\ny por Cristo dejarse transformar.\n\n       \nCómo siervos sedientos a la fuente\nagua viva venimos a beber\ndel costado de Cristo manan ríos\nde agua y sangre que sacian nuestra sed.\n\n\nCon el vino y el pan de Eucaristía \nnos preparas Señor un gran festín \nel banquete de Pascua es profecía \nel banquete que nunca tendrá fin.",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Comunion49",
+      "title": "Pescador, que al pasar por la orilla",
+      "category": "COMUNIÓN",
+      "lyrics": "<b>mim                               SOL</b>\nPescador, que al pasar por la orilla del lago\n<b>          DO            SI7</b>\nme viste secando mis redes al sol\n<b>   lam </b>\ntu mirar se cruzó con mis ojos cansados\n<b>              DO       SI7    MI</b>\ny entraste en mi vida buscando mi amor.\n\n\n<b> MI                                 MI7</b>\n<b>Pescador, en mis manos has puesto otras redes</b>\n<b>                          LA</b>\n<b>que pueden ganarte la pesca mejor</b>\n<b>                          MI</b>\n<b>y al llevarme contigo en la barca</b>\n<b>      SI7              MI</b>\n<b>me nombraste, Señor, pescador.</b>\n\n\nPescador, entre tantos que había en la playa\ntus ojos me vieron, tu boca me habló\ny a pesar de sentirse mi cuerpo cansado\nmis pies en la arena siguieron tu voz.\n\n\nPescador, mi trabajo de toda la noche\nmi dura faena hoy nada encontró\npero Tú que conoces los mares profundos\ncompensa, si quieres, mi triste labor.\n\n\nPescador, manejando mis artes de pesca\nen otras riberas mi vida quedó\nal querer que por todos los mares del mundo\ntrabajen mis fuerzas, por Ti, mi Señor.",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Comunion50",
+      "title": "Quédate aquí Señor",
+      "category": "COMUNIÓN",
+      "lyrics": "<b>MI     fa#m    LA   SI7     LA</b>\n<b>Quédate aquí, Señor, quédate aquí.</b> \n\n  \n<b>mim</b>\nQuédate aquí, oh, Señor\n<b>          SOL</b>\ny danos el pan que alimentará\n<b>         lam          SI  SI7</b>\nnuestro corazón para caminar.\n\n\nPorque buscando la luz\na veces, Señor, hay oscuridad\nen el caminar si nos faltas Tú.\n\n\nQuédate aquí, oh, Señor,\npara compartir lo que Tú nos das,\nel don de tu amor nos hace cantar.",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Comunion51",
+      "title": "Señor no soy Digno",
+      "category": "COMUNIÓN",
+      "lyrics": "<b>SOL   sim     mim</b>\n<b>Señor no soy digno</b>\n<b>DO                 RE7</b>\n<b>de que entres en mi casa</b>\n<b>     SOL  sim     mim</b>\n<b>pero una palabra tuya</b>\n<b>     DO  lam   RE7 SOL</b>\n<b>bastará para sanarme.</b>\n\n\n<b>SOL     sim    mim</b>\nEres el Pan de Vida\n<b>SOL    sim     RE7</b>\na todos das la paz;\n<b>SOL      sim     DO</b>\nquien come de tu carne\n<b>     mim  LA   RE7</b>\npor siempre vivirá.\n\n\nSomos el nuevo pueblo\nque Cristo congregó,\nvivamos siempre unidos\ntestigos del amor.\n\n\nVamos por esta vida\nbuscando la verdad\nla paz y la justicia\nun mundo que vendrá.",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Comunion52",
+      "title": "Señor, a quien iremos",
+      "category": "COMUNIÓN",
+      "lyrics": "<b>MI      SI7    do#m</b>\n<b>Señor, a quién iremos,</b>\n<b>    LA                SI7</b>\n<b>Tú tienes palabras de vida eterna</b>\n<b> MI       SI7   do#m</b>\n<b>Nosotros hemos creído</b>\n<b>     LA        SI7    MI</b>\n<b>que tú eres el Hijo de Dios.</b>\n\n\n<b>       MI       SI7         do#m</b>\nSoy el pan que os da la vida eterna,\n<b>       LA                 SI7</b>\nel que viene a mí no tendrá hambre;\n<b>       MI                LA</b>\nel que viene a mí no tendrá sed,\n<b>MI             SI7</b>\nasí ha hablado Jesús.\n\n\nNo busquéis alimento que perece,\nsino aquel que perdura eternamente;\nel que ofrece el Hijo del hombre,\nQue el Padre os ha enviado.\n\n\nNo es Moisés quien les dio el pan del cielo\nes mi Padre quien da pan verdadero,\nporque el pan de Dios baja del cielo\ny da la vida al mundo.\n\n\nEl que viene al banquete de mi cuerpo\nen mí vive y yo vivo en él,\nbrotará en él la vida eterna\ny lo resucitaré.",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Comunion53",
+      "title": "Si Dios está conmigo",
+      "category": "COMUNIÓN",
+      "lyrics": "<b>MI             SI     do#m       sol#m</b>\n<b>/Si Dios está conmigo, quien contra mí</b>\n<b>LA         MI          fa#m      SI</b>\n<b>quién contra mí, si Dios está conmigo/</b>\n\n\n<b>do#m                  SI</b>\nLas corrientes, no me ahogarán\n<b>           LA        SI</b>      \nni el vil fuego, me podrá quemar\n<b> do#m                 SI</b>\nlas ofensas, no me alcanzarán\n<b>    LA    FA#7   SI</b>\nel Señor me sostendrá.\n\n\n<b>do#m                 SI</b>\nNi las dudas, ni el temor\n<b>        LA        SI</b>\nni las pruebas o el dolor\n<b> do#m          SI</b>\nnada me podrá apartar\n<b>      LA       SI</b>\ndel amor de mi Señor.\n\n\n<b>do#m         SI   LA         SI</b>\nDios mi seguridad, Dios mi fuerza\n<b>do#m         SI   LA   FA#7         SI</b>\nDios mi protector, Dios mi Padre y Señor.",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Comunion54",
+      "title": "Tu nos invitas Jesús",
+      "category": "COMUNIÓN",
+      "lyrics": "<b>MI       SI7     do#m</b>\n<b>Tú nos invitas, Jesús,</b>\n<b>MI        LA    SI7</b>\n<b>para ti siempre somos importantes.</b>\n<b>   LA   SI7  MI  do#m</b>\n<b>En tu mesa nos das la comida mejor:</b>\n<b>   MI       SI7      MI</b>\n<b>el pan de la vida y el amor,</b>\n<b>          SI     MI  MI7</b>\n<b>el pan de la vida y el amor.</b>\n\n\n<b> LA   SI7    MI       do#m</b>\nDejad que los niños se acerquen,\n<b> LA   SI7  MI</b>\ndejad que vengan a mí.\n<b> LA         SI      MI   do#m</b>\nDejad que los niños se acerquen,\n<b> LA   SI7  MI</b>\ndejad que vengan a mí.",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Comunion55",
+      "title": "Tu palabra es mi delicia",
+      "category": "COMUNIÓN",
+      "lyrics": "<b>SOL        lam            DO</b>\nDe todo corazón te ando buscando\n<b>SOL        mim       DO      RE</b>\ny como un tesoro tu palabra guardo\n<b>SOL         RE  FA</b>\ny llevo grabada firme tu promesa\n<b>DO         lam        RE</b>\nde mi vida Señor tú jamás te alejas.\n\n\n<b>    SOL                 mim</b>\n<b>Tu palabra Señor, es mi delicia</b>\n<b>       DO         lam   RE</b>\n<b>yo la guardo en mi corazón</b>\n<b>    SOL                    mim</b>\n<b>Tu palabra me instruye y me guía</b>\n<b>             lam           RE</b>\n<b>siempre por la senda de tu amor.</b>\n\n\nYo sé que guardando tu palabra\nEl Padre me amará y vendrán a mí\nserá mi alma siempre su morada\ny frutos de agua viva brotarán así.\n\n\n<b>lam               DO</b>\nTú me has llamado amigo\n<b>mim            RE</b>\nen el silencio de la oración\n<b>lam               mim    DO</b>\nme has invitado a estar contigo\n<b>mim       DO       RE</b>\ny hacer fecunda esta unión.",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Comunion56",
+      "title": "Tuve hambre y me diste de comer",
+      "category": "COMUNIÓN",
+      "lyrics": "<b>RE             LA7            RE</b>\nTu me dijiste Señor que en mi camino\n<b>     LA7                     RE   RE7</b>\niré encontrando hambrientos de mi pan,\n<b>            SOL       LA         RE  SI7</b>  \nque habrá sedientos que vengan a mi fuente\n<b>         mim       LA7        RE</b>\nenfermos tristes, de frio y soledad.\n\n\nTú me dijiste que sufres en el pobre,\nQue estas desnudo, no tienes libertad\nEn el anciano que espera Tú me esperas\nY en ese niño de hambre morirá.\n\n\n<b>RE7     SOL       LA7              RE</b>\n<b>/Aquí me tienes Señor yo quiero amarte,</b>\n<b>     SOL           LA7             RE</b>\n<b>amando al pobre, y aquel que sufre más.</b>\n<b>         mim        LA7       RE   SI7</b>\n<b>tuyo es mi pan y el agua de mi fuente,</b>\n<b>         mim     LA7        RE</b>\n<b>ven a mi casa y amor encontraras/</b>\n\n\nEn el camino hay siempre un hombre vivo,\nque necesita mi ayuda y mi amistad,\nno mil discursos que hablan de justicias\nno mil palabras que el viento llevara.\n\n\nEn el camino Jesús me estas mirando\ny en tu mirada hay pena y soledad\nquiero entregarte mi alma y mi alegría\ntoda mi vida en ofrenda de hermandad.",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Comunion57",
+      "title": "Tuyo soy",
+      "category": "COMUNIÓN",
+      "lyrics": "<b>SOL                mim</b>\nYo no soy nada y del polvo nací,\n<b>SOL      DO      lam      RE</b>\npero tú me amas y moriste por mí.\n<b>SOL             mim</b>\nAnte la cruz sólo puedo exclamar:\n<b>     sim     RE  RE7</b>\nTuyo soy tuyo soy.\n\n\n<b>          SOL</b>\n<b>/Toma mis manos, te pido;</b>\n<b>           DO    dom</b>\n<b>toma mis labios te amo.</b>\n<b>        SOL     mim        RE</b>\n<b>Toma mi vida, oh Padre tuyo soy/</b>\n<b>      SOL       RE        SOL</b>\n<b>Tuyo soy, Tuyo soy, Tuyo soy.</b>\n\n\nCuando de rodillas te miro Jesús\nveo tu grandeza y mi pequeñez.\nQue puedo darte, tan solo mi ser.\nTuyo soy tuyo soy.",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Comunion58",
+      "title": "Un buen Samaritano",
+      "category": "COMUNIÓN",
+      "lyrics": "<b>MI</b>\n<b>Haz de mi corazón de piedra</b>\n<b>             LA      MI</b>\n<b>un corazón que sea humano</b>\n<b> LA  fa#m  SI7             MI</b>\n<b>y al caminar junto a mi hermano</b>\n<b> LA    SI              MI</b>\n<b>hazme Señor un buen samaritano.</b>\n\n\n<b> MI</b>\nTú que bajaste desde el cielo\n<b>              LA    MI</b>\nlevantaste al hombre caído\n<b>    LA    SI7      MI</b>\nle pusiste sobre tus hombros\n<b>      LA        SI</b>\ny le sanaste las heridas\n<b>MI     do#m      LA      SI7 MI</b>\nTú eres Señor el buen samaritano.\n\n\nTú que pasaste por el mundo\nacercándote al marginado\ncon el vino de la esperanza\ncon el aceite del consuelo\nTú eres Señor el buen samaritano.\n\n\n<b>MI</b>\nPasar de largo ante los pobres\n\ncerrar los ojos e ignorarlos\n<b>LA                     MI</b>\nno dar la mano al que la tiende\n<b>       SI7          MI</b>\nhacerse sordo ante su llanto\n<b>         do#m    LA      SI7  MI</b>\neso no es ser un buen samaritano.\n\n\n<b>MI                 SI</b>\nHaz que levante a los caídos\n<b>                     LA  SI7</b>\ny que me acerque al marginado\n<b>   LA      SI             MI</b>\nque goce al curarte en los heridos\n<b>       LA            SI</b>\ny al descubrirte en mis hermanos\n<b>MI    do#m    LA      SI7  MI</b>\nhazme Señor un buen samaritano.",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Comunion59",
+      "title": "Yo creo en las promesas de Dios",
+      "category": "COMUNIÓN",
+      "lyrics": "<b>RE                LA</b>\n<b>/Yo creo en las promesas de Dios</b>\n<b>    SOL          LA</b>\n<b>Yo creo en las promesas de Dios</b>\n<b>   mim           SOL  LA     RE</b>\n<b>Yo creo en las promesas de mi Señor/</b>\n\n\n<b>        sim        fa#m     SOL  LA    RE</b>\n/Si soy fiel en lo poco, el me confiara más,\n<b>       sim        mim      SOL    LA  RE</b>\nsi soy fiel en lo poco, mis pasos, guiara/\n\n\nYo creo en la misericordia de Dios...\n\n\nYo creo en el amor de Dios...",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
       "id": "Paz0",
       "title": "Cordero de Dios (1)",
       "category": "CORDERO DE DIOS Y PAZ",
@@ -1326,6 +1686,236 @@
       "title": "Quédate Señor conmigo",
       "category": "CUARESMA - PASCUA",
       "lyrics": "<b>rem</b>\n<b>/Quédate Señor conmigo,</b>\n<b>                   DO</b>\n<b>quédate en mi corazón,</b>\n\n<b>quédate qué soy tu amigo,</b>\n<b> LA#             LA7  rem</b>\n<b>quédate Señor en mí/.</b>\n\n\n<b>             solm</b>\nAyúdame a caminar,\n<b>DO                  FA  rem</b>\npor los caminos del amor,\n<b>                solm  LA#</b>\nayúdame a continuar,\n<b>                   LA7</b>\nen esta lucha por vivir.\n\n\n<b>               solm</b>\nEnséñame a ser mejor,\n<b>DO               FA  rem</b>\ncada mañana renacer,\n<b>                   solm  LA#</b>\nenséñame qué tu dolor,\n<b>                      LA7</b>\nel mío también ha de ser.\n\n\nIndícame tu voluntad,\nhaz lo que quieras Tú de mí,\nporque eres Tú mi libertad,\nquiero dar mi vida por Ti.\n\n\nPerdóname si vuelvo atrás,\no si te quiero abandonar,\nsé que me amas mucho más,\nde lo que puedo imaginar.",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Cuaresma15",
+      "title": "Al llegar Señor tu hora",
+      "category": "CUARESMA - PASCUA",
+      "lyrics": "Domingo de Ramos - Jueves Santo\n\n\n<b>mim          SI7   mim</b>\n<b>Al llegar Señor tu hora,</b>\n<b>      SOL  RE   SOL</b>\n<b>sin medida nos amaste</b>\n<b>    lam      SI7      SOL   mim</b>\n<b>y el vino y pan, el fiel memorial</b>\n<b>    lam    SI7     mim</b>\n<b>de tu Pascua nos dejaste.</b>\n\n\nEn la Santa Eucaristía,\ncon nosotros te quedaste,\nsigno de unidad, comunión real\nde tu Cuerpo y de tu Sangre.\n\n\nEn el huerto oraste al Padre\nentre lágrimas de sangre\ncon fidelidad a Su voluntad\naquel cáliz aceptaste.\n\n\nOh convite sacrosanto\nen que Cristo es el sustento\nes memoria y don, es su oblación,\nes misterio y sacramento.",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Cuaresma16",
+      "title": "Como el hijo prodigo",
+      "category": "CUARESMA - PASCUA",
+      "lyrics": "IV Domingo de cuaresma\n\n\n<b>MI            SI</b>\nComo el hijo prodigo,\n<b>do#m               sol#m</b>\nyo andaba por este mundo\n<b>LA        MI</b>\nentre vanidades\n<b>fa#m         SI</b>\ny placeres falsos.\n\n\n<b>MI           SI</b>\nLos falsos amigos\n<b>do#m          sol#m</b>\npronto se marcharon\n<b>LA        MI</b>\ny la soledad mi vida\n<b>fa#m      SI   MI  SI7</b>\nentera entristeció\n\n\n<b>MI           SI</b>\n<b>Padre, perdóname</b>\n<b>do#m            sol#m</b>\n<b>solo contra ti peque</b>\n<b>LA         MI</b>\n<b>no merezco alabarte</b>\n<b>fa#m                  SI</b>\n<b>siendo tu un Dios tan bueno</b>\n<b>MI                 SI</b>\n<b>ten piedad de mis pecados</b>\n<b>do#m          sol#m</b>\n<b>por favor acéptame</b>\n<b>LA                  MI</b>\n<b>quiero volver a servirte,</b>\n<b> fa#m              SI  MI  SI</b>\n<b>Padre contigo me reconciliare</b>\n\n\nY nuevamente ocurre\nvolvemos a caer\nen los mismos pecados\nes difícil ascender\n\n\npero la misericordia\nde nuestro padre Dios\nviene en nuestro auxilio\ny nos levanta con su amor",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Cuaresma17",
+      "title": "Este es el ayuno",
+      "category": "CUARESMA - PASCUA",
+      "lyrics": "Lunes y Martes de Semana Santa\n\n\n<b>mim                   DO        mim</b>\n<b>Éste es el ayuno que agrada al Señor,</b>\n<b> mim          DO         SOL</b>\n<b>esta es la sincera conversión</b>\n<b> mim         RE        DO    SI7  mim  SI7</b> \n<b>Éste es el ayuno que agrada al Señor</b>\n\n\n<b> mim      DO          mim</b>\nParte tu pan con el hambriento\n<b> mim              lam</b>\ndale posada al peregrino\n<b> DO       RE          mim  SI7</b>\nacoge al emigrante y extranjero\n\n\nAbre las cárceles injustas,\nlibra a los presos y oprimidos\ny rompe las cadenas y los cepos.\n\n\nMira al Señor que está escondido,\nsale a tu encuentro en los hermanos;\ny rasga el corazón y no el vestido",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Cuaresma18",
+      "title": "La alegría en el perdón",
+      "category": "CUARESMA - PASCUA",
+      "lyrics": "IV Domingo de cuaresma\n\n\n<b>SOL              DO         RE           SOL</b>\nLa alegría más hermosa es la alegría en el perdón,\n<b>                       DO            RE         SOL</b>\nque en el cielo hay mucha fiesta cuando vuelve un pecador.\n<b>       RE           SOL      RE          SOL</b>\nSi la oveja se ha perdido a buscarla va el pastor\n<b>                       DO           RE         SOL</b>\nque en el cielo hay mucha fiesta cuando vuelve un pecador.\n\n\n<b>SOL               RE</b>\n<b>La alegría más hermosa,</b>\n<b>                   SOL</b>\n<b>la alegría en el perdón,</b>\n<b>                          DO</b>\n<b>que en el cielo hay mucha fiesta</b>\n<b>       SOL      RE7   SOL</b>\n<b>cuando vuelve un pecador.</b>\n\n\nCuando el hijo se fue lejos triste el padre se quedó,\ny qué inmensa su alegría cuando el hijo regresó.\ncada día, cada instante por su ausencia se apenó,\ny qué inmensa su alegría cuando el hijo regresó.\n\n\nLa mujer buscaba triste las monedas que perdió,\ny saltaba de alegría cuando al fin las encontró.\nQué afanosa rebuscaba toda su casa barrió,\ny saltaba de alegría cuando al fin las encontró.\n\n\nUna tarde hubo fiesta, fiesta grande en Jericó,\nTú, Jesús, estás contento pues Zaqueo te encontró.\nQué alegría más hermosa la que allá se celebró,\nTú, Jesús, estás contento pues Zaqueo te encontró",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Cuaresma19",
+      "title": "La transfiguración del Señor",
+      "category": "CUARESMA - PASCUA",
+      "lyrics": "II Domingo de cuaresma\n\n\n<b>LA                 do#m</b>\nOraban en el monte cuando se transfiguró,\n<b>   RE                   MI</b>\nsu ropa fulguró con blanca luz.\n<b> LA                do#m</b>\nElías y Moisés aparecieron para hablar,\n<b>    RE        sim                MI</b>\nde su partida de este mundo en Jerusalén.\n<b> fa#m                        do#m</b>\nY pedro quiso hacer tres chozas para descansar\n<b> RE           sim          MI        MI7</b>\ncuando una nube los cubrió y en ella Dios hablo.\n\n\n<b>LA   do#m   fa#m      RE     sim  MI</b>\n<b>Este es mi hijo, mi amado, escúchenlo,</b>\n<b> LA  do#m    fa#m     RE     MI  LA</b>\n<b>este es mi hijo, mi amado, escúchenlo.</b>\n<b>do#m          fa#m   RE       MI      LA</b>\n<b>Hagan suyo su camino, el camino de su amor.</b>\n<b>do#m         fa#m           RE     MI    LA</b>\n<b>Síganlo en obediencia por su cruz hasta su luz.</b>\n\n\nJesús muestra su gloria a Pedro, Santiago y Juan.\nRevela su misterio de hombre Dios.\nNo todo acabará en el fracaso de la cruz\nPor medio de la muerte se abrirá un reino de luz\nNo es tiempo de acampar al mundo hay que transfigurar\nNos vamos transformando en imagen de Jesús.",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Cuaresma20",
+      "title": "Misericordia, Señor por tu bondad",
+      "category": "CUARESMA - PASCUA",
+      "lyrics": "Miércoles de ceniza - III Domingo de cuaresma\n\n\n<b>     mim         RE            SOL</b>\n<b>/Misericordia, Señor, por tu bondad</b>\n<b>     DO   SI7</b>\n<b>Misericordia/</b>\n\n\n<b>        mim    SOL    LA     SI</b>\nPiedad de mí, Señor, por tu bondad,\n<b>         mim     SOL RE           SOL</b>\npor tu inmensa ternura borra mis pecados;\n<b>   lam             mim</b>\nlávame de todos mis delitos,\n<b>         lam        DO  SI</b> \ny de mis culpas, purifícame.\n\n\n<b>      mim    SOL  LA   SI</b>\nCrea en mi un nuevo corazón\n<b>    mim    SOL   RE          SOL</b>\nun espíritu nuevo pon dentro de mí;\n<b>       lam              mim</b>\nno me rechaces lejos de tu rostro,\n<b>       lam     DO            SI</b> \ny no retires de mi tu Santo Espíritu.\n\n\n<b>    mim         SOL LA      SI</b>\nDevuélveme la alegría de tu amor,\n<b>     mim      SOL    RE           SOL</b>\ny devuélveme el gozo de ser un hombre bueno\n<b>    lam              mim</b>\nenseñaré a todos tus caminos,\n<b>       lam        DO  SI</b>\nlos pecadores volverán a Ti.",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Cuaresma21",
+      "title": "No solo de pan vive el hombre",
+      "category": "CUARESMA - PASCUA",
+      "lyrics": "I Domingo de cuaresma\n\n\n<b>RE                 mim   LA            RE</b>\n<b>No solo de pan vive el hombre, sino de toda palabra</b>\n<b>sim        mim         LA          RE</b>\n<b>que viene de Dios, solo de Dios, dice el Señor.</b>\n<b>RE                  mim  LA           RE</b>\n<b>No solo de pan vive el hombre, sino de toda palabra</b>\n<b>sim        mim          LA          RE</b>\n<b>que viene de Dios, solo de Dios, dice el Señor.</b>\n\n\n<b>       SOL       LA</b>\nAyúdame Señor, ven ayúdame,\n<b>               RE        sim</b>\nyo quiero tener hambre, hambre de ti\n<b>           mim           LA           RE  RE7</b>\nhambre de tu palabra, palabra eterna yo me deleitaré\n\n\nAyúdame Señor, ven ayúdame,\naumenta mi esperanza y mi fe;\nrenuévame Señor y lléname, lléname de amor.",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Cuaresma22",
+      "title": "Padre hágase tu voluntad",
+      "category": "CUARESMA - PASCUA",
+      "lyrics": "Domingo de Ramos - Jueves Santo\n\n\n<b>mim   lam  DO   SI7</b>\n<b>Padre hágase tu voluntad,</b>\n<b>lam   SI7           mim</b>\n<b>Padre hágase tu voluntad,</b>\n<b>MI7                lam</b>\n<b>Padre hágase tu voluntad,</b>\n<b>         mim  SI7        mim</b>\n<b>hágase en mi según tu voluntad,</b>\n<b>lam    mim     SI7         mim</b>\n<b>hágase en mi según tu voluntad.</b>\n\n\n<b>mim                            SI7</b>\nCuando la pena llega al fondo del alma,\n<b>                        mim</b>\ncuando el dolor no puedes ocultar,\n<b>                               SI7</b>\ncuando el silencio es la única respuesta,\n<b>                         mim</b>\ncuando en tu noche es todo oscuridad,\n<b> MI7                                lam</b>\ncuando en el Calvario te encuentres en tu cruz,\n<b>          mim   SI7         mim</b>\ny en Getsemaní sudando sangre estas,\n<b> lam       mim  SI7         mim</b>\ny en Getsemaní sudando sangre estas.\n\n\nSi la alegría rebosa de tu alma,\nsi la esperanza sano tu enfermedad,\nsi tu palabra encuentra eco en el otro,\nsi un nuevo día nació en tu despertar,\nsi hoy el amor de tu vida es la Luz,\ny existe un Dios a quien puedes hablar,\ny existe un Dios a quien puedes hablar.",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Cuaresma23",
+      "title": "Padre, vuelvo a ti",
+      "category": "CUARESMA - PASCUA",
+      "lyrics": "IV Domingo de cuaresma\n\n\n<b>MI       SI7      LA       MI</b>\nQuerido padre, cansado vuelvo a tí,\n<b>          LA     SI           MI</b>\nhaz que conozca el don de tu amistad;\n<b>             SOL#             LA</b>\nvivir por siempre el gozo del perdón,\n<b>           MI      fa#m       SI7</b>\ny en tu presencia tu fiesta celebrar.\n\n\n<b>MI         SI7        LA         MI</b>\nPongo en tus manos, mis culpas Oh Señor,\n<b>        LA        SI         MI</b>\nestoy seguro de que eres siempre fiel;\n<b>         SOL#7             LA</b>\ndame la fuerza para poder andar,\n<b>           MI    fa#m      SI7</b>\nbuscando en todo hacer tu voluntad.\n\n\n<b>MI     SOL#7        do#m</b>\n<b>/Padre yo busco tu amor</b>\n<b>LA     SI7     MI SI7</b>\n<b>padre, vuelvo a ti.</b>\n<b>MI    SOL#7       LA</b>\n<b>mira que tu hijo soy,</b>\n<b>MI     SI7      MI</b>\n<b>padre vuelvo a ti/</b>\n\n\nLo reconozco, a veces lo olvidé,\nque eres mi Padre y que a mi lado estás;\nque soy tu hijo y me aceptas como soy,\nsólo me pides: vive en sinceridad.\n\n\nQuiero sentirte cercano a mí Señor,\noír tu voz que me habla al corazón;\nsentirme libre desde tu libertad,\nser signo vivo de la fraternidad.",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Cuaresma24",
+      "title": "Por las calles de Jerusalén",
+      "category": "CUARESMA - PASCUA",
+      "lyrics": "Domingo de Ramos - Viernes Santo\n\n\n<b>MI LA  MI     LA  MI</b>\n<b>Jerusalén, Jerusalén</b>\n<b>          LA         SI   MI</b>\n<b>/por las calles de Jerusalén</b>\n<b>       LA           MI</b>\n<b>sube Cristo con la cruz./</b>\n \n\n<b>MI                     LA        SI    MI</b>\nEl Señor te eligió, te alimento por el desierto,\n<b>                       LA            MI</b>\nel Señor vino a ti te alimento con su palabra\n<b>fa#m            SI   MI</b>\npero tu le llevas a la cruz\n<b>fa#m              SI                MI</b>\ny el Señor muere por ti clavado en una cruz.\n\n\n<b>MI                           LA         SI   MI</b>\nYo también siendo infiel vendo al Señor con mi silencio\n<b>                              LA            MI</b>\nYo también siendo infiel olvido a Dios con mis excusas\n<b>fa#m            SI    MI</b>\npero el me da la salvación\n<b>fa#m             SI               MI</b>\ny su cruz es la señal de amor y redención.",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Cuaresma25",
+      "title": "Quien te ha condenado mujer",
+      "category": "CUARESMA - PASCUA",
+      "lyrics": "<b>mim              SOL    mim</b>\n<b>¿Quién te ha condenado mujer?</b>\n<b> lam       SI7     mim   RE</b>\n<b>Ninguno Señor, ninguno</b>\n<b>   SOL  RE       SOL  DO    sim       mim</b>\n<b>tampoco yo te condeno, anda y no peques mas.</b>\n\n\n<b>       SOL    DO       RE</b>\nQuien se ve limpio de pecado,\n<b>DO       lam      SI7</b>\nante la mirada de Dios\n<b>          SOL  RE     SOL</b>\nnuestras piedras arrojadizas,\n<b>DO     sim            mim</b>\nse caen de vergüenza y confusión.\n\n\n<b> SOL       DO       mim RE</b>\nCristo inocente no condena\n<b>  DO       mim         RE</b>\nquiere ser nuestro salvador\n<b>     DO   mim     SOL</b>\nnos levanta de la caída\n<b>    DO      sim         mim</b>\ny llena de alegría el corazón.\n\n\n<b>mim       SOL sim     SOL</b>\nGracias Señor, por tu mirada\n<b>DO               sim</b>\ny tu palabra de perdón,\n<b>           SOL  RE     SOL mim</b>\nque no me humilla, me enaltece\n<b>   DO           sim         mim</b>\ny siento lo que es ser hijo de Dios.",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Cuaresma26",
+      "title": "Camino vida y verdad",
+      "category": "CUARESMA - PASCUA",
+      "lyrics": "<b>RE        LA        sim</b>\nNo se turbe vuestro corazón\n<b>          SOL  mim           LA</b>\ncreéis en Dios creed también en mí\n<b>          RE    LA     sim</b>\npues subo al cielo donde mi padre\n<b>      SOL   mim     LA</b>\na prepararles un lugar allí.\n\n\n<b>      SOL      RE</b>\n<b>Y al final yo volveré</b>\n<b>     mim     SOL LA</b>\n<b>para llevarlos conmigo</b>\n<b>       SOL              RE</b>   \n<b>Yo soy camino, vida y verdad</b>\n<b>sim        mim       LA    RE</b>  \n<b>nadie va al padre si no por mí.</b>\n\n\nY los que coman de mi carne\nTendrán vida y yo los resucitaré\nPara que un día junto a María\nGocen del cielo para una eternidad",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Cuaresma27",
+      "title": "Divina Misericordia",
+      "category": "CUARESMA - PASCUA",
+      "lyrics": "II Domingo de Pascua\n\n\n<b>SOL                DO</b>  \nConfianza total, sin límites,\n<b>  RE               SOL</b>\nconfianza en tu corazón,\n<b>       mim                  lam</b>\nun encuentro de paz, abandono de amor,\n<b>      DO            RE7</b>\nes tu misericordia, Señor.\n\n\n<b>    SOL          DO</b>\nEs un manantial de vida,\n<b>     RE          SOL</b>\nque brota de tu pasión,\n<b>       mim                 lam</b>\nes el mar de tu amor, que nos llena de ti,\n<b>      DO         RE7</b>\nes tu misericordia, Señor.\n\n\n<b>    SOL         DO</b>\n<b>Divina misericordia de Dios,</b>\n<b>  mim7         RE</b>\n<b>Divina misericordia de Dios,</b>\n<b>     mim7</b>\n<b>de tu mano me tomo,</b>\n<b>mim7  RE</b>\n<b>en tu amor me abandono,</b>\n<b>     lam             RE7           SOL</b>\n<b>mi corazón te dice: ¡Jesús, en tu confío!</b>",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Cuaresma28",
+      "title": "El que me ama guardara mi palabra",
+      "category": "CUARESMA - PASCUA",
+      "lyrics": "VI Domingo de Pascua\n\n\n<b>MI      SI do#m   sol#m      LA MI</b>\n<b>El que me ama guardará mi palabra,</b>\n<b>  LA                SI7</b>\n<b>mi Padre lo amará, mi Padre lo amará.</b>\n<b>     LA      MI     LA     do#m     SI</b>\n<b>Y vendremos a él y haremos morada en él,</b>\n<b>      LA     MI     LA      SI     MI</b>\n<b>y vendremos a él y haremos morada en él.</b>\n\n\n<b>  MI  SI   do#m</b>\nHabita con nosotros,\n<b>    MI     LA  MI</b>\nsu manjar es comunión,\n<b>  LA       MI</b>\nsu pan es fuerza,\n<b>   SI             MI</b>\npresencia de vida y amor.\n\n\nSe hace peregrino\ny se acerca a nuestro hogar;\nsu mesa es cena,\nes senda de fraternidad.\n\n\nCantemos el misterio,\nsacramento del Señor;\nmanjar del cielo,\nsagrario, morada de Dios.",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Cuaresma29",
+      "title": "El Señor es mi pastor",
+      "category": "CUARESMA - PASCUA",
+      "lyrics": "IV Domingo de Pascua\n\n\n<b>DO               SOL        lam</b>\n<b>El Señor es mi pastor nada me falta</b>\n<b>      FA   rem   SOL</b>\n<b>El Señor es mi pastor.</b>\n<b>    DO           SOL        lam</b>\n<b>El Señor es mi pastor nada me falta</b>\n<b>   FA      SOL     DO</b>\n<b>El Señor es mi pastor.</b>\n\n\n<b>     DO</b>\nEn praderas reposa mi alma,\n<b>     lam             mim</b>\nen su agua descansa mi sed.\n<b>       FA             mim</b>\nEl me guía por senderos justos\n<b>     rem               SOL</b>\npor amor, por amor de su nombre.\n\n\nAunque pase por valles oscuros\nningún mal, ningún mal temeré\nporque sé que el Señor va conmigo\nsu cayado sostiene mi fe.\n\n\nTu preparas por mí una mesa\nfrente a aquellos que buscan mi mal.\nCon aceite me ungiste, Señor\ny mi copa rebosa de ti.\n\n\nGloria a Dios, padre omnipotente\ny a su hijo Jesús, el Señor\ny al Espíritu que habita en el mundo\npor los siglos eternos Amen.",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Cuaresma30",
+      "title": "Es el Señor",
+      "category": "CUARESMA - PASCUA",
+      "lyrics": "III Domingo de Pascua\n\n\n<b>SOL                  mim</b>\n<b>Es el Señor, está con nosotros,</b>\n<b>        DO                RE7</b>\n<b>canta su Iglesia el gozo pascual.</b>\n<b>         SOL            mim</b>\n<b>Nuestra alegría, está en el altar,</b>\n<b>          DO   RE7             SOL</b>\n<b>Jesús nos invita, nos reparte su Pan.</b>\n\n\n<b>    mim        SI7</b>\nRegresaban desalentados;\n<b>        mim              SI7</b>\nJesús a su lado siguió el caminar;\n<b>         mim            RE     DO</b>\nla tarde caía, su voz encendía el corazón\n<b>          RE7             SOL  RE7</b>\nque le reconoció, al partirles el Pan.\n\n\nEn el sepulcro buscaba y lloraba\npor el anhelo de su Señor.\nPor hortelano lo confundió, escuchó su nombre,\nera el Maestro y a sus pies se abrazó.\n\n\nAmanecía, las redes vacías\ny Él desde la orilla les vino a ayudar:\n\"A su derecha intenten pescar\", obró su Palabra,\nhubo peces y pan, y alimento pascual.",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Cuaresma31",
+      "title": "Hemos visto al Señor",
+      "category": "CUARESMA - PASCUA",
+      "lyrics": "II Domingo de Pascua\n\n\n<b>SOL    RE         mim</b>\nLa paz esté con ustedes\n<b>         DO            lam             RE</b>\ncomo el Padre me ha enviado, así, los envío yo.\n<b>   SOL RE            mim</b>\nReciban al Espíritu Santo\n<b>   DO                 lam         RE</b>\na ustedes entrego el regalo, de perdonar\n\n\n<b>                 SOL RE              mim</b>\n<b>Hemos visto al Señor, hemos visto al Señor</b>\n<b>DO                 lam                 RE</b>\n<b>entre nosotros ha estado y la paz nos deseó</b>\n<b>                SOL RE               mim</b>\n<b>hemos visto al Señor, hemos visto al Señor</b>\n<b>DO                     lam                 RE</b>\n<b>como el Padre lo ha enviado él también nos envió.</b> \n\n\nTomás no estaba con ellos\ncuando vino Jesús y su lado, se presentó\nsi no veo la señal de los clavos\ny no meto mi mano en la herida, no creeré.\n\n\nReunidos a puerta cerrada\nlos discípulos se encontraban, días después.\nTomás estaba con ellos\ncuando de pronto Jesús, se les presentó\n\n\n<b>  DO RE         sim mim</b>\nAquí, está mis manos\n<b>  DO              lam            RE</b>\nacerca tu dedo y tu mano, y no dude más\n<b>  DO RE     sim mim</b>\nSeñor y Dios mío\n<b>  DO                   lam                  RE</b>\nporque has visto tú crees, feliz, el que cree sin ver.",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Cuaresma32",
+      "title": "No queden tristes",
+      "category": "CUARESMA - PASCUA",
+      "lyrics": "<b>          SOL              DO</b>\n<b>/No queden tristes, aunque me voy,</b>\n<b>          RE         SOL</b>\n<b>aunque me voy yo volveré/</b>\n\n\n<b>         SOL7        DO</b>\nVoy a la casa de mi Padre\n<b>     LA7         RE</b>\na prepararles un lugar.\n\n\nVendrá mi Espíritu a ustedes\npara enseñarles la verdad.\n\n\nSerán testigos de mi amor\npor los confines de la tierra.\n\n\nAnunciarán la buena nueva\na cada pueblo de la tierra.\n\n\nCuando los hombres los persigan\nno tengan miedo, confíen.\n\n\nYo estaré siempre con ustedes\nacompañando hasta el final",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Cuaresma33",
+      "title": "Oh Jesús el buen pastor",
+      "category": "CUARESMA - PASCUA",
+      "lyrics": "IV Domingo de Pascua\n\n\n<b>RE                    LA7           RE</b>\n<b>¿Oh Jesús el Buen Pastor!, dueño de mi vida,</b>\n<b>                     LA7         RE</b>\n<b>Ven a mí con santo amor, Dulce Redentor.</b>\n\n\n<b>LA7         RE    LA7</b>\nEres dueño tierno, Tú, el Buen Pastor;\n<b>LA7         RE   LA7</b>\nEres Verbo eterno, Nuestro Salvador.\n\n\nCon amor te imploro, Dios de majestad,\nY en silencio adoro tu Divinidad.\n\n\nYo en ti espero aumentar mi fe;\nCon amor sincero te recibiré.\n\n\n¿Oh Jesús de mi alma!, fuente de dulzor,\nQuiero en santa calma meditar tu amor.\n\n\n¿Oh divino Amante!, venme a visitar;\nVen en este instante mi alma a consolar.\n\n\nHijo ingrato he sido, dulce Redentor;\nMas, ya arrepentido, heme aquí, Señor.",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Cuaresma34",
+      "title": "Para poder seguirte",
+      "category": "CUARESMA - PASCUA",
+      "lyrics": "III Domingo de Pascua\n\n\n<b>RE        LA7   RE   fa#m  sim     mim  LA7</b>\n<b>/Para poder seguirte, comeremos tu pan</b>\n<b>RE     RE7   SOL     RE     LA7     RE</b>\n<b>tu eres el camino, la vida y la verdad/</b>\n\n\n<b>   RE      </b>\nEl mundo está lleno de confusión\n<b>    sim             mim</b>\ny el rio se lleva el amor\n<b>  LA7              fa#m      sim</b>\nlos hombres levantan su grito al sol\n<b>    mim     LA7        RE</b>\nDios sea nuestra salvación\n<b>     mim     LA7     fa#m    sim</b>\nlos hombres levantan su grito al sol\n<b>     mim    LA         RE</b>\nDios sea nuestra salvación\n\n\nEs tan egoísta nuestro interés\nque sobran todos los demás\ntu en cambio recoges nuestro dolor\ny lo llevas hasta el final\ntu en cambio recoges nuestro dolor\ny lo llevas hasta el final\n\n\nTu entrega es un canto a la libertad\ntu amor es anuncio del bien\ntu fruto germina en la humanidad\ntu voz nos llama sin cesar\ntu fruto germina en la humanidad\ntu voz nos llama sin cesar",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Cuaresma35",
+      "title": "Somos Testigos",
+      "category": "CUARESMA - PASCUA",
+      "lyrics": "I Domingo de Pascua\n\n\n<b>SOL         RE     mim                 DO</b>\nEl Señor resucitó venciendo la muerte en la cruz,\n<b> SI                  mim  FA               RE</b>\nnuestra esperanza está en él, él es nuestro salvador\n<b>  SOL         RE      mim           DO</b>\nAtrás quedó el temor, la duda y la poca fe\n<b> SI          mim     FA            RE</b>\nhagamos ya realidad un reino nuevo de amor.\n\n           \n<b> SOL    RE      SI       mim</b>\n<b>Somos testigos de la resurrección</b>\n<b>DO       SOL   FA         DO              RE  SI</b>\n<b>Él está aquí, está presente es vida y es verdad</b>\n<b> SOL   RE       SI       mim</b>\n<b>Somos testigos de la resurrección</b>\n<b>DO       SOL      FA        DO        RE</b>\n<b>Él está aquí su espíritu nos mueve para amar.</b>\n\n\nTú nos reúne Señor en torno al cáliz y al pan\ny nos invitas a ser la luz del mundo y la sal\nDonde haya odio y dolor haremos presente tu paz \nen cada gesto de amor María madre estará",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Cuaresma36",
+      "title": "Nos has llamado al desierto",
+      "category": "CUARESMA - PASCUA",
+      "lyrics": "<b>mim                       lam            mim</b>\n<b>Nos has llamado al desierto Señor de la libertad,</b>\n<b>FA                  mim       lam            SI7</b>\n<b>y está el corazón abierto, a la luz de tu verdad.</b>\n<b>mim                       lam   RE7    SOL</b>\n<b>subimos con esperanza, la escalada cuaresmal,</b>\n<b>FA                 mim FA#      SI7       mim</b>\n<b>el pueblo de Dios avanza hasta la cumbre pascual.</b>\n\n\n<b>mim</b>\nTu pueblo, Señor camina, desde la aurora al ocaso:\n<b>      SOL                     RE          mim</b>\na tu pascua se encamina, y te sigue paso a paso.\n\n\nSeñor te reconocemos, y tu palabra escuchamos\ntus caminos seguiremos y tu ley.... de amor cantamos.",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Cuaresma37",
+      "title": "Padre recibe",
+      "category": "CUARESMA - PASCUA",
+      "lyrics": "<b>rem          solm  DO               FA</b>\nPadre te presentamos este pan ante tu altar,\n<b>rem             solm     LA#                 LA7</b>\nse convertirá en cuerpo de Cristo, alimento cuaresmal.\n<b>rem        solm  DO                FA</b>\nPadre te ofrecemos en el tiempo cuaresmal,\n<b>rem                 solm  LA#                    LA7</b>\nnuestras vidas, la alegría, nuestro esfuerzo al caminar.\n\n\n<b>FA RE7  solm  DO       FA  RE7              solm</b>\n<b>Padre recibe, Padre recibe, este vino y este pan,</b>\n<b>DO                   FA  LA                      rem</b>\n<b>por tu amor transfórmalos, en cuerpo y sangre del Señor.</b>\n\n\nPadre te presentamos este vino ante tu altar,\nse convertirá en sangre de Cristo, el Cordero pascual.\nPadre te ofrecemos, la tristeza y el dolor,\ntransfórmalos en gran gozo, en este camino cuaresmal.",
       "has_chords": true,
       "isFavorite": false,
       "customNote": "",
@@ -2042,6 +2632,236 @@
       "videoUrl": ""
     },
     {
+      "id": "Maria31",
+      "title": "Auxiliadora y Madre",
+      "category": "MARÍA",
+      "lyrics": "<b>mim           SOL    DO  RE  SOL</b>\n<b>Auxiliadora y Madre, Virgen María,</b>\n<b>lam             mim   RE      mim</b>\n<b>mientras busco la senda eres mi guía.</b> \n\n\n<b> mim                           SOL</b>\nEn tu templo ya mi historia comenzó,\n<b>        DO           RE       SOL</b>\nque eres Madre yo lo supe desde niño;\n<b>      lam         mim</b>\nme enseñaste, Auxiliadora,\n<b>     lam         mim</b>\nque la fe y la esperanza\n<b>     DO          SI7</b>\ny el amor nos dan la vida.\n\n\nEn mis ojos tu mirada se prendió\ny aprendí a descubrir en cada niño,\nen el rostro de aquel pobre,\nen la mano del mendigo,\ntu dolor y el de tu Hijo.\n\n\nEn tus manos yo mi vida entregué,\ntu presencia es lo que siempre yo anhelo;\npor la vida voy sembrando,\npor la vida voy cantando\nporque eres mi consuelo.",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Maria32",
+      "title": "Ave de Fátima",
+      "category": "MARÍA",
+      "lyrics": "<b>SOL                        RE</b>\nEl trece de mayo, la Virgen María\n<b>DO         SOL     RE      SOL</b>\nbajó de los cielos a Cova de Iría\n\n\n<b>SOL             RE    DO   SOL  RE    SOL</b>\n<b>Ave, ave, ave, Maria, Ave, ave, ave, Maria</b>\n\n\nA tres pastorcitos, la Madre de Dios\ndescubre el misterio de su corazón\n\n\nHaced penitencia, haced oración\npor los pecadores, implorad perdón.\n\n\nEl Santo Rosario, constantes rezad\ny la paz del mundo el Señor dará.",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Maria33",
+      "title": "Ave dichosa María",
+      "category": "MARÍA",
+      "lyrics": "<b>SOL                         RE7        SOL</b>\n<b>Despierten los corazones para alabar a María</b>\n<b>RE7               lam   RE7              SOL</b>\n<b>/Que ya viene la Aurora dando principio al día/</b>\n\n\n<b>SOL                 RE7                SOL</b>\nAve dichosa María del cielo, puerta y camino\n<b>RE7            lam     RE7              SOL</b>\nAurora del sol Divino, luz y claridad del día.\n\n\nNaciste tan pura y limpia oh buen diamante más fino\npara ser Madre del Verbo Aurora del sol divino.\n\n\nBajo el ángel San Gabriel lleno de luz y alegría\nal saludar tu pureza Ave Dichosa María.\n\n\nA la Madre de Jesús El Padre eterno la bendijo\npara que seas para todos del cielo, puerta y camino.",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Maria34",
+      "title": "Ave María (Schubert)",
+      "category": "MARÍA",
+      "lyrics": "<b>intro: SOL  mim  lam  RE</b>\n\n<b>SOL mim   SOL RE7 mim</b>\n<b>A v e      M a r í a</b>\n<b> lam      RE7        SOL</b>\n<b>Madre de amor y de bondad</b>\n<b> mim                FA#7</b>\n<b>alumbra mi alma, sé mi guía</b>\n<b>lam    SI7        mim</b>\n<b>Madre mía, de mi ten piedad.</b>\n\n\n<b>   RE      MI7             RE</b>\nSolo tu podrás mis pesares calmar\n<b>LA7          RE</b>\nmis pesares calmar\n\n<b>lam         RE7           SOL</b>\nAmarte, oh, madre, es mi consuelo\n<b>RE     SI7             mim</b>\namarte siempre y cada vez mas\n<b>RE       SI7        DO</b>\noh, madre mía, en el cielo\n<b> lam   LA7           RE</b>\nalguna vez te quisiera mirar.",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Maria35",
+      "title": "Bendita eres tú, María",
+      "category": "MARÍA",
+      "lyrics": "<b>lam         SOL    lam</b>\nBendita eres tú, María,\n<b>                SOL     lam</b>\nentre todas las mujeres, María.\n<b>               SOL  lam</b>\nBendito es tu fruto, María,\n<b>               SOL   lam</b>\nel fruto de tu seno, Jesús.\n<b> FA            MI</b>\nMaría, tú has creído.\n\n\n<b>lam                                        SOL</b>\n<b>/Y cómo es que la madre del Señor viene a mí,</b>\n<b>        lam</b>\n<b>viene a mí/</b>\n\n         \n<b>lam                    mim</b>\nPorque apenas he sentido tu voz,\n<b>rem                      mim</b>\nalgo se ha movido dentro de mí.\n<b> rem                   mim</b>\nEl niño ha exultado de gozo.\n\n\n<b>lam       FA</b>\n<b>/María, bendita María,</b>\n<b>                                MI</b>\n<b>tú has creído la palabra del Señor/</b>",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Maria36",
+      "title": "Bendita sea tu pureza",
+      "category": "MARÍA",
+      "lyrics": "<b>SOL             RE7    mim        sim</b>\nBendita sea tu pureza y eternamente lo sea\n<b> DO                   SOL   lam           RE</b>\npues todo un Dios se recrea, en tan graciosa belleza.\n\n\nA ti celestial princesa, virgen sagrada María\nyo te ofrezco en este día, alma vida y corazón.\n\n\n<b>SOL    RE7  mim   sim</b>\n<b>/Ave María, Ave María</b>\n<b>DO             SOL      lam            RE  RE7</b>\n<b>Madre mía, Madre nuestra, Madre del Salvador/</b>\n\n\nMírame con compasión, no me dejes, madre mía;\nen la hora de mi agonía se mi amparo y protección.",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Maria37",
+      "title": "Corazón Inmaculado de María",
+      "category": "MARÍA",
+      "lyrics": "<b>SOL          RE               SOL</b>\nSu amor es tan grande que no tiene fin\n<b>          RE              SOL</b>\nsu alma muy blanca su boca un carmín\n<b>       DO    RE       SOL</b>\ny ese refugio de su corazón,\n<b>mim        lam  RE               SOL</b>\ninmenso y sincero, es mi jardín de ilusión.\n\n\n<b>    RE               SOL</b>\n<b>Corazón, Corazón inmaculado</b>\n<b>    RE               SOL</b>\n<b>Corazón, Corazón de María</b>\n<b>     DO       RE       SOL      mim</b>\n<b>/Corazón inmaculado de María madre mía</b>\n<b>  lam       RE         SOL</b>\n<b>a ti consagro hoy toda mi vida/</b>\n\n\nElla es mi consuelo, mi fuente de paz\nmi fiel compañera, no me abandona jamás.\ny ese refugio de su corazón, \ninmenso y sincero, es mi jardín de ilusión.",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Maria38",
+      "title": "Dios te salve María (Ave María)",
+      "category": "MARÍA",
+      "lyrics": "<b>DO            SOL   FA            SOL</b>\nDios te salve María, llena eres de gracia\n<b>DO            SOL   FA       SOL</b>\nel Señor es contigo, bendita tú eres\n<b>DO              SOL       FA       rem          SOL</b>\nentre todas las mujeres y bendito es el fruto de tu vientre\n<b>   DO         SOL   FA   rem      SOL</b>\ny bendito es el fruto de tu vientre Jesús\n\n\n<b>DO    SOL FA     SOL  DO  SOL  FA  DO SOL DO</b>\n<b>Ave María, Ave María, Ave María, Ave María</b>\n\n\nSanta María, Madre de Dios, ruega por nosotros los pecadores\n/Ahora y en la hora de nuestra muerte amen/",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": "https://music.youtube.com/watch?v=WfiHGozFFOw&si=81PVgQgSiTEtH0zE"
+    },
+    {
+      "id": "Maria39",
+      "title": "Dios te salve María (Oración)",
+      "category": "MARÍA",
+      "lyrics": "<b>lam          rem   MI         lam</b>\nDios te salve María, llena eres de gracia\n<b>LA7            rem    SOL       DO</b>\nEl Señor es contigo, bendita tú eres\n<b>rem    MI        lam      FA       MI</b>\nentre todas las mujeres y bendito es el fruto\n<b>MI7           lam</b>\nde tu vientre Jesús\n\n\n<b>    FA    SOL    lam      SOL</b>\n<b>/Santa María, Madre de Dios,</b>\n<b>       DO      rem      MI</b>\n<b>ruega por nosotros los pecadores/</b>\n\n<b>rem            lam   SOL      MI    lam</b>\n<b>/Ahora y en la hora de nuestra muerte amen/</b>",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Maria40",
+      "title": "La Guadalupana",
+      "category": "MARÍA",
+      "lyrics": "<b>SOL                           SOL7</b>\n<b>/Desde el cielo una hermosa mañana/</b>\n<b>         DO            SOL</b>\n<b>/La Guadalupana, la Guadalupana</b>\n<b>        RE7              SOL SOL7</b>\n<b>la Guadalupana bajo al Tepeyac/</b>\n\n\n/A Juan Diego le dijo la Virgen/\n/Un santuario quiero, un santuario quiero\nun santuario quiero en este lugar/\n\n\n/Ella misma entre rosas pintada/\nSu imagen grabara, su imagen grabara\nsu imagen grabara un himno de paz\n\n\n/Su llegada llenó de alegría/\nDe luz y armonía, de luz y armonía,\nde luz y armonía y de libertad.",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Maria41",
+      "title": "Madre de los Apóstoles",
+      "category": "MARÍA",
+      "lyrics": "<b>lam            FA          SOL             lam</b>\n<b>/Madre de los apóstoles protégenos, santifícanos/</b>\n\n\n<b>DO                rem        SOL  MI7      lam</b>\nTodo se dio en Jerusalén dijiste sí, Oh Virgen Fiel.\n<b>DO                  rem        FA    MI7    lam</b>\nSe hizo en Ti la voluntad de quien venía para salvar.\n\n\nEn el hogar de Nazaret criaste al niño junto a José.\nHoy lo sostienes y lo das como Camino, Vida y Verdad.\n\n\nBajo la cruz estas de píe, nos adoptaste mujer de fe.\nEres Tú guía al caminar hacia la meta que tanto amas.",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Maria42",
+      "title": "María Auxiliadora",
+      "category": "MARÍA",
+      "lyrics": "<b>DO               mim  rem                  SOL</b>\nComo quisiera agradecerte todo el amor que tú me das\n<b>DO                mim</b>\nOh Madre mía tú eres mi alivio\n<b>rem                       SOL</b>\nSé que por Madre tú me entiendes\n<b>FA              mim</b>\nSi yo pudiera abrazarte ahora\n<b>rem             SOL</b>\ny reponer toda mi paz\n<b>FA                mim</b>\nOh Madre mía tú eres mi consuelo\n<b>rem              SOL       SOL7</b>\nY me perdonas todo lo que he sido.\n\n<b>   DO      SOL    FA           SOL</b>\n<b>///María, María, María, Auxiliadora///</b>\n\n\nOh Madre Mía por ser Santa y buena\nDéjame que cante gratitud\nOh Madre Mía di por siempre que nunca me vas a dejar\nSi yo pudiera abrazarte ahora y reponer todo mí\nOh Madre mía tu eres mi consuelo\nY me perdonas todo lo que he sido.",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Maria43",
+      "title": "María del amor",
+      "category": "MARÍA",
+      "lyrics": "<b>mim                 lam</b>\nEra tan hermosa la doncella,\n<b> RE          RE7       SOL SI7</b>\nque robó a su Dios el corazón;\n<b>mim               lam</b>\nElla cumpliría la promesa,\n<b>RE         RE7         SOL  MI7</b>\nElla nos traería al Salvador.\n\n\n<b>  lam       RE   SOL       mim</b>\n<b>/María del amor, María del Señor;</b>\n<b> lam       SI7          mim</b>\n<b>María del dolor y la esperanza/</b>\n\n\nTodo el universo hizo silencio,\nesperando oír su dulce voz;\ntodo un plan tejido desde siglos,\nsolo dependía de su amor.\n\n\n<b>/María dijo Sí al ángel del Señor</b>\n<b>y al punto concibió a la Palabra/</b>\n\n\nEra del Señor, la humilde sierva\nsierva que traería al Salvador;\nera tan hermosa la doncella,\ntenía tanto amor su corazón.\n\n\n<b>/Que a Dios enamoró y en Ella se fijó;</b>\n<b>llevando hasta su seno el Gran Misterio/</b>",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Maria44",
+      "title": "Oh madre mía",
+      "category": "MARÍA",
+      "lyrics": "<b>MI        LA                MI</b>\n<b>Oh Madre mía, que estás en cielo,</b>\n<b>        fa#m  SI7       MI</b>\n<b>Envía consuelo a mi corazón.</b>\n<b>MI            LA              MI</b>\n<b>/Y cuando, triste, llorando te llame,</b>\n<b>        fa#m  SI7         MI</b>\n<b>Tu mano derrame feliz bendición/</b>\n\n\n<b>                        SI7</b>\nLuna bella de eternos fulgores,\n<b>                           MI   MI7</b>\nManojo de flores de aroma inmortal.\n<b>      LA               MI</b>\n/Embálsame mi pecho doliente\n<b>             SI7</b>\nY alumbra mi mente y alumbra mi mente\n<b>            MI  MI7</b>\nTu luz celestial/\n\n\nMientras dure en el mundo mi vida\ntu madre querida mi vida serás\n/y olvidando del mundo las glorias\ntus dulces memorias\ntus dulces memorias querré nada mas/",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Maria45",
+      "title": "Oh María Madre Mía",
+      "category": "MARÍA",
+      "lyrics": "<b>SOL            RE       SOL7         RE</b>\n<b>Oh María, madre mía, oh consuelo del mortal,</b>\n<b>     SOL      RE       DO     RE7     SOL</b>\n<b>/amparadme y guiadme a la patria celestial/</b>\n\n\n<b>SOL             RE        RE7         SOL</b>\nCon el ángel de María las grandezas celebrad;\n<b>      SOL      RE         DO     RE7    SOL</b>\n/transportados de alegría sus finezas publicad/\n\n\nQuien a ti ferviente clama halla alivio en el pesar;\n/pues tu nombre luz derrama, gozo y bálsamo sin par/ \n\n\nDe sus gracias tesorera la nombró tu Redentor;\n/con tal Madre y medianera, nada temas, pecador/",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Maria46",
+      "title": "Oh Virgen Sacrosanta",
+      "category": "MARÍA",
+      "lyrics": "<b>mim</b>\n<b>¡Oh Virgen Sacrosanta</b>\n<b>   SI7</b>\n<b>la más pura y hermosa!</b>\n<b>   SOL</b>\n<b>/Tu Concepción dichosa</b>\n<b>  SI7        mim</b>\n<b>mi voz ensalzará/</b>\n\n\n<b>mim</b>\n¡Oh cándida azucena,\n<b>   SI7</b> \nbellísima y fragante,\n<b>   SOL</b>\n/desde el primer instante\n<b> SI7      mim</b>\núnica pura flor/\n\n\n¡Oh luz esplendorosa!\nsolaz de los mortales\nremedio de los males\ndel afligido Adán.\n\n\nCondúceme, benigna\nde tu piadosa mano\nal gozo soberanos,\na la mansión feliz.",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Maria47",
+      "title": "Reina del cielo, alégrate",
+      "category": "MARÍA",
+      "lyrics": "<b>SOL             DO  SOL      RE    RE7</b>\n<b>Reina del cielo, alégrate, alelu - ya,</b>\n<b>SOL                     DO   SOL     RE  RE7</b>\n<b>porque el señor a quien elegiste llevar, aleluya,</b>\n<b>SOL         DO     SOL  lam    SI7</b>\n<b>resucitó según su palabra, aleluya.</b>\n<b>lam                 SOL   DO  SOL</b>\n<b>ruega al señor por nosotros, aleluya.</b>",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Maria48",
+      "title": "Rosa Mística",
+      "category": "MARÍA",
+      "lyrics": "<b>RE                               mim</b>\nHay en cielo un jardín un jardín de rosas\n<b>                             LA7       RE</b>\nde inigualable esplendor, son las más hermosas,\n<b>                  RE7                 SOL</b>\nellas brotaron de ti y en tu pecho se anidan\n<b>               RE           LA7    RE  RE7</b>\npues ese hermoso jardín es tu corazón María\n<b> SOL              RE         LA7      RE</b>\ndulce fragancia de amor, es tu alma Madre mía.\n\n\n<b>RE       LA7              RE</b>\n<b>Mística Rosa, flor de mi amor</b>\n<b>RE       LA7         RE</b>\n<b>Mística Rosa, tu corazón</b>\n<b>RE7          SOL         RE</b>\n<b>/Hoy te consagro toda mi vida</b>\n<b>          LA7            RE</b>\n<b>Madre del cielo, virgen María/</b>\n\n\nA tu vergel celestial, oh señora mía\nvengo con gran emoción que precioso día\nal contemplar tu belleza, al percibir tu hermosura\ntodo mi ser se estremece madre bella, virgen pura\ndulce fragancia de amor, es tu alma madre mía.",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Maria49",
+      "title": "Salve, salve, salve Madre Dolorosa",
+      "category": "MARÍA",
+      "lyrics": "<b>SOL               RE         SOL</b>\nDel mundo Señora del cielo esplendor\n<b>SOL               RE      SOL  SOL7</b>\nOye de tus hijos acentos de amor\n\n\n<b>DO         SOL</b>\n<b>/Salve, Salve,</b>\n<b>   RE        SOL   SOL7</b>\n<b>Salve Madre Dolorosa/</b>\n\n\nTus cándidos ojos hicieron latir\nnuestros corazones en ansias de ti.\n\n\nOh Reina del cielo encanto de Dios,\nde nuestra pureza conserva la flor.",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Maria50",
+      "title": "Santa María de la Esperanza",
+      "category": "MARÍA",
+      "lyrics": "<b>lam      rem            lam</b>\n<b>Santa María, de la Esperanza</b>\n<b>         MI7                lam</b>\n<b>mantén el ritmo de nuestra espera,</b>\n<b>        FA    MI7           lam</b>\n<b>mantén el ritmo de nuestra espera.</b>\n\n\n<b> lam</b>\nNos diste al esperado de los tiempos,\n<b>    rem               lam</b>\nmil veces prometido a los profetas.\n<b>   MI7               lam</b>\nY nosotros de nuevo deseamos\n<b>    MI7                    lam</b>\nque vuelva a repetirnos sus promesas.\n\n\nBrillaste como aurora del gran día,\nplantaba Dios su tienda en nuestro suelo.\nY nosotros soñamos con su vuelta,\nqueremos la llegada de su reino.",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Maria51",
+      "title": "Señora de los Ángeles",
+      "category": "MARÍA",
+      "lyrics": "<b>mim          MI7   lam           mim</b>\nHoy quiero cantarte, Señora de los Ángeles\n<b>lam      mim   SI      SI7</b>\nReina soberana, Madre celestial,\n<b>mim          MI7    lam              mim</b>\nyo soy una alondra que ha puesto en Ti su nido\n<b>lam         mim      SI      mim</b>\nviendo tu hermosura te deja su cantar.\n\n\n<b>SOL            DO         RE     SOL</b>\n<b>Luz de la mañana, María, templo y cuna</b>\n<b>SI7         mim      LA     DO    SI7</b>\n<b>mar de toda gracia, fuego, nieve y flor,</b>\n<b>SOL                  DO           SI7</b>\n<b>puerta siempre abierta, rosa sin espinas</b>\n<b>lam          mim    DO    SI7   mim</b>\n<b>yo te doy mi vida, soy tu trovador.</b>\n\n\nSalve surco abierto donde Dios se siembra\nte eligió por Madre, Cristo el Redentor,\nsalve esclava y Reina, Virgen Nazarena\ncasa, paz, y abrazo para el pecador.",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Maria52",
+      "title": "Ven y Reina, Madre de Dios",
+      "category": "MARÍA",
+      "lyrics": "<b>MI          SI7    do#m           LA</b>\nMadre de Misericordia, Madre del Salvador\n<b>fa#m               MI   LA        fa#m      SI7</b>\nAuxilio de los cristianos, ruega por nosotros a Dios\n\n<b>MI             SI7   do#m        LA</b>\nVirgen fiel y prudente, Reina de la paz,\n<b>fa#m          MI    LA         fa#m    SI7</b>\nSanta Madre de Cristo, que hagamos su voluntad.\n\n\n<b>      MI           SI7         fa#m            do#m</b>\n<b>Ven y Reina Madre de Dios, Reina y Madre de la creación</b>\n<b>      LA               MI        RE          SI7</b>\n<b>Ven y reina en nuestro corazón, para que reine el Señor.</b>\n<b>      MI           SI7          fa#m            do#m</b>\n<b>Ven y reina Madre de Dios, reina y Madre de la creación.</b>\n<b>      LA               MI        RE         SI7      MI</b>\n<b>Ven y reina en nuestro corazón, para que reine Jesús.  El Señor.</b>\n\n\nMadre del buen consejo, ideal de santidad,\nReina del Santo Rosario, enséñanos a rezar.\n\nMadre Inmaculada, Madre del Creador.\nReina asunta a los cielos, llévanos contigo a Dios.",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Maria53",
+      "title": "Virgen del Carmen, mi Reina",
+      "category": "MARÍA",
+      "lyrics": "<b>mim                     DO</b>\n<b>Virgen del Carmen mi reina,</b>\n<b>        SI7            mim</b>\n<b>Santa María, Madre de Dios</b>\n<b>                        RE</b>\n<b>Virgen del Carmen mi reina,</b>\n<b>         DO          SI7</b>\n<b>Santa María, Madre de Dios</b>\n<b>lam                    mim</b>\n<b>Virgen del Carmen mi reina,</b>\n<b>         SI          mim</b>\n<b>Santa María, Madre de Dios.</b>\n\n\n<b>      RE            SOL</b>          \nA tus pies vengo a rendirme\n<b>RE               SOL</b>\na aclamarte por mi país,\n<b>  lam                    mim</b>\n/por el alma de los que te ignoran\n<b>      SI            mim</b>\ny no aman a tu hijo Jesús/\n\n\nHoy quiero virgencita cantarte \ny amarte cómo me amas tú \ny decirte que quiero Imitarte \ny de tu mano seguir a Jesús.\n\n\nEres la madre más bella \nluz fecunda de amor,\nrefugio de los pecadores, \nescudo de salvación.",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
       "id": "Ofertorio0",
       "title": "Al altar del Señor",
       "category": "OFERTORIO",
@@ -2083,9 +2903,9 @@
     },
     {
       "id": "Ofertorio4",
-      "title": "Fiesta del banquete",
+      "title": "Categoría: OFERTORIO",
       "category": "OFERTORIO",
-      "lyrics": "<b>rem                   FA         rem</b>\n<b>/Fiesta del banquete, mesa del Señor</b>\n<b>FA            rem   LA7             rem</b>\n<b>pan de Eucaristía, sangre de Redención/.</b>\n\n\n<b>         FA          DO     FA</b>\nEste pan que nos das por manjar,\n<b>rem      FA          LA7         rem</b>\nes el Pan de Unidad y de fraternidad.\n\n\nHacia Ti, vamos hoy a tu altar,\nTú nos das el valor en nuestro caminar.\n\n\nEscuché hoy la voz de mi Dios,\nconocí al Señor en la fracción del Pan.",
+      "lyrics": "",
       "has_chords": true,
       "isFavorite": false,
       "customNote": "",
@@ -2196,6 +3016,16 @@
       "title": "Tómalo, acéptalo",
       "category": "OFERTORIO",
       "lyrics": "<b>RE    LA</b>\nHoy Señor\n<b>SOL      LA           RE            LA</b>\n  Venimos a ofrecerte este humilde pan\n<b>SOL            LA         RE          LA</b>\n  que es fruto de trabajo de la humanidad\n<b>SOL            LA          RE LA SOL</b>\n  que es signo de fraternidaaaaaaaad\n<b>        LA           RE RE7</b>\nfe, esperanza y caridad.\n\n\n<b>SOL    LA fa#m    sim</b>\n<b>   Tómalo,  acéptalo</b>\n<b>SOL      LA           RE  RE7</b>\n<b>   por amor transfórmalo.</b>\n<b>SOL       LA  fa#m   sim</b>\n<b>   En el cuerpo de Jesús</b>\n<b>SOL        LA     RE  SOL        LA     RE</b>\n<b>   bendito seas Señor,   bendito seas Señor.</b>\n\n\nHoy Señor\nvenimos a ofrecerte el vino que nos das\npara que lo recibas en tu santo altar\nque es signo de fraternidad\nfe, esperanza y caridad.",
+      "has_chords": true,
+      "isFavorite": false,
+      "customNote": "",
+      "videoUrl": ""
+    },
+    {
+      "id": "Ofertorio16",
+      "title": "Vino y pan en oblación",
+      "category": "OFERTORIO",
+      "lyrics": "<b>lam    rem  lam     SOL</b>\nVino y pan, en oblación\n<b>DO        FA rem  LA#   SOL SOL7</b>\nEsperan el milagro del Señor.\n\n\n<b>DO          mim      FA             DO SOL</b>\nVe nuestra ofrenda, sobre tu santo altar.\n<b> SOL#      RE#    DO#    DO      SOL</b>\nEra en los campos, dulce vid y trigal\n\n\n<b>lam  rem  lam       SOL</b>\nPero tú, por tu bondad\n<b>DO           FA     rem  LA#     SOL  SOL7</b>\nTransformas nuestra ofrenda en ti Señor.\n\n\n<b>DO       mim    FA         DO  SOL</b>\nToma   mi vida y también cambiará,\n<b>SOL#     RE# DO#     DO       SOL  SOL7   DO</b>\nllena mi alma de tu gracia y tu paz.    Amén.",
       "has_chords": true,
       "isFavorite": false,
       "customNote": "",
