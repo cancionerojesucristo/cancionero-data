@@ -1,5 +1,5 @@
 {
-  "version": "20260306165048",
+  "version": "20260308122627",
   "songs": [
     {
       "id": "Navidad0",
@@ -2215,7 +2215,7 @@
       "id": "Gloria3",
       "title": "Gloria a Dios en el cielo",
       "category": "GLORIA E INTERLECCIONAL",
-      "lyrics": "<b>RE7      SOL        DO  RE</b>\n<b>Gloria a Dios en el cielo,</b>\n<b>         mim    DO   lam   RE SOL</b>\n<b>y en la tierra paz a los hombres.</b>\n\n\n<b>         DO     SOL        lam RE</b>\nGloria a Ti, oh Padre Omnipotente,\n<b>mim        RE  RE7</b>\nRey Celestial.\n\n\nGloria a Ti, Oh Hijo del Eterno,\nDios Redentor.\n\n\nGloria a Ti, Espíritu divino\nque eres Amor.",
+      "lyrics": "<b>         SOL        DO  RE</b>\n<b>Gloria a Dios en el cielo,</b>\n<b>                DO       RE  SOL</b>\n<b>y en la tierra paz a los hombres.</b>\n\n\n<b>         mim                SOL</b>\nGloria a Ti, oh Padre Omnipotente,\n<b>DO         RE </b>\nRey Celestial.\n\n\nGloria a Ti, Oh Hijo del Eterno,\nDios Redentor.\n\n\nGloria a Ti, Espíritu divino\nque eres Amor.",
       "has_chords": true,
       "isFavorite": false,
       "customNote": "",
@@ -2225,7 +2225,7 @@
       "id": "Gloria4",
       "title": "Gloria Trinitario",
       "category": "GLORIA E INTERLECCIONAL",
-      "lyrics": "<b>mim              RE         mim</b>\n<b>//Gloria a Dios/, gloria al Padre/</b>\n<b>   RE SI7       mim</b>\n<b>/A Él le sea la gloria/</b>\n<b>         RE mim</b>\n<b>/Aleluya, amén/</b>\n<b>    SOL    RE mim  SOL  RE mim</b>\n<b>Aleluya, amén,   aleluya amén.</b>\n\n\n/Gloria a Dios/ gloria al Hijo. (bis)\n\n/Gloria a Dios/ Espíritu santo. (bis)",
+      "lyrics": "<b>mim              RE         mim</b>\n<b>//Gloria a Dios/, gloria al Padre/</b>\n<b>SOL  RE    SI7    mim</b>\n<b>/A   Él le sea la gloria/</b>\n<b>         RE mim</b>\n<b>/Aleluya, amén/</b>\n<b> SOL       RE mim  SOL  RE mim</b>\n<b>Aleluya, amén,   aleluya amén.</b>\n\n\n/Gloria a Dios/ gloria al Hijo. (bis)\n\n/Gloria a Dios/ Espíritu santo. (bis)",
       "has_chords": true,
       "isFavorite": false,
       "customNote": "",
