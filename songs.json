@@ -1,5 +1,5 @@
 {
-  "version": "20260308122627",
+  "version": "20260314114426",
   "songs": [
     {
       "id": "Navidad0",
@@ -2903,9 +2903,9 @@
     },
     {
       "id": "Ofertorio4",
-      "title": "Categoría: OFERTORIO",
+      "title": "Bendito seas por siempre",
       "category": "OFERTORIO",
-      "lyrics": "",
+      "lyrics": "<b>RE      LA7        RE</b>\n<b>Bendito seas por siempre</b>\n<b>   SOL         RE</b>\n<b>Bendito seas Señor</b>\n<b>SOL             RE</b>\n<b>Bendito seas por siempre</b>\n<b>   mim    LA7   RE</b>\n<b>Bendito seas Señor.</b>\n\n\n<b>RE               LA7</b>\nPor el pan y por el vino \n<b>SOL         LA7     RE</b>\nque nos das con tanto amor\n<b>SOL             RE</b>\n/y por habernos reunido, \n<b> mim    LA7   RE</b>\nbendito seas, Señor/\n\n\nPor aquellos que en el mundo hoy\nte ofrecen su dolor, \n/y por la ofrenda continua, \nbendito seas, Señor/",
       "has_chords": true,
       "isFavorite": false,
       "customNote": "",
